@@ -1,4 +1,5 @@
-import { ArrowRight, Check, Flower2 } from "lucide-react";
+import Image from "next/image";
+import { ArrowRight, Check } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
@@ -13,7 +14,7 @@ export function Gynecology() {
     <section className="bg-sand-bg py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
-          {/* Lado imagen / marco editorial */}
+          {/* Lado imagen real */}
           <Reveal>
             <div className="relative">
               {/* Marco decorativo desfasado */}
@@ -21,29 +22,15 @@ export function Gynecology() {
                 aria-hidden
                 className="pointer-events-none absolute -left-4 -top-4 h-full w-full rounded-3xl border border-teal/30"
               />
-              <div className="relative overflow-hidden rounded-3xl border border-blue-deep/10 bg-sand-alt shadow-xl shadow-blue-deep/10">
-                {/* Motivo de cruz médica */}
-                <div
-                  aria-hidden
-                  className="pointer-events-none absolute inset-0 text-teal/15 cross-pattern"
+              <div className="relative overflow-hidden rounded-3xl border border-blue-deep/10 shadow-xl shadow-blue-deep/10">
+                <Image
+                  src="/images/services/ginecologia.webp"
+                  alt={t("imageAlt")}
+                  width={800}
+                  height={640}
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  className="aspect-5/4 w-full object-cover"
                 />
-                <div className="relative flex flex-col items-start gap-6 p-10 sm:p-12">
-                  <span className="flex h-20 w-20 items-center justify-center rounded-2xl bg-teal text-white shadow-md">
-                    <Flower2 className="h-10 w-10" />
-                  </span>
-                  <ul className="space-y-4">
-                    {points.map((point) => (
-                      <li key={point} className="flex items-start gap-3">
-                        <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-teal-bg text-teal-deep">
-                          <Check className="h-4 w-4" />
-                        </span>
-                        <span className="text-base font-medium text-slate-dark">
-                          {point}
-                        </span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
               </div>
             </div>
           </Reveal>
@@ -58,6 +45,18 @@ export function Gynecology() {
               <p className="mt-6 max-w-lg font-sans text-lg leading-relaxed text-slate-primary">
                 {t("body")}
               </p>
+              <ul className="mt-8 space-y-4">
+                {points.map((point) => (
+                  <li key={point} className="flex items-start gap-3">
+                    <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-teal-bg text-teal-deep">
+                      <Check className="h-4 w-4" />
+                    </span>
+                    <span className="text-base font-medium text-slate-dark">
+                      {point}
+                    </span>
+                  </li>
+                ))}
+              </ul>
               <Link
                 href="/services/ginecologia"
                 className={cn(ctaButton({ variant: "primary", size: "lg" }), "mt-9")}

@@ -31,7 +31,7 @@
     "titleLead": "Atención médica",
     "titleHighlight": "100% en español",
     "titleTail": "para toda la familia",
-    "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
+    "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más bajo un mismo techo. Sin cita previa, con precios accesibles y sin necesidad de seguro. Tu salud y la de tu familia, en buenas manos.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
     "trustWalkIn": "Sin cita previa",
@@ -54,7 +54,8 @@
     "point1": "Papanicolaou y chequeo anual",
     "point2": "Planificación familiar y orientación",
     "point3": "Atención de infecciones y molestias",
-    "cta": "Conocer el servicio"
+    "cta": "Conocer el servicio",
+    "imageAlt": "Atención ginecológica en Clínica Hispana Nueva Salud Michoacana en Pasadena, TX"
   },
   "Testimonials": {
     "eyebrow": "Lo que dicen nuestros pacientes",
@@ -187,6 +188,7 @@
     "cond1d": "Detección temprana de la próstata",
     "cond2d": "Energía, ánimo y vitalidad",
     "cond3d": "Signos vitales y prevención",
-    "cond4d": "Evaluación y seguimiento"
+    "cond4d": "Evaluación y seguimiento",
+    "imageAlt": "Exámenes de salud del hombre en Clínica Hispana Nueva Salud Michoacana en Pasadena, TX"
   }
 }

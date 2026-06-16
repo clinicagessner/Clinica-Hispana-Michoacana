@@ -31,7 +31,7 @@
     "titleLead": "Healthcare",
     "titleHighlight": "100% in Spanish",
     "titleTail": "for the whole family",
-    "subtitle": "Family medicine, gynecology, urology, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
+    "subtitle": "Family medicine, gynecology, urology, lab work and more, all under one roof. Walk-ins welcome, affordable pricing and no insurance required. Your family’s health, in good hands.",
     "ctaCall": "Call the clinic",
     "ctaDirections": "Get directions",
     "trustWalkIn": "Walk-ins welcome",
@@ -54,7 +54,8 @@
     "point1": "Pap smear and annual checkup",
     "point2": "Family planning and guidance",
     "point3": "Care for infections and discomfort",
-    "cta": "See the service"
+    "cta": "See the service",
+    "imageAlt": "Gynecology care at Clínica Hispana Nueva Salud Michoacana in Pasadena, TX"
   },
   "Testimonials": {
     "eyebrow": "What our patients say",
@@ -187,6 +188,7 @@
     "cond1d": "Early prostate screening",
     "cond2d": "Energy, mood and vitality",
     "cond3d": "Vitals and prevention",
-    "cond4d": "Evaluation and follow-up"
+    "cond4d": "Evaluation and follow-up",
+    "imageAlt": "Men's health exams at Clínica Hispana Nueva Salud Michoacana in Pasadena, TX"
   }
 }

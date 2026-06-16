@@ -1,24 +1,23 @@
-import { Fraunces, Plus_Jakarta_Sans } from "next/font/google";
+import { Bricolage_Grotesque, DM_Sans } from "next/font/google";
 
-// Fraunces → titulares (variable --font-heading). Serif óptica, cálida y
-// confiable: da una identidad editorial distinta a la familia.
-export const fraunces = Fraunces({
+// Bricolage Grotesque → titulares (variable --font-bricolage). Grotesca
+// contemporánea con carácter: identidad moderna y cercana, distinta a una
+// serif editorial.
+export const bricolage = Bricolage_Grotesque({
   subsets: ["latin"],
   display: "swap",
-  variable: "--font-fraunces",
-  // Fuente variable: omitimos `weight` para cubrir todo el rango (400–900)
-  // y habilitamos los ejes ópticos para titulares con carácter editorial.
-  axes: ["opsz", "SOFT"],
+  variable: "--font-bricolage",
+  weight: ["400", "500", "600", "700", "800"],
 });
 
-// Plus Jakarta Sans → cuerpo (variable --font-sans). Humanista moderna,
-// muy legible y amable para una clínica.
-export const jakarta = Plus_Jakarta_Sans({
+// DM Sans → cuerpo (variable --font-dmsans). Geométrica humanista, muy legible
+// y amable; pareja limpia para la grotesca de los titulares.
+export const dmSans = DM_Sans({
   subsets: ["latin"],
   display: "swap",
-  variable: "--font-jakarta",
-  weight: ["300", "400", "500", "600", "700", "800"],
+  variable: "--font-dmsans",
+  weight: ["300", "400", "500", "600", "700"],
 });
 
 // Clase combinada para aplicar en <html>
-export const fontVariables = `${fraunces.variable} ${jakarta.variable}`;
+export const fontVariables = `${bricolage.variable} ${dmSans.variable}`;

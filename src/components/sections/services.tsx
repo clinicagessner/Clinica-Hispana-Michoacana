@@ -12,7 +12,7 @@ import type { Locale, ServiceCardData } from "@/types";
 const HOME_SERVICE_SLUGS = [
   "condiciones-cronicas",
   "ginecologia",
-  "examenes-sangre",
+  "salud-hombre",
 ];
 
 export function Services() {

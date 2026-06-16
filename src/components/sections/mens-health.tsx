@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Activity, ArrowRight, HeartPulse, Mars, ShieldCheck } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -15,7 +16,19 @@ export function MensHealth() {
   ];
 
   return (
-    <section className="bg-blue-deep py-20 lg:py-28">
+    <section className="relative isolate overflow-hidden bg-blue-deep py-20 lg:py-28">
+      {/* Foto real de fondo + scrim navy para legibilidad */}
+      <Image
+        src="/images/services/salud-hombre.webp"
+        alt={t("imageAlt")}
+        fill
+        sizes="100vw"
+        className="absolute inset-0 -z-20 object-cover opacity-25"
+      />
+      <div
+        aria-hidden
+        className="absolute inset-0 -z-10 bg-linear-to-r from-blue-deep via-blue-deep/90 to-blue-deep/70"
+      />
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Motivo decorativo de cruz medica */}
         <div

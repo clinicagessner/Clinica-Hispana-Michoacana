@@ -22,6 +22,7 @@ export function MensHealth() {
         src="/images/services/salud-hombre.webp"
         alt={t("imageAlt")}
         fill
+        priority
         sizes="100vw"
         className="absolute inset-0 -z-20 object-cover opacity-25"
       />

@@ -9,9 +9,12 @@ import { cn } from "@/lib/utils";
 export function Logo({
   className,
   variant = "default",
+  priority = false,
 }: {
   className?: string;
   variant?: "default" | "light";
+  /** Solo el logo del header (arriba del fold) debe usar priority. */
+  priority?: boolean;
 }) {
   const isLight = variant === "light";
   return (
@@ -21,6 +24,7 @@ export function Logo({
         alt="Logo de Clínica Hispana Nueva Salud Michoacana"
         width={512}
         height={512}
+        priority={priority}
         className="h-14 w-14 shrink-0 object-contain"
       />
       <span className="flex flex-col leading-none">

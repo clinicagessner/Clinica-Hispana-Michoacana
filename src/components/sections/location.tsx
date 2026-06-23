@@ -118,7 +118,9 @@ export function Location() {
               <div className="overflow-hidden rounded-2xl border border-white/15">
                 <Image
                   src="/images/clinica-exterior.webp"
-                  alt={`Fachada de Clínica Hispana Nueva Salud Michoacana en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state}`}
+                  alt={t("imageAlt", {
+                    address: `${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state}`,
+                  })}
                   width={1360}
                   height={1020}
                   sizes="(max-width: 1024px) 100vw, 720px"

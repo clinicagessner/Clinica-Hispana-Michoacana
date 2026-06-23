@@ -74,9 +74,11 @@ export const OPENING_HOURS = [
   { day: "Sunday", opens: "09:00", closes: "21:00" },
 ] as const;
 
+// Perfiles confirmados por el cliente. (El footer oculta cualquiera que quede
+// vacío.) El handle de Facebook es "buenavida" a propósito, según el cliente.
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicabuenavidapasadenatx",
-  instagram: "https://www.instagram.com/clinicabvida/",
+  instagram: "https://www.instagram.com/clinicahispanansaludpasadena/",
 } as const;
 
 // Fallback de build para rating/reseñas (valores de la ficha de Google al

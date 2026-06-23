@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { SITE_CONFIG } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 
 /**
@@ -21,7 +22,7 @@ export function Logo({
     <span className={cn("inline-flex items-center gap-2.5", className)}>
       <Image
         src="/logo-nueva-salud.webp"
-        alt="Logo de Clínica Hispana Nueva Salud Michoacana"
+        alt={SITE_CONFIG.name}
         width={512}
         height={512}
         priority={priority}

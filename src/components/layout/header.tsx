@@ -86,7 +86,7 @@ export function Header() {
         </Link>
 
         {/* Nav desktop */}
-        <nav className="hidden items-center gap-1 lg:flex" aria-label="Principal">
+        <nav className="hidden items-center gap-1 lg:flex" aria-label={t("primaryNav")}>
           <NavItem
             href="/"
             label={t("home")}
@@ -129,7 +129,7 @@ export function Header() {
                 <SheetTitle className="text-left">
                   <Link
                     href="/"
-                    aria-label="Inicio"
+                    aria-label={t("home")}
                     onClick={(e) => {
                       if (pathname === "/") {
                         e.preventDefault();
@@ -144,7 +144,7 @@ export function Header() {
               </SheetHeader>
               <nav
                 className="mt-2 flex flex-col gap-1 px-4"
-                aria-label="Móvil"
+                aria-label={t("mobileNav")}
               >
                 <Link
                   href="/"

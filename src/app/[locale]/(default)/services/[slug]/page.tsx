@@ -181,7 +181,7 @@ export default async function ServiceDetailPage({
       </section>
 
       {/* Contenido */}
-      <section className="bg-white py-16 lg:py-20">
+      <section className="bg-background py-16 lg:py-20">
         <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-12 lg:px-8">
           <div className="lg:col-span-8">
             {/* Features */}

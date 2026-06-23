@@ -35,7 +35,7 @@ export async function Testimonials() {
         }));
 
   return (
-    <section id="testimonios" className="relative isolate scroll-mt-24 overflow-hidden bg-white py-20 lg:py-28">
+    <section id="testimonios" className="relative isolate scroll-mt-24 overflow-hidden bg-background py-20 lg:py-28">
       <div
         aria-hidden
         className="cross-pattern pointer-events-none absolute -left-24 top-10 -z-10 h-96 w-96 text-blue-deep/5"

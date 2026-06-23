@@ -10,7 +10,9 @@
     "closeMenu": "Cerrar menú",
     "languageLabel": "Idioma",
     "spanish": "Español",
-    "english": "English"
+    "english": "English",
+    "primaryNav": "Navegación principal",
+    "mobileNav": "Navegación móvil"
   },
   "Common": {
     "openNow": "Abierto ahora",
@@ -41,7 +43,8 @@
     "trustInsurance": "Sin seguro necesario",
     "trustAffordable": "Precios accesibles",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
-    "callShort": "Llamar"
+    "callShort": "Llamar",
+    "imageAlt": "Equipo de Clínica Hispana Nueva Salud Michoacana atendiendo a pacientes en Pasadena, TX"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
@@ -65,7 +68,8 @@
     "title": "Una comunidad que confía en nosotros",
     "subtitle": "Reseñas reales de pacientes de Clínica Hispana Nueva Salud Michoacana.",
     "reviewCta": "Escribir una reseña en Google",
-    "verified": "Reseña verificada de Google"
+    "verified": "Reseña verificada de Google",
+    "photoAlt": "Foto de {name}"
   },
   "Faq": {
     "eyebrow": "Preguntas frecuentes",
@@ -81,7 +85,8 @@
     "emailLabel": "Correo",
     "directionsCta": "Cómo llegar",
     "callCta": "Llamar ahora",
-    "mapTitle": "Mapa de ubicación de Clínica Hispana Nueva Salud Michoacana"
+    "mapTitle": "Mapa de ubicación de Clínica Hispana Nueva Salud Michoacana",
+    "imageAlt": "Fachada de Clínica Hispana Nueva Salud Michoacana en {address}"
   },
   "Contact": {
     "eyebrow": "Contáctanos",

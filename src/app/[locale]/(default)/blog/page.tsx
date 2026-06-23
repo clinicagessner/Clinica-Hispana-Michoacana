@@ -78,7 +78,7 @@ export default async function BlogIndexPage({
         </div>
       </section>
 
-      <section className="bg-white py-14 lg:py-20">
+      <section className="bg-background py-14 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           {posts.length === 0 ? (
             <p className="text-center font-sans text-slate-muted">{t("empty")}</p>

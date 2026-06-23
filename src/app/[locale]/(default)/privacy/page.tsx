@@ -104,7 +104,7 @@ export default async function PrivacyPage({
       </header>
 
       {/* Cuerpo del documento */}
-      <section className="bg-white py-14 lg:py-20">
+      <section className="bg-background py-14 lg:py-20">
         <div className="mx-auto max-w-[70ch] px-4 sm:px-6 lg:px-8">
           <p className="text-lg leading-relaxed text-slate-primary">{c.intro}</p>
           <div className="mt-10 space-y-10">

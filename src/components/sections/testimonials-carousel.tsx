@@ -1,8 +1,10 @@
 "use client";
 
 import Image from "next/image";
+import { useEffect } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
+import { useTranslations } from "next-intl";
 import { BadgeCheck } from "lucide-react";
 import { StarRating } from "@/components/shared/star-rating";
 
@@ -54,9 +56,23 @@ export function TestimonialsCarousel({
   items: CarouselTestimonial[];
   verifiedLabel: string;
 }) {
-  const [emblaRef] = useEmblaCarousel({ loop: true, align: "start" }, [
-    Autoplay({ delay: 5000, stopOnInteraction: false }),
+  const t = useTranslations("Testimonials");
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: "start" }, [
+    Autoplay({
+      delay: 5000,
+      stopOnInteraction: false,
+      stopOnMouseEnter: true,
+      stopOnFocusIn: true,
+    }),
   ]);
+
+  // Respeta prefers-reduced-motion: detiene la rotación automática.
+  useEffect(() => {
+    if (!emblaApi) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      emblaApi.plugins().autoplay?.stop();
+    }
+  }, [emblaApi]);
 
   return (
     <div className="overflow-hidden" ref={emblaRef}>
@@ -80,7 +96,7 @@ export function TestimonialsCarousel({
                 {item.photoUrl ? (
                   <Image
                     src={item.photoUrl}
-                    alt={`Foto de ${item.author}`}
+                    alt={t("photoAlt", { name: item.author })}
                     width={44}
                     height={44}
                     unoptimized

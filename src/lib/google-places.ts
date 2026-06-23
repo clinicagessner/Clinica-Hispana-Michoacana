@@ -1,5 +1,5 @@
 import { unstable_cache } from "next/cache";
-import { GOOGLE_REVIEWS_DATA } from "@/lib/constants";
+import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 
 export interface GoogleReview {
   author: string;
@@ -28,7 +28,8 @@ const FALLBACK: GooglePlaceData = {
  */
 async function fetchGooglePlaceData(): Promise<GooglePlaceData> {
   const apiKey = process.env.GOOGLE_PLACES_API_KEY;
-  const placeId = process.env.GOOGLE_PLACE_ID;
+  // Place ID verificado vive en constants; el env solo lo sobreescribe si se define.
+  const placeId = process.env.GOOGLE_PLACE_ID || CONTACT_INFO.googlePlaceId;
   if (!apiKey || !placeId) return FALLBACK;
 
   try {

@@ -37,7 +37,7 @@ export async function Hero() {
       {/* Imagen de fondo a sangre completa */}
       <Image
         src="/images/hero-bg.webp"
-        alt="Equipo de Clínica Hispana Nueva Salud Michoacana atendiendo a pacientes en Pasadena, TX"
+        alt={t("imageAlt")}
         fill
         priority
         sizes="100vw"

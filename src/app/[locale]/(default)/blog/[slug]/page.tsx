@@ -121,7 +121,7 @@ export default async function BlogPostPage({
       </header>
 
       {/* Contenido */}
-      <section className="bg-white py-14 lg:py-20">
+      <section className="bg-background py-14 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           {/* Portada enmarcada (si existe) */}
           {post.hasCover && (
@@ -193,7 +193,7 @@ export default async function BlogPostPage({
         </section>
       )}
 
-      <FaqSection items={HOME_FAQS} className="bg-white" />
+      <FaqSection items={HOME_FAQS} className="bg-background" />
     </>
   );
 }

@@ -86,7 +86,7 @@ export default async function ServicesPage({
       </section>
 
       {/* Grid + filtro */}
-      <section className="bg-white py-14 lg:py-20">
+      <section className="bg-background py-14 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <ServicesFilter services={services} categories={categories} />
         </div>

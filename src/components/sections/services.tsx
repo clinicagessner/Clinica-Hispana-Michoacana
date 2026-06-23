@@ -26,11 +26,11 @@ export function Services() {
   );
 
   return (
-    <section id="servicios" className="relative scroll-mt-24 overflow-hidden bg-white py-20 lg:py-28">
+    <section id="servicios" className="relative scroll-mt-24 overflow-hidden bg-background py-20 lg:py-28">
       {/* Patrón de cruz médica decorativo, esquina superior derecha */}
       <div
         aria-hidden
-        className="cross-pattern pointer-events-none absolute -right-12 -top-12 h-64 w-64 text-blue-deep/[0.06]"
+        className="cross-pattern pointer-events-none absolute -right-12 -top-12 h-64 w-64 text-blue-deep/6"
       />
 
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

@@ -182,7 +182,7 @@ export default async function WalkInPage({
       </section>
 
       {/* Beneficios */}
-      <section className="bg-white py-20 lg:py-24">
+      <section className="bg-background py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-black tracking-tight text-ink sm:text-4xl">
             {c.benefitsTitle}
@@ -243,7 +243,7 @@ export default async function WalkInPage({
       </section>
 
       {/* FAQ */}
-      <section className="bg-white py-20 lg:py-24">
+      <section className="bg-background py-20 lg:py-24">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-black tracking-tight text-ink sm:text-4xl">
             {c.faqTitle}
@@ -257,7 +257,7 @@ export default async function WalkInPage({
       </section>
 
       {/* CTA final navy */}
-      <section className="bg-white pb-16">
+      <section className="bg-background pb-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="relative isolate overflow-hidden rounded-3xl bg-blue-deep px-6 py-12 text-center text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
             <div

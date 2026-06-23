@@ -9,9 +9,23 @@ import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
+import { ScrollSpy } from "@/components/shared/scroll-spy";
 import { SITE_CONFIG } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
+
+// Orden de las secciones en el DOM, para el scroll-spy que actualiza la URL.
+const SECTION_IDS = [
+  "inicio",
+  "servicios",
+  "ginecologia",
+  "salud-hombre",
+  "testimonios",
+  "blog",
+  "preguntas",
+  "ubicacion",
+  "contacto",
+];
 
 export async function generateMetadata({
   params,
@@ -39,6 +53,7 @@ export default async function HomePage({
 
   return (
     <>
+      <ScrollSpy ids={SECTION_IDS} />
       <Hero />
       <Services />
       <Gynecology />

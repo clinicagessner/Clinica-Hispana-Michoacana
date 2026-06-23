@@ -15,6 +15,8 @@ export const ctaButton = cva(
         red: "bg-red-accent text-white shadow-sm hover:bg-red-dark focus-visible:ring-red-accent",
         outline:
           "border border-blue-primary/70 text-blue-dark hover:bg-sky-bg focus-visible:ring-blue-primary",
+        outlineWhite:
+          "border border-white/70 text-white hover:bg-white/10 focus-visible:ring-white",
         white:
           "bg-white text-blue-dark shadow-sm hover:bg-sky-bg focus-visible:ring-white",
         ghost: "text-blue-dark hover:bg-sky-bg focus-visible:ring-blue-primary",

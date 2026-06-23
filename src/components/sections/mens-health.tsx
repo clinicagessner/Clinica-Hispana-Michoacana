@@ -16,7 +16,7 @@ export function MensHealth() {
   ];
 
   return (
-    <section className="relative isolate overflow-hidden bg-blue-deep py-20 lg:py-28">
+    <section id="salud-hombre" className="relative isolate scroll-mt-24 overflow-hidden bg-blue-deep py-20 lg:py-28">
       {/* Foto real de fondo + scrim navy para legibilidad */}
       <Image
         src="/images/services/salud-hombre.webp"

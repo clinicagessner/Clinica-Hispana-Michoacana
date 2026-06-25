@@ -109,3 +109,28 @@ export interface NavLink {
   key: string;
   href: string;
 }
+
+export interface Promotion {
+  slug: string;
+  title: string;
+  titleEn: string;
+  /** Precio mostrado en texto (el precio "oficial" vive en el flyer). null si no aplica. */
+  price: string | null;
+  blurb: string;
+  blurbEn: string;
+  includes: string[];
+  includesEn: string[];
+  alt: string;
+  altEn: string;
+}
+
+export interface LocalizedPromotion {
+  slug: string;
+  title: string;
+  price: string | null;
+  blurb: string;
+  includes: string[];
+  alt: string;
+  /** Ruta del flyer: /images/promotions/<slug>.webp */
+  image: string;
+}

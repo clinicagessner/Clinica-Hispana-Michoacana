@@ -1,5 +1,6 @@
 import type {
   NavLink,
+  Promotion,
   Service,
   ServiceCategory,
   Testimonial,
@@ -89,9 +90,81 @@ export const GOOGLE_REVIEWS_DATA = {
   totalReviews: 249,
 } as const;
 
+// Promociones de la clínica (flyers en /images/promotions/<slug>.webp).
+// Misma fuente para el carrusel de la home y la página /promociones.
+// Copy factual (sin claims médicos exagerados) para compliance de Google Ads salud.
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "salud-intima-femenina",
+    title: "Salud Íntima Femenina",
+    titleEn: "Women's Intimate Health",
+    price: "$69",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores: pueden ser señales de una infección. Te atendemos con privacidad y en español, con consulta médica incluida.",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it: these can be signs of an infection. We care for you privately and in Spanish, with a medical consultation included.",
+    includes: ["Cultivo íntimo", "Consulta médica", "Examen de orina gratis"],
+    includesEn: [
+      "Intimate culture",
+      "Medical consultation",
+      "Free urine test",
+    ],
+    alt: "Promoción Salud Íntima Femenina por $69 en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Women's Intimate Health promotion for $69 at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
+  {
+    slug: "perfil-hormonal-hombres",
+    title: "Perfil Hormonal para Hombres",
+    titleEn: "Men's Hormone Panel",
+    price: "$200",
+    blurb:
+      "Evalúa tu salud hormonal masculina: fatiga, pérdida de masa muscular, baja libido, problemas de sueño y más, con resultados confiables y atención profesional.",
+    blurbEn:
+      "Evaluate your male hormonal health: fatigue, muscle loss, low libido, sleep problems and more, with reliable results and professional care.",
+    includes: [
+      "Perfil hormonal masculino completo",
+      "Resultados precisos y confiables",
+      "Atención profesional",
+    ],
+    includesEn: [
+      "Complete male hormone panel",
+      "Precise, reliable results",
+      "Professional care",
+    ],
+    alt: "Promoción Perfil Hormonal Masculino por $200 en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Men's Hormone Panel promotion for $200 at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
+  {
+    slug: "general-sangre-vitamina-b12",
+    title: "General de Sangre + Vitamina B12",
+    titleEn: "Blood Panel + Vitamin B12",
+    price: "$99",
+    blurb:
+      "Examen general de sangre más una inyección de Vitamina B12 para cuidar tu salud, recuperar energía y sentirte mejor.",
+    blurbEn:
+      "A complete blood panel plus a Vitamin B12 injection to care for your health, regain energy and feel better.",
+    includes: [
+      "Examen general de sangre",
+      "Inyección de Vitamina B12",
+      "Más energía y bienestar",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "Vitamin B12 injection",
+      "More energy and wellbeing",
+    ],
+    alt: "Promoción especial General de Sangre más inyección de Vitamina B12 por $99 en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Special promotion: complete blood panel plus a Vitamin B12 injection for $99 at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
+];
+
 // Navbar (header): sin "Sin cita".
 export const NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promociones", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "contact", href: "/#contacto" },
 ];
@@ -99,6 +172,7 @@ export const NAV_LINKS: NavLink[] = [
 // Footer: incluye "Sin cita" (walk-in).
 export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promociones", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "walkIn", href: "/walk-in" },
   { key: "contact", href: "/#contacto" },

@@ -4,7 +4,9 @@ import type {
   BlogPost,
   Locale,
   LocalizedFaq,
+  LocalizedPromotion,
   LocalizedService,
+  Promotion,
   Service,
   ServiceFaq,
 } from "@/types";
@@ -43,6 +45,24 @@ export function getLocalizedService(
       en && service.longDescriptionEn
         ? service.longDescriptionEn
         : service.longDescription,
+  };
+}
+
+/** Resuelve una Promotion bilingüe a un locale, con fallback a español. */
+export function getLocalizedPromotion(
+  promo: Promotion,
+  locale: Locale,
+): LocalizedPromotion {
+  const en = locale === "en";
+  return {
+    slug: promo.slug,
+    price: promo.price,
+    title: en && promo.titleEn ? promo.titleEn : promo.title,
+    blurb: en && promo.blurbEn ? promo.blurbEn : promo.blurb,
+    includes:
+      en && promo.includesEn?.length ? promo.includesEn : promo.includes,
+    alt: en && promo.altEn ? promo.altEn : promo.alt,
+    image: `/images/promotions/${promo.slug}.webp`,
   };
 }
 

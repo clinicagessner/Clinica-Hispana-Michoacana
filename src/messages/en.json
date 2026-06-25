@@ -12,7 +12,8 @@
     "spanish": "Español",
     "english": "English",
     "primaryNav": "Main navigation",
-    "mobileNav": "Mobile navigation"
+    "mobileNav": "Mobile navigation",
+    "promociones": "Promotions"
   },
   "Common": {
     "openNow": "Open now",
@@ -44,7 +45,9 @@
     "trustAffordable": "Affordable prices",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
     "callShort": "Call",
-    "imageAlt": "Clínica Hispana Nueva Salud Michoacana team caring for patients in Pasadena, TX"
+    "imageAlt": "Clínica Hispana Nueva Salud Michoacana team caring for patients in Pasadena, TX",
+    "contactPrompt": "Prefer that we contact you?",
+    "contactLink": "Write to us"
   },
   "Services": {
     "eyebrow": "Our services",
@@ -198,5 +201,29 @@
     "cond3d": "Vitals and prevention",
     "cond4d": "Evaluation and follow-up",
     "imageAlt": "Men's health exams at Clínica Hispana Nueva Salud Michoacana in Pasadena, TX"
+  },
+  "Promotions": {
+    "eyebrow": "Promotions",
+    "title": "Limited-time offers",
+    "subtitle": "Take advantage of our health promotions with special pricing. Walk-ins welcome and care 100% in Spanish.",
+    "pageTitle": "Clinic promotions",
+    "pageSubtitle": "Deals on health exams and services, with care 100% in Spanish, walk-ins welcome and no insurance needed in Pasadena, TX.",
+    "viewAll": "View all promotions",
+    "viewDetail": "View details",
+    "viewPromo": "View promotion",
+    "prev": "Previous",
+    "next": "Next",
+    "swipeHint": "Swipe to see more promotions",
+    "limitedTime": "Limited-time offer",
+    "priceLabel": "Special price",
+    "includesLabel": "Includes",
+    "ctaCall": "Call the clinic",
+    "ctaDirections": "Get directions",
+    "ctaForm": "Fill out the form",
+    "close": "Close",
+    "openAria": "View details for {name}",
+    "backToHome": "Back to home",
+    "formTitle": "Interested in a promotion?",
+    "formSubtitle": "Leave us your details and we will contact you, or call us directly."
   }
 }

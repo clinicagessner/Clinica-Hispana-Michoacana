@@ -7,7 +7,7 @@ import { getAllServices } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
 import type { Locale } from "@/types";
 
-export function Contact() {
+export function Contact({ id = "contacto" }: { id?: string } = {}) {
   const t = useTranslations("Contact");
   const locale = useLocale() as Locale;
   const services = getAllServices().map((s) => {
@@ -17,7 +17,7 @@ export function Contact() {
 
   return (
     <section
-      id="contacto"
+      id={id}
       className="relative isolate scroll-mt-24 overflow-hidden bg-sand-bg py-16 lg:py-24"
     >
       <div

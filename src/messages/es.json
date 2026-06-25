@@ -12,7 +12,8 @@
     "spanish": "Español",
     "english": "English",
     "primaryNav": "Navegación principal",
-    "mobileNav": "Navegación móvil"
+    "mobileNav": "Navegación móvil",
+    "promociones": "Promociones"
   },
   "Common": {
     "openNow": "Abierto ahora",
@@ -44,7 +45,9 @@
     "trustAffordable": "Precios accesibles",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
     "callShort": "Llamar",
-    "imageAlt": "Equipo de Clínica Hispana Nueva Salud Michoacana atendiendo a pacientes en Pasadena, TX"
+    "imageAlt": "Equipo de Clínica Hispana Nueva Salud Michoacana atendiendo a pacientes en Pasadena, TX",
+    "contactPrompt": "¿Prefieres que te contactemos?",
+    "contactLink": "Escríbenos"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
@@ -198,5 +201,29 @@
     "cond3d": "Signos vitales y prevención",
     "cond4d": "Evaluación y seguimiento",
     "imageAlt": "Exámenes de salud del hombre en Clínica Hispana Nueva Salud Michoacana en Pasadena, TX"
+  },
+  "Promotions": {
+    "eyebrow": "Promociones",
+    "title": "Ofertas por tiempo limitado",
+    "subtitle": "Aprovecha nuestras promociones de salud con precios especiales. Sin cita previa y atención 100% en español.",
+    "pageTitle": "Promociones de la clínica",
+    "pageSubtitle": "Ofertas en exámenes y servicios de salud, con atención 100% en español, sin cita previa y sin necesidad de seguro en Pasadena, TX.",
+    "viewAll": "Ver todas las promociones",
+    "viewDetail": "Ver detalles",
+    "viewPromo": "Ver promoción",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "swipeHint": "Desliza para ver más promociones",
+    "limitedTime": "Oferta por tiempo limitado",
+    "priceLabel": "Precio especial",
+    "includesLabel": "Incluye",
+    "ctaCall": "Llamar a la clínica",
+    "ctaDirections": "Cómo llegar",
+    "ctaForm": "Llenar formulario",
+    "close": "Cerrar",
+    "openAria": "Ver detalles de {name}",
+    "backToHome": "Volver al inicio",
+    "formTitle": "¿Te interesa una promoción?",
+    "formSubtitle": "Déjanos tus datos y te contactamos, o llámanos directamente."
   }
 }

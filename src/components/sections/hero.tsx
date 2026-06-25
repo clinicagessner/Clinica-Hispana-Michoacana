@@ -1,5 +1,6 @@
 import Image from "next/image";
 import {
+  ArrowRight,
   Check,
   Clock,
   MapPin,
@@ -10,6 +11,7 @@ import { getTranslations } from "next-intl/server";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { StarRating } from "@/components/shared/star-rating";
+import { ScrollLink } from "@/components/shared/scroll-link";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 
@@ -121,6 +123,23 @@ export async function Hero() {
               {t("ctaDirections")}
             </a>
           </div>
+
+          {/* Alternativa: que te contactemos por el formulario */}
+          <p className="mt-5 text-sm text-white/85">
+            {t("contactPrompt")}{" "}
+            <ScrollLink
+              href="/#contacto"
+              className="group inline-flex items-center gap-1 font-semibold text-teal-light transition-colors hover:text-white"
+            >
+              <span className="underline underline-offset-4">
+                {t("contactLink")}
+              </span>
+              <ArrowRight
+                aria-hidden
+                className="h-4 w-4 shrink-0 transition-transform group-hover:translate-x-0.5"
+              />
+            </ScrollLink>
+          </p>
 
           {/* Lista de 4 features con checks */}
           <ul className="mx-auto mt-9 grid max-w-md grid-cols-1 gap-x-6 gap-y-3 text-left sm:grid-cols-2 md:mx-0 md:max-w-none">

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { Hero } from "@/components/sections/hero";
+import { Promotions } from "@/components/sections/promotions";
 import { Services } from "@/components/sections/services";
 import { Gynecology } from "@/components/sections/gynecology";
 import { MensHealth } from "@/components/sections/mens-health";
@@ -17,6 +18,7 @@ import type { Locale } from "@/types";
 // Orden de las secciones en el DOM, para el scroll-spy que actualiza la URL.
 const SECTION_IDS = [
   "inicio",
+  "promociones",
   "servicios",
   "ginecologia",
   "salud-hombre",
@@ -55,6 +57,7 @@ export default async function HomePage({
     <>
       <ScrollSpy ids={SECTION_IDS} />
       <Hero />
+      <Promotions />
       <Services />
       <Gynecology />
       <MensHealth />

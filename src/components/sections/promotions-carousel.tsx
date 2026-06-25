@@ -82,27 +82,27 @@ export function PromotionsCarousel({
         </div>
       </div>
 
-      {/* Pista + flechas */}
-      <div className="mt-6 flex items-center justify-between gap-4">
-        <p className="text-sm text-slate-muted sm:hidden">{labels.swipeHint}</p>
-        <div className="ml-auto flex gap-3">
-          <button
-            type="button"
-            onClick={scrollPrev}
-            aria-label={labels.prev}
-            className="grid h-11 w-11 place-items-center rounded-full border border-blue-deep/15 bg-card text-blue-dark transition-colors hover:bg-sky-bg hover:text-red-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
-          >
-            <ArrowLeft className="h-5 w-5" aria-hidden />
-          </button>
-          <button
-            type="button"
-            onClick={scrollNext}
-            aria-label={labels.next}
-            className="grid h-11 w-11 place-items-center rounded-full border border-blue-deep/15 bg-card text-blue-dark transition-colors hover:bg-sky-bg hover:text-red-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
-          >
-            <ArrowRight className="h-5 w-5" aria-hidden />
-          </button>
-        </div>
+      {/* Pista + flechas (centradas) */}
+      <p className="mt-6 text-center text-sm text-slate-muted sm:hidden">
+        {labels.swipeHint}
+      </p>
+      <div className="mt-4 flex justify-center gap-3 sm:mt-6">
+        <button
+          type="button"
+          onClick={scrollPrev}
+          aria-label={labels.prev}
+          className="grid h-11 w-11 place-items-center rounded-full border border-blue-deep/15 bg-card text-blue-dark transition-colors hover:bg-sky-bg hover:text-red-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
+        >
+          <ArrowLeft className="h-5 w-5" aria-hidden />
+        </button>
+        <button
+          type="button"
+          onClick={scrollNext}
+          aria-label={labels.next}
+          className="grid h-11 w-11 place-items-center rounded-full border border-blue-deep/15 bg-card text-blue-dark transition-colors hover:bg-sky-bg hover:text-red-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
+        >
+          <ArrowRight className="h-5 w-5" aria-hidden />
+        </button>
       </div>
 
       <PromotionDialog

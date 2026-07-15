@@ -26,7 +26,9 @@
     "bilingual": "Atención en español e inglés",
     "withOrWithoutInsurance": "Sin seguro necesario",
     "ratingSummary": "{count} reseñas en Google",
-    "affordable": "Precios accesibles"
+    "affordable": "Precios accesibles",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
     "badge": "Clínica médica hispana en Pasadena, TX",
@@ -37,6 +39,7 @@
     "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más bajo un mismo techo. Sin cita previa, con precios accesibles y sin necesidad de seguro. Tu salud y la de tu familia, en buenas manos.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
+    "ctaWhatsapp": "WhatsApp",
     "callNow": "Llamar ahora",
     "reviewsBadge": "{count}+ reseñas en Google",
     "trustWalkIn": "Sin cita previa",
@@ -140,6 +143,7 @@
   },
   "Floating": {
     "call": "Llamar",
+    "whatsapp": "WhatsApp",
     "directions": "Cómo llegar",
     "backToTop": "Volver arriba"
   },

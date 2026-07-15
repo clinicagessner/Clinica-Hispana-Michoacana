@@ -26,7 +26,9 @@
     "bilingual": "Care in Spanish and English",
     "withOrWithoutInsurance": "No insurance needed",
     "ratingSummary": "{count} Google reviews",
-    "affordable": "Affordable prices"
+    "affordable": "Affordable prices",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappMessage": "Hello, I would like more information about your services."
   },
   "Hero": {
     "badge": "Hispanic medical clinic in Pasadena, TX",
@@ -37,6 +39,7 @@
     "subtitle": "Family medicine, gynecology, urology, lab work and more, all under one roof. Walk-ins welcome, affordable pricing and no insurance required. Your family’s health, in good hands.",
     "ctaCall": "Call the clinic",
     "ctaDirections": "Get directions",
+    "ctaWhatsapp": "WhatsApp",
     "callNow": "Call now",
     "reviewsBadge": "{count}+ Google reviews",
     "trustWalkIn": "Walk-ins welcome",
@@ -140,6 +143,7 @@
   },
   "Floating": {
     "call": "Call",
+    "whatsapp": "WhatsApp",
     "directions": "Directions",
     "backToTop": "Back to top"
   },

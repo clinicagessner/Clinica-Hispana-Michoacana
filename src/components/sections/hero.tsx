@@ -7,6 +7,7 @@ import {
   Navigation,
   Phone,
 } from "lucide-react";
+import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import { getTranslations } from "next-intl/server";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -22,6 +23,12 @@ export async function Hero() {
     getTranslations("Common"),
     getGooglePlaceData(),
   ]);
+
+  // WhatsApp usa su número dedicado (CONTACT_INFO.whatsapp), nunca el
+  // principal: CallRail (swap.js) reescribe el número de llamadas mostrado y
+  // este botón no debe verse afectado. Tampoco se muestra el número como
+  // texto visible — solo el label — para que nadie intente llamarlo.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
 
   const features = [
     t("trustBilingual"),
@@ -65,12 +72,6 @@ export async function Hero() {
         aria-hidden
         className="pointer-events-none absolute -right-20 bottom-0 -z-20 h-80 w-80 rounded-full bg-teal/20 blur-3xl"
       />
-      {/* Degradado de transición hacia la siguiente sección (Services es claro) */}
-      <div
-        aria-hidden
-        className="pointer-events-none absolute inset-x-0 bottom-0 -z-10 h-28 bg-linear-to-b from-transparent to-white sm:h-36"
-      />
-
       <div className="mx-auto w-full max-w-7xl px-5 py-20 sm:px-6 lg:px-8 lg:py-28">
         <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-2xl">
           {/* Badge de reseñas de Google */}
@@ -111,6 +112,16 @@ export async function Hero() {
               <span className="whitespace-nowrap">
                 {t("callNow")} · {CONTACT_INFO.phoneDisplay}
               </span>
+            </a>
+            <a
+              href={whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={tc("whatsapp")}
+              className={cn(ctaButton({ variant: "whatsapp", size: "lg" }))}
+            >
+              <WhatsappLogoIcon className="size-5 shrink-0" weight="fill" />
+              {t("ctaWhatsapp")}
             </a>
             <a
               href={CONTACT_INFO.googleMapsUrl}

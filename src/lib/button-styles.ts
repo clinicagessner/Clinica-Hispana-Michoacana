@@ -13,6 +13,8 @@ export const ctaButton = cva(
           "bg-blue-dark text-white shadow-sm hover:bg-blue-deep hover:shadow-md focus-visible:ring-blue-primary",
         gold: "bg-teal text-slate-dark shadow-sm hover:bg-teal-deep hover:text-white focus-visible:ring-teal",
         red: "bg-red-accent text-white shadow-sm hover:bg-red-dark focus-visible:ring-red-accent",
+        whatsapp:
+          "bg-whatsapp text-white shadow-sm hover:bg-whatsapp-dark focus-visible:ring-whatsapp",
         outline:
           "border border-blue-primary/70 text-blue-dark hover:bg-sky-bg focus-visible:ring-blue-primary",
         outlineWhite:

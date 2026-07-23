@@ -39,4 +39,4 @@ Only the form completed and **sealed by a civil surgeon** is valid for your proc
 
 ## At Clínica Hispana Nueva Salud Michoacana
 
-We have a USCIS-authorized physician and perform your complete I-693 exam, in Spanish and with the sealed form. Call us at **(832) 906-8551** for more information.
+We have a USCIS-authorized physician and perform your complete I-693 exam, in Spanish and with the sealed form. Call us at **(832) 617-7439** for more information.

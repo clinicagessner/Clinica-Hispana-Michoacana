@@ -41,4 +41,4 @@ The exam is quick. In most cases you leave the **same day with your certificate*
 
 ## Do it with us
 
-At Clínica Hispana Nueva Salud Michoacana we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(832) 906-8551** or walk in.
+At Clínica Hispana Nueva Salud Michoacana we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(832) 617-7439** or walk in.

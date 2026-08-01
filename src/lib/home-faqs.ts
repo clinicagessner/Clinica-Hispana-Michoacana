@@ -29,10 +29,26 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Qué servicios ofrecen?",
     answer:
-      "Medicina familiar, exámenes de inmigración I-693, laboratorio, ultrasonido, ginecología, examen DOT, control de diabetes e hipertensión y mucho más.",
+      "Medicina familiar, exámenes de inmigración I-693, laboratorio y análisis de sangre, ultrasonido, ginecología, examen DOT, control de diabetes e hipertensión y mucho más.",
     questionEn: "What services do you offer?",
     answerEn:
-      "Family medicine, I-693 immigration exams, lab work, ultrasound, gynecology, DOT exams, diabetes and hypertension management and much more.",
+      "Family medicine, I-693 immigration exams, lab work and blood tests, ultrasound, gynecology, DOT exams, diabetes and hypertension management and much more.",
+  },
+  {
+    question: "¿Puedo tener a mi médico primario en esta clínica?",
+    answer:
+      "Sí. Ofrecemos atención de médico primario y medicina familiar: chequeos generales, control de diabetes e hipertensión, análisis de sangre y seguimiento continuo para toda la familia.",
+    questionEn: "Can I have my primary care doctor at this clinic?",
+    answerEn:
+      "Yes. We offer primary care and family medicine: general checkups, diabetes and hypertension management, blood tests and ongoing follow-up for the whole family.",
+  },
+  {
+    question: "¿Hay una clínica hispana cerca de mí en Pasadena o Houston?",
+    answer:
+      "Sí. Clínica Hispana Nueva Salud Michoacana es una clínica hispana y latina en 6500 Spencer Hwy Ste 180, Pasadena, TX 77505, a minutos del área de Houston. Somos un centro médico cerca de ti, con atención 100% en español.",
+    questionEn: "Is there a Hispanic clinic near me in Pasadena or Houston?",
+    answerEn:
+      "Yes. Clínica Hispana Nueva Salud Michoacana is a Hispanic and Latino clinic at 6500 Spencer Hwy Ste 180, Pasadena, TX 77505, minutes from the Houston area. We are a medical center near you, with care 100% in Spanish.",
   },
   {
     question: "¿Dónde están ubicados?",

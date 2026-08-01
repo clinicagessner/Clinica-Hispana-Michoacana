@@ -31,12 +31,12 @@
     "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
-    "badge": "Clínica médica hispana en Pasadena, TX",
+    "badge": "Centro médico hispano en Pasadena, TX · Área de Houston",
     "openToday": "Abierto hoy",
-    "titleLead": "Atención médica",
+    "titleLead": "Tu clínica hispana",
     "titleHighlight": "100% en español",
-    "titleTail": "para toda la familia",
-    "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más bajo un mismo techo. Sin cita previa, con precios accesibles y sin necesidad de seguro. Tu salud y la de tu familia, en buenas manos.",
+    "titleTail": "en Pasadena, TX",
+    "subtitle": "Médico primario, medicina familiar, ginecología, análisis de sangre, laboratorio y más bajo un mismo techo. Sin cita previa, con precios accesibles y sin necesidad de seguro. Tu salud y la de tu familia, en buenas manos.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
     "ctaWhatsapp": "WhatsApp",
@@ -54,8 +54,8 @@
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
-    "title": "Todo lo que tu familia necesita, en un solo lugar",
-    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
+    "title": "Un centro médico con todo lo que tu familia necesita",
+    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma, cerca de ti en Pasadena.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
   },
@@ -130,7 +130,7 @@
     "cta": "Ver todo el blog"
   },
   "Footer": {
-    "tagline": "Atención médica profesional 100% en español en Pasadena, TX.",
+    "tagline": "Clínica hispana y centro médico en Pasadena, TX. Atención profesional 100% en español.",
     "servicesTitle": "Servicios",
     "navTitle": "Navegación",
     "contactTitle": "Contacto",
@@ -148,7 +148,7 @@
     "backToTop": "Volver arriba"
   },
   "ServicesPage": {
-    "title": "Servicios médicos en Pasadena, TX",
+    "title": "Servicios médicos de tu clínica hispana en Pasadena, TX",
     "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
     "filterAll": "Todos",
     "filtersLabel": "Filtrar por categoría",
@@ -210,7 +210,7 @@
     "eyebrow": "Promociones",
     "title": "Ofertas por tiempo limitado",
     "subtitle": "Aprovecha nuestras promociones de salud con precios especiales. Sin cita previa y atención 100% en español.",
-    "pageTitle": "Promociones de la clínica",
+    "pageTitle": "Promociones de tu clínica hispana en Pasadena",
     "pageSubtitle": "Ofertas en exámenes y servicios de salud, con atención 100% en español, sin cita previa y sin necesidad de seguro en Pasadena, TX.",
     "viewAll": "Ver todas las promociones",
     "viewDetail": "Ver detalles",

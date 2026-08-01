@@ -24,12 +24,12 @@ const SITE_URL = normalizeBaseUrl(
 export const SITE_CONFIG = {
   name: "Clínica Hispana Nueva Salud Michoacana",
   shortName: "Nueva Salud Michoacana",
-  tagline: "Atención médica profesional 100% en español",
-  taglineEn: "Professional healthcare 100% in Spanish",
+  tagline: "Atención médica 100% en español en Pasadena, TX",
+  taglineEn: "Healthcare 100% in Spanish in Pasadena, TX",
   description:
-    "Clínica médica hispana en Pasadena, TX. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica hispana y centro médico en Pasadena, TX, en el área de Houston. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Médico primario, medicina familiar, análisis de sangre, laboratorio y más.",
   descriptionEn:
-    "Hispanic medical clinic in Pasadena, TX. Professional care in Spanish, walk-ins welcome, no insurance needed. Family medicine, immigration exams, lab work and more.",
+    "Hispanic clinic and medical center in Pasadena, TX, in the Houston area. Professional care in Spanish, walk-ins welcome, no insurance needed. Primary care, family medicine, blood tests, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -200,11 +200,11 @@ export const SERVICE_CATEGORIES: {
 // desde 77505 (zona SE de Pasadena, junto a Deer Park).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Michoacana?
 
-En Clínica Hispana Nueva Salud Michoacana te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Nueva Salud Michoacana te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Somos una clínica hispana y latina: un centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Michoacana?
 
-At Clínica Hispana Nueva Salud Michoacana we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Nueva Salud Michoacana we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are a Hispanic and Latino clinic — a medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -216,11 +216,11 @@ You don't need health insurance. We offer affordable, transparent pricing and ac
 
 const AREAS_ES = `## Áreas que servimos
 
-Atendemos a pacientes de Pasadena, TX y comunidades cercanas: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster y el área de Houston.`;
+Atendemos a pacientes de Pasadena, TX y comunidades cercanas: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster y el área de Houston. Si buscas una clínica hispana o un centro médico cerca de ti en el área de Houston, estamos a pocos minutos.`;
 
 const AREAS_EN = `## Areas we serve
 
-We care for patients across Pasadena, TX and nearby communities: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster and the greater Houston area.`;
+We care for patients across Pasadena, TX and nearby communities: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster and the greater Houston area. If you're looking for a Hispanic clinic or a medical center near you in the Houston area, we're just minutes away.`;
 
 
 export const SERVICES: Service[] = [
@@ -229,7 +229,6 @@ export const SERVICES: Service[] = [
     order: 1,
     category: "medicina-general",
     icon: "Activity",
-    highlighted: true,
     title: "Control de Diabetes, Hipertensión y Colesterol",
     titleEn: "Diabetes, Hypertension & Cholesterol Care",
     shortDescription:
@@ -628,17 +627,20 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Atención ginecológica en una clínica hispana en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
     descriptionEn:
-      "Gynecology care in Pasadena, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Gynecology care at a Hispanic clinic in Pasadena, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
       "ginecologo pasadena español",
+      "ginecologia cerca de mi pasadena",
+      "clinica hispana ginecologia pasadena",
       "papanicolaou pasadena",
       "cultivo vaginal pasadena",
       "infeccion vaginal tratamiento pasadena",
     ],
     keywordsEn: [
       "gynecologist pasadena spanish",
+      "gynecology near me pasadena",
       "pap smear pasadena",
       "vaginal culture pasadena",
       "vaginal infection treatment pasadena",
@@ -669,6 +671,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Te atendemos sin cita previa, con precios accesibles y con la privacidad que este tipo de consulta merece.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -687,6 +693,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. We see you with no appointment needed, with affordable pricing and the privacy this kind of visit deserves.
 
 ${WHY_EN}
 
@@ -1009,14 +1019,14 @@ ${AREAS_EN}`,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
-    title: "Exámenes de Sangre | Laboratorio",
-    titleEn: "Blood Tests | Lab",
+    title: "Análisis y Exámenes de Sangre | Laboratorio",
+    titleEn: "Blood Tests & Blood Work | Lab",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Exámenes de sangre en Pasadena, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
+      "Análisis y exámenes de sangre en Pasadena, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
     descriptionEn:
       "Blood tests in Pasadena, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing.",
     keywords: [
@@ -1087,6 +1097,7 @@ ${AREAS_EN}`,
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
+    highlighted: true,
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
     shortDescription:
@@ -1094,18 +1105,20 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Pasadena, TX, el mismo día. En español, con precios accesibles.",
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en una clínica hispana en Pasadena, TX. En español, con precios accesibles.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Pasadena, TX, same day. In Spanish, with affordable pricing.",
+      "Urinalysis and same-day urinary infection treatment at a Hispanic clinic in Pasadena, TX. In Spanish, with affordable pricing.",
     keywords: [
       "examen de orina pasadena",
       "infeccion urinaria pasadena",
+      "infeccion urinaria cerca de mi pasadena",
       "tratamiento infeccion urinaria pasadena",
       "doctor infeccion de orina pasadena",
     ],
     keywordsEn: [
       "urinalysis pasadena",
       "urinary tract infection pasadena",
+      "uti clinic near me pasadena",
       "uti treatment pasadena",
       "uti doctor pasadena",
     ],
@@ -1135,6 +1148,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+
+Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Llega sin cita: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1153,6 +1170,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## Urinary infection care at a Hispanic clinic near you
+
+We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. Walk in with no appointment: we run the urine test and, if there's an infection, you leave with your treatment the same day.
 
 ${WHY_EN}
 

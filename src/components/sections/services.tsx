@@ -10,7 +10,7 @@ import type { Locale, ServiceCardData } from "@/types";
 
 // En el home solo se destacan estos 3; el catálogo completo vive en /services.
 const HOME_SERVICE_SLUGS = [
-  "condiciones-cronicas",
+  "infecciones-urinarias",
   "ginecologia",
   "salud-hombre",
 ];

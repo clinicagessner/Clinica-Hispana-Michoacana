@@ -100,6 +100,31 @@ export const GOOGLE_REVIEWS_DATA = {
 // Copy factual (sin claims médicos exagerados) para compliance de Google Ads salud.
 export const PROMOTIONS: Promotion[] = [
   {
+    slug: "chequeo-general-completo",
+    title: "Chequeo General Completo",
+    titleEn: "Complete General Checkup",
+    price: "$99",
+    blurb:
+      "Cuídate hoy, vive mejor mañana. Chequeo general completo con consulta médica gratis por solo $99 (valor regular $250). Resultados rápidos y atención personalizada en español.",
+    blurbEn:
+      "Take care of yourself today, live better tomorrow. Complete general checkup with a free medical consultation for only $99 (regular value $250). Fast results and personalized care in Spanish.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "A1C (glycated hemoglobin)",
+      "Complete urine test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción Chequeo General Completo por $99 con consulta médica gratis en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Complete General Checkup promotion for $99 with a free medical consultation at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
+  {
     slug: "salud-intima-femenina",
     title: "Salud Íntima Femenina",
     titleEn: "Women's Intimate Health",

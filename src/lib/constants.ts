@@ -47,8 +47,8 @@ export const CONTACT_INFO = {
   // WhatsApp — número EXCLUSIVO para chat. Nunca usarlo en tel:, NAP ni
   // schema: el teléfono de llamadas sigue siendo `phone` (CallRail hace swap
   // solo sobre ese). No derivar este enlace de `phone`: son números distintos.
-  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
-  whatsappDisplay: "(832) 831-4016",
+  whatsapp: "13462221006", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(346) 222-1006",
   email: "clinicanuevasaludmichuacana@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",

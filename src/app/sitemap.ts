@@ -32,7 +32,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry("/promociones", "weekly", 0.8),
     entry("/blog", "weekly", 0.7),
     entry("/walk-in", "monthly", 0.8),
-    entry("/privacy", "yearly", 0.3),
+    // /privacy es noindex: incluirla en el sitemap hace que Search Console la
+    // reporte como "excluida por noindex" (problema crítico). No la listamos.
   ];
 
   const services: MetadataRoute.Sitemap = getAllServiceSlugs().map((slug) =>

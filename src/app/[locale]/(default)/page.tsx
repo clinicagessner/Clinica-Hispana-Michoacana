@@ -11,7 +11,7 @@ import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
 import { ScrollSpy } from "@/components/shared/scroll-spy";
-import { SITE_CONFIG } from "@/lib/constants";
+import { CONTACT_INFO } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
 
@@ -36,11 +36,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const isEn = locale === "en";
+  // Search Console: la gente busca por el nombre ("clinica michoacana",
+  // "clinica la michoacana cerca de mi") y el title anterior no lo incluía,
+  // lo que daba 0 clics en top 10. El nombre va primero y la description
+  // lleva los ganchos de decisión (sin cita, sin seguro, horario, teléfono).
   return {
     title: isEn
-      ? "Hispanic Clinic in Pasadena, TX - Care in Spanish"
-      : "Clínica Hispana en Pasadena, TX - Atención en Español",
-    description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
+      ? "Clínica Hispana Nueva Salud Michoacana | Walk-in Clinic in Pasadena, TX"
+      : "Clínica Hispana Nueva Salud Michoacana | Sin Cita en Pasadena, TX",
+    description: isEn
+      ? `Hispanic clinic in Pasadena, TX. Walk-ins welcome, no insurance needed, care in Spanish. Blood tests, physicals, immigration exams and more. Open daily 9 AM–9 PM. Call ${CONTACT_INFO.phoneDisplay}.`
+      : `Clínica hispana en Pasadena, TX. Sin cita, sin seguro y 100% en español. Análisis de sangre, exámenes físicos, inmigración y más. Abierto todos los días de 9 AM a 9 PM. Llama al ${CONTACT_INFO.phoneDisplay}.`,
     alternates: buildAlternates("/", locale as Locale),
   };
 }

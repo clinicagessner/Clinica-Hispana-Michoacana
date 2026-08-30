@@ -24,6 +24,7 @@ Los análisis sirven para **detectar problemas a tiempo**, dar seguimiento a una
 - **Química sanguínea:** mide glucosa, función del riñón e hígado.
 - **Perfil de lípidos:** colesterol y triglicéridos.
 - **Pruebas de tiroides:** revisan el funcionamiento de la tiroides.
+- **Vitamina B12:** detecta la deficiencia detrás del cansancio y el hormigueo; si hace falta, aplicamos la [inyección de vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones) el mismo día. Consulta la [promoción de examen general + B12 por $99](/promociones).
 
 ## ¿Necesito ayuno?
 

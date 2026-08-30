@@ -39,6 +39,8 @@ Una caminata de 30 minutos al día ayuda a bajar el azúcar y a sentirte mejor. 
 
 La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el seguimiento regular con tu médico es clave para ajustar el tratamiento a tiempo.
 
+Si tomas metformina, revisa tu nivel de vitamina B12 al menos una vez al año: este medicamento reduce su absorción y la deficiencia causa cansancio y hormigueo. Te lo explicamos en nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+
 ## Cuenta con nosotros
 
 En Clínica Hispana Nueva Salud Michoacana tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(832) 617-7439** y toma el control de tu salud.

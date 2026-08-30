@@ -24,6 +24,7 @@ Tests help **catch problems early**, follow up on a chronic condition or complet
 - **Blood chemistry:** measures glucose, kidney and liver function.
 - **Lipid panel:** cholesterol and triglycerides.
 - **Thyroid tests:** check how your thyroid is working.
+- **Vitamin B12:** detects the deficiency behind fatigue and tingling; if needed, we give the [vitamin B12 injection](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones) the same day. See the [blood panel + B12 promotion for $99](/en/promociones).
 
 ## Do I need to fast?
 

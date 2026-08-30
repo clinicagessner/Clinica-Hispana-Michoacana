@@ -168,13 +168,13 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "general-sangre-vitamina-b12",
-    title: "General de Sangre + Vitamina B12",
-    titleEn: "Blood Panel + Vitamin B12",
+    title: "Inyección de Vitamina B12 + General de Sangre",
+    titleEn: "Vitamin B12 Injection + Blood Panel",
     price: "$99",
     blurb:
-      "Examen general de sangre más una inyección de Vitamina B12 para cuidar tu salud, recuperar energía y sentirte mejor.",
+      "Inyección de vitamina B12 más examen general de sangre por $99. Ideal si tienes cansancio, hormigueo o poca energía: medimos tu nivel y aplicamos la inyección el mismo día.",
     blurbEn:
-      "A complete blood panel plus a Vitamin B12 injection to care for your health, regain energy and feel better.",
+      "Vitamin B12 injection plus a complete blood panel for $99. Ideal if you feel tired, have tingling or low energy: we check your level and give the shot the same day.",
     includes: [
       "Examen general de sangre",
       "Inyección de Vitamina B12",
@@ -1070,12 +1070,14 @@ ${AREAS_EN}`,
       "Biometría y química sanguínea",
       "Glucosa, colesterol y triglicéridos",
       "Pruebas de tiroides, hígado y riñón",
+      "Prueba e inyección de vitamina B12",
       "Resultados explicados en español",
     ],
     featuresEn: [
       "CBC and blood chemistry",
       "Glucose, cholesterol and triglycerides",
       "Thyroid, liver and kidney tests",
+      "Vitamin B12 test and injection",
       "Results explained in Spanish",
     ],
     longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud Michoacana tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
@@ -1085,12 +1087,17 @@ ${AREAS_EN}`,
 - Biometría hemática completa (conteo de células)
 - Química sanguínea (glucosa, colesterol, triglicéridos)
 - Pruebas de tiroides, hígado y riñón
+- Nivel de vitamina B12
 - Paneles para chequeo general o seguimiento
 - Resultados rápidos en la mayoría de los casos
 
 ## Para qué sirven
 
 Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+
+## ¿Cansancio o poca energía? Revisa tu vitamina B12
+
+La deficiencia de vitamina B12 es muy común y se confunde con estrés: fatiga constante, hormigueo en manos o pies, falta de concentración. Medimos tu nivel con el mismo análisis y, si hace falta, aplicamos la **inyección de vitamina B12** el mismo día. Aprovecha la [promoción de examen general de sangre + inyección de B12 por $99](/promociones) o lee nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ${WHY_ES}
 
@@ -1104,12 +1111,17 @@ ${AREAS_ES}`,
 - Complete blood count (CBC)
 - Blood chemistry (glucose, cholesterol, triglycerides)
 - Thyroid, liver and kidney tests
+- Vitamin B12 level
 - Panels for general checkups or follow-up
 - Fast results in most cases
 
 ## Why they matter
 
 Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+
+## Tired or low on energy? Check your vitamin B12
+
+Vitamin B12 deficiency is very common and easy to mistake for stress: constant fatigue, tingling in hands or feet, poor concentration. We measure your level with the same blood draw and, if needed, give you a **vitamin B12 injection** the same day. Take advantage of the [blood panel + B12 injection promotion for $99](/en/promociones) or read our [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ${WHY_EN}
 
@@ -2030,7 +2042,11 @@ ${AREAS_EN}`,
 
 ## Cuándo pueden ayudar
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti. Llámanos antes de tu visita para confirmar la disponibilidad del servicio.
+
+## ¿Buscas vitaminas para recuperar energía? Inyección de vitamina B12
+
+Si lo que necesitas es energía y bienestar, la opción más práctica y económica es la **inyección intramuscular de vitamina B12**: toma menos de cinco minutos, no requiere suero ni vía intravenosa y está disponible todos los días sin cita. Consulta la [promoción de examen general de sangre + inyección de B12 por $99](/promociones) y nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ${WHY_ES}
 
@@ -2049,7 +2065,11 @@ ${AREAS_ES}`,
 
 ## When they can help
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you. Please call before your visit to confirm availability of this service.
+
+## Looking for vitamins to regain energy? Vitamin B12 injection
+
+If what you need is energy and wellbeing, the most practical and affordable option is an intramuscular **vitamin B12 injection**: it takes under five minutes, needs no IV line and is available every day without an appointment. See the [blood panel + B12 injection promotion for $99](/en/promociones) and our [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ${WHY_EN}
 

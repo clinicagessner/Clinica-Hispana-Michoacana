@@ -39,6 +39,8 @@ A 30-minute walk a day helps lower your sugar and makes you feel better. You don
 
 Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why regular follow-up with your doctor is key to adjusting treatment in time.
 
+If you take metformin, check your vitamin B12 level at least once a year: this medication reduces its absorption, and a deficiency causes fatigue and tingling. We explain it in our [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+
 ## Count on us
 
 At Clínica Hispana Nueva Salud Michoacana we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(832) 617-7439** and take control of your health.

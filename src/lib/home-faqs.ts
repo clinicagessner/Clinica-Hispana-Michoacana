@@ -27,6 +27,14 @@ export const HOME_FAQS: ServiceFaq[] = [
       "Yes, our entire team cares for you 100% in Spanish. We also offer care in English.",
   },
   {
+    question: "¿Aplican inyecciones de vitamina B12?",
+    answer:
+      "Sí. Aplicamos inyecciones de vitamina B12 sin cita, todos los días. Si tienes cansancio, hormigueo o poca energía, medimos tu nivel con un análisis de sangre y aplicamos la inyección el mismo día. Pregunta por la promoción de examen general de sangre + inyección de B12 por $99.",
+    questionEn: "Do you give vitamin B12 injections?",
+    answerEn:
+      "Yes. We give vitamin B12 injections every day, no appointment needed. If you feel tired, have tingling or low energy, we check your level with a blood test and give the shot the same day. Ask about our blood panel + B12 injection promotion for $99.",
+  },
+  {
     question: "¿Qué servicios ofrecen?",
     answer:
       "Medicina familiar, exámenes de inmigración I-693, laboratorio y análisis de sangre, ultrasonido, ginecología, examen DOT, control de diabetes e hipertensión y mucho más.",

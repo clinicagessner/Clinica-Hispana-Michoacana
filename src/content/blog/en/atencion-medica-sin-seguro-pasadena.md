@@ -23,7 +23,7 @@ Many Hispanic families put off a visit out of fear of an unpayable bill. The goo
 At our clinic, uninsured patients can access:
 
 - Family medicine visits
-- Lab work
+- Lab work and [vitamin B12 injections](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones)
 - Treatment of common illnesses
 - Physical exams for work, school or a license
 - Management of chronic conditions like diabetes and hypertension

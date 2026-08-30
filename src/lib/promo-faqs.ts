@@ -19,6 +19,30 @@ export const PROMO_FAQS: ServiceFaq[] = [
       "No. We welcome walk-ins Monday to Sunday, and you don't need health insurance to take advantage of a promotion.",
   },
   {
+    question: "¿Qué incluye la promoción de inyección de vitamina B12 por $99?",
+    answer:
+      "Incluye un examen general de sangre y una inyección intramuscular de vitamina B12, aplicada por personal médico el mismo día. Es ideal si tienes cansancio constante, hormigueo en manos o pies, o poca energía.",
+    questionEn: "What does the $99 vitamin B12 injection promotion include?",
+    answerEn:
+      "It includes a complete blood panel and an intramuscular vitamin B12 injection given by medical staff the same day. It's ideal if you have constant fatigue, tingling in your hands or feet, or low energy.",
+  },
+  {
+    question: "¿Cada cuánto se aplica la inyección de vitamina B12?",
+    answer:
+      "Depende de tu nivel y de la causa. Un esquema común es una inyección semanal las primeras semanas y luego una mensual de mantenimiento. En tu visita lo definimos según tu análisis de sangre.",
+    questionEn: "How often is the vitamin B12 injection given?",
+    answerEn:
+      "It depends on your level and the cause. A common schedule is a weekly shot for the first few weeks, then a monthly maintenance shot. We define it at your visit based on your blood test.",
+  },
+  {
+    question: "¿La inyección de B12 duele o tiene efectos secundarios?",
+    answer:
+      "Es una inyección rápida en el músculo, como una vacuna. Los efectos secundarios son poco comunes y leves, como molestia en el sitio de aplicación. Si tomas metformina para la diabetes o medicamentos para la acidez, es especialmente recomendable revisar tu B12.",
+    questionEn: "Does the B12 shot hurt or have side effects?",
+    answerEn:
+      "It's a quick shot into the muscle, like a vaccine. Side effects are uncommon and mild, such as soreness at the injection site. If you take metformin for diabetes or acid-reflux medication, checking your B12 is especially recommended.",
+  },
+  {
     question: "¿Cómo aparto o uso una promoción?",
     answer:
       "Llámanos, escríbenos por el formulario o visítanos sin cita. Con gusto te explicamos los pasos y lo que incluye cada promoción.",

@@ -84,7 +84,7 @@ We know many men put off the doctor because of language, cost or lack of time. A
 - Get a general checkup **once a year**, even if you feel fine.
 - Know your numbers: blood pressure, glucose and cholesterol.
 - Cut back on sodas and fried food; walk at least 30 minutes a day.
-- Don't normalize constant fatigue, poor sleep or irritability.
+- Don't normalize constant fatigue, poor sleep or irritability. One common, easy-to-fix cause is [vitamin B12 deficiency](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 - If you smoke, get help quitting: your cardiac risk drops within the first month.
 
 ## Why choose Clínica Hispana Nueva Salud Michoacana

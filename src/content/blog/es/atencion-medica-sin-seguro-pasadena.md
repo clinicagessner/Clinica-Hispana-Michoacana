@@ -23,7 +23,7 @@ Muchas familias hispanas posponen una consulta por miedo a una factura impagable
 En nuestra clínica, los pacientes sin seguro pueden acceder a:
 
 - Consultas de medicina familiar
-- Análisis de laboratorio
+- Análisis de laboratorio e [inyecciones de vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones)
 - Tratamiento de enfermedades comunes
 - Exámenes físicos para trabajo, escuela o licencia
 - Control de condiciones crónicas como diabetes e hipertensión

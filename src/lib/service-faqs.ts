@@ -207,6 +207,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examenes-sangre": [
     {
+      question: "¿Hacen la prueba de vitamina B12 y aplican la inyección?",
+      answer: "Sí. Medimos tu nivel de vitamina B12 en el análisis de sangre y, si hay deficiencia, aplicamos la inyección el mismo día. Tenemos una promoción de examen general de sangre más inyección de B12 por $99.",
+      questionEn: "Do you test for vitamin B12 and give the injection?",
+      answerEn: "Yes. We measure your vitamin B12 level in the blood test and, if you're deficient, give the injection the same day. We have a blood panel plus B12 injection promotion for $99.",
+    },
+    {
       question: "¿En cuánto tiempo entregan los resultados?",
       answer: "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español.",
       questionEn: "How soon are results ready?",
@@ -446,6 +452,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
   ],
   "sueros-vitaminados": [
+    {
+      question: "¿Tienen una alternativa más económica al suero vitaminado?",
+      answer: "Sí. La inyección intramuscular de vitamina B12 es rápida, no requiere vía intravenosa y ayuda a recuperar energía cuando hay deficiencia. Tenemos una promoción de examen general de sangre más inyección de B12 por $99.",
+      questionEn: "Is there a more affordable alternative to a vitamin drip?",
+      answerEn: "Yes. An intramuscular vitamin B12 injection is quick, needs no IV line and helps restore energy when you're deficient. We have a blood panel plus B12 injection promotion for $99.",
+    },
     {
       question: "¿Quién aplica el suero vitaminado?",
       answer: "Lo aplica y supervisa personal médico, tras una breve evaluación para elegir el suero adecuado para ti.",

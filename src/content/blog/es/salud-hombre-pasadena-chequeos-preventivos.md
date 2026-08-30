@@ -84,7 +84,7 @@ Sabemos que muchos hombres posponen la visita al médico por el idioma, el costo
 - Hazte un chequeo general **una vez al año**, aunque te sientas bien.
 - Conoce tus números: presión, glucosa y colesterol.
 - Reduce refrescos y comida frita; camina al menos 30 minutos al día.
-- No normalices el cansancio, el mal dormir ni el mal humor constantes.
+- No normalices el cansancio, el mal dormir ni el mal humor constantes. Una causa frecuente y fácil de corregir es la [deficiencia de vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 - Si fumas, pide apoyo para dejarlo: el riesgo cardiaco baja desde el primer mes.
 
 ## Por qué elegir Clínica Hispana Nueva Salud Michoacana

@@ -43,6 +43,22 @@ export const PROMO_FAQS: ServiceFaq[] = [
       "It's a quick shot into the muscle, like a vaccine. Side effects are uncommon and mild, such as soreness at the injection site. If you take metformin for diabetes or acid-reflux medication, checking your B12 is especially recommended.",
   },
   {
+    question: "¿Qué incluye la promoción de examen de testosterona por $79?",
+    answer:
+      "Incluye el examen de testosterona, un examen de orina y consulta médica gratis (precio regular $220). Es ideal si notas cansancio, menos energía, menos deseo sexual o dificultad con la erección.",
+    questionEn: "What does the $79 testosterone test promotion include?",
+    answerEn:
+      "It includes the testosterone test, a urine test and a free medical consultation (regular price $220). It's ideal if you notice fatigue, less energy, lower sexual desire or erection difficulties.",
+  },
+  {
+    question: "¿Qué incluye el chequeo completo de la mujer por $179?",
+    answer:
+      "Incluye ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis (precio regular $300). Todo en la misma visita, con atención en español y privacidad.",
+    questionEn: "What does the $179 complete women's checkup include?",
+    answerEn:
+      "It includes a pelvic ultrasound, Pap smear, urine test and a free medical consultation (regular price $300). All in the same visit, with care in Spanish and privacy.",
+  },
+  {
     question: "¿Cómo aparto o uso una promoción?",
     answer:
       "Llámanos, escríbenos por el formulario o visítanos sin cita. Con gusto te explicamos los pasos y lo que incluye cada promoción.",

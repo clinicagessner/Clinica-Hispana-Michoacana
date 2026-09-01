@@ -189,6 +189,54 @@ export const PROMOTIONS: Promotion[] = [
     altEn:
       "Special promotion: complete blood panel plus a Vitamin B12 injection for $99 at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
   },
+  {
+    slug: "examen-testosterona",
+    title: "Examen de Testosterona",
+    titleEn: "Testosterone Test",
+    price: "$79",
+    blurb:
+      "¿Cansado, con menos energía o menos deseo sexual? Revisa tu testosterona: examen de testosterona más examen de orina, con consulta médica gratis, por solo $79 (precio regular $220).",
+    blurbEn:
+      "Tired, low on energy or with less sexual desire? Check your testosterone: testosterone test plus a urine test, with a free medical consultation, for only $79 (regular price $220).",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción Examen de Testosterona por $79 con examen de orina y consulta médica gratis en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Testosterone Test promotion for $79 with a urine test and free medical consultation at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
+  {
+    slug: "chequeo-completo-mujer",
+    title: "Chequeo Completo de la Mujer",
+    titleEn: "Complete Women's Checkup",
+    price: "$179",
+    blurb:
+      "¿Hace cuánto no revisas tu salud femenina? Chequeo completo de la mujer con ultrasonido pélvico, papanicolaou y examen de orina, más consulta médica gratis, por solo $179 (precio regular $300).",
+    blurbEn:
+      "How long has it been since you checked your women's health? Complete women's checkup with a pelvic ultrasound, Pap smear and urine test, plus a free medical consultation, for only $179 (regular price $300).",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción Chequeo Completo de la Mujer por $179 con ultrasonido pélvico, papanicolaou y consulta médica gratis en Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+    altEn:
+      "Complete Women's Checkup promotion for $179 with a pelvic ultrasound, Pap smear and free medical consultation at Clínica Hispana Nueva Salud Michoacana, Pasadena, TX",
+  },
 ];
 
 // Navbar (header): sin "Sin cita".

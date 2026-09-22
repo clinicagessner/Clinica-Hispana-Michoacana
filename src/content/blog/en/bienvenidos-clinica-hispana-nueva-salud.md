@@ -1,41 +1,42 @@
 ---
 title: "Welcome to Clínica Hispana Nueva Salud Michoacana"
-description: "Get to know Clínica Hispana Nueva Salud Michoacana: healthcare 100% in Spanish in Pasadena, TX, walk-ins welcome and affordable pricing, no insurance needed."
-metaDescription: "Get to know Clínica Hispana Nueva Salud Michoacana: care 100% in Spanish in Pasadena, TX, walk-ins welcome, no insurance and affordable pricing."
+description: "Who we are, what we can resolve in a single visit and how walking in without insurance works. Hispanic clinic on Spencer Hwy, Pasadena, TX."
+metaDescription: "Who we are and how walking in without an appointment or insurance works at our Hispanic clinic on Spencer Hwy in Pasadena, TX."
 date: "2026-01-15"
 dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"
-coverAlt: "The Clínica Hispana Nueva Salud Michoacana team welcoming patients in Pasadena"
+coverAlt: "The team at Clínica Hispana Nueva Salud Michoacana welcoming patients in Pasadena"
 keywords:
   - "hispanic clinic pasadena"
   - "spanish speaking doctor pasadena"
   - "walk in clinic pasadena"
 ---
 
-At Clínica Hispana Nueva Salud Michoacana we believe that taking care of your health shouldn't be complicated or expensive—and certainly not held back by language. That's why we opened our doors in Pasadena with a clear mission: to offer professional, caring healthcare **100% in Spanish** for the entire Hispanic community.
+We are the clinic on Spencer Hwy: 6500 Ste 180, right off Highway 225, in Pasadena. We open seven days a week and see patients without an appointment and without insurance. If you have never been here, this is how a visit works and what can be resolved in a single stop.
 
-## Who we are
+## How walking in works
 
-We are a family medical clinic located at **6500 Spencer Hwy Ste 180, Pasadena, TX 77505**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Saturday, from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM**, because health doesn't wait for the weekend.
+You arrive, check in and wait your turn. No need to call ahead or have an assigned doctor. Patients are seen in order of arrival, so the quietest hours are usually mid-morning on weekdays; evenings and weekends are busiest, because that is when people are off work.
 
-## What you'll find with us
+You pay per visit. Before any test starts you can ask the price, and we tell you. We accept cash and cards, including phone payments.
 
-We offer a wide range of services under one roof:
+## What can be resolved in one visit
 
-- Family medicine for all ages
-- I-693 immigration medical exam with a USCIS-authorized physician
-- Clinical lab with same-day results
-- Ultrasound and electrocardiogram
-- Diabetes, hypertension and cholesterol management
-- Gynecology and women's health
-- DOT physical exam for CDL license
+Having our own lab means most things close the same day:
 
-## Why choose us
+- **Visit and lab work together:** [blood](/en/services/examenes-sangre), urine or stool tests with the sample taken right here.
+- **Paperwork:** [I-693 immigration exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician, [DOT exam](/en/services/examen-dot) for a CDL license and [school and sports physicals](/en/services/examen-fisico-escolar) with the form signed.
+- **What hurts today:** throat and urinary infections, flu, [wound care](/en/services/curacion-heridas), [abscess drainage](/en/services/drenaje-abscesos) and minor surgery.
+- **What always needs watching:** [diabetes, blood pressure and cholesterol](/en/services/condiciones-cronicas), thyroid and [women's health](/en/services/ginecologia).
 
-What sets us apart isn't just what we do, but **how we do it**. We welcome you in your language, explain every step without jargon, and treat you with the respect and time you deserve. You don't need insurance, and we offer affordable, transparent pricing.
+## Who sees you
 
-## We're waiting for you
+The clinic's medical team, who speak Spanish as a first language. That matters more than it sounds: describing pain, understanding a dose or asking an uncomfortable question should not depend on your English or on your child translating.
 
-Caring for your health is the best investment you can make for yourself and your family. Walk in or call us at **(832) 617-7439**. At Clínica Hispana Nueva Salud Michoacana, we treat you like family.
+## Before you come
+
+Bring your ID, your medication list and, if you are here for paperwork, the form you were given (school, work or your USCIS notice). If the test requires fasting, morning is your best window.
+
+We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Phone: **(832) 617-7439**. We also see families from Deer Park, South Houston and La Porte, minutes away via Highway 225.

@@ -1,7 +1,7 @@
 ---
 title: "Bienvenidos a Clínica Hispana Nueva Salud Michoacana"
-description: "Conoce Clínica Hispana Nueva Salud Michoacana: atención médica 100% en español en Pasadena, TX, sin cita previa y con precios accesibles, sin necesidad de seguro."
-metaDescription: "Conoce Clínica Hispana Nueva Salud Michoacana: atención 100% en español en Pasadena, TX, sin cita previa, sin seguro y con precios accesibles."
+description: "Quiénes somos, qué resolvemos en una sola visita y cómo funciona venir sin cita ni seguro. Clínica hispana en Spencer Hwy, Pasadena, TX."
+metaDescription: "Quiénes somos y cómo funciona venir sin cita ni seguro a nuestra clínica hispana de Spencer Hwy, en Pasadena, TX."
 date: "2026-01-15"
 dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
@@ -14,28 +14,29 @@ keywords:
   - "clínica sin cita pasadena"
 ---
 
-En Clínica Hispana Nueva Salud Michoacana creemos que cuidar tu salud no debería ser complicado ni costoso, y mucho menos cuando el idioma se interpone. Por eso abrimos nuestras puertas en Pasadena con una idea muy clara: ofrecer atención médica profesional, cercana y **100% en español** para toda la comunidad hispana.
+Somos la clínica de Spencer Hwy: 6500 Ste 180, junto a la 225, en Pasadena. Abrimos los siete días de la semana y atendemos sin cita y sin seguro. Si nunca has venido, aquí te contamos cómo funciona una visita y qué se puede resolver en una sola pasada.
 
-## Quiénes somos
+## Cómo funciona venir sin cita
 
-Somos una clínica médica familiar ubicada en **6500 Spencer Hwy Ste 180, Pasadena, TX 77505**. Atendemos a niños y adultos, con precios accesibles y sin necesidad de seguro, y sin necesidad de cita previa. Nuestro horario es de **lunes a sábado, de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM**, porque sabemos que la salud no espera al fin de semana.
+Llegas, te registras y esperas tu turno. No hay que llamar antes ni tener un doctor asignado. Se atiende por orden de llegada, así que las horas más tranquilas suelen ser a media mañana entre semana; las tardes y los fines de semana son las más ocupadas, porque es cuando la gente sale del trabajo.
 
-## Qué puedes encontrar con nosotros
+Se paga por visita. Antes de empezar cualquier estudio puedes preguntar el precio, y te lo decimos. Aceptamos efectivo y tarjetas, incluido el pago con el teléfono.
 
-Ofrecemos una amplia gama de servicios bajo un mismo techo:
+## Qué se resuelve en una sola visita
 
-- Medicina familiar para todas las edades
-- Examen médico de inmigración I-693 con médico autorizado por USCIS
-- Laboratorio clínico con resultados el mismo día
-- Ultrasonido y electrocardiograma
-- Control de diabetes, hipertensión y colesterol
-- Ginecología y salud de la mujer
-- Examen físico DOT para licencia CDL
+La ventaja de tener laboratorio propio es que casi todo se cierra el mismo día:
 
-## Por qué elegirnos
+- **Consulta y laboratorio juntos:** [análisis de sangre](/services/examenes-sangre), orina o heces con la muestra tomada ahí mismo.
+- **Trámites:** [examen de inmigración I-693](/services/examenes-inmigracion) con médico autorizado por USCIS, [examen DOT](/services/examen-dot) para licencia CDL y [chequeos escolares y deportivos](/services/examen-fisico-escolar) con el formulario firmado.
+- **Lo que duele hoy:** infecciones de garganta y orina, gripe, [curación de heridas](/services/curacion-heridas), [drenaje de abscesos](/services/drenaje-abscesos) y cirugías menores.
+- **Lo que hay que vigilar siempre:** [diabetes, presión y colesterol](/services/condiciones-cronicas), tiroides y [salud de la mujer](/services/ginecologia).
 
-Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te recibimos en tu idioma, te explicamos cada paso sin tecnicismos y te tratamos con el respeto y el tiempo que mereces. No necesitas seguro médico y manejamos precios accesibles y transparentes.
+## Quiénes atienden
 
-## Te esperamos
+El equipo médico de la clínica, que habla español como primera lengua. Eso importa más de lo que parece: describir un dolor, entender una dosis o hacer una pregunta incómoda no debería depender de tu inglés ni de que tu hijo traduzca.
 
-Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(832) 617-7439**. En Clínica Hispana Nueva Salud Michoacana, te atendemos como a los nuestros.
+## Antes de venir
+
+Trae tu identificación, la lista de tus medicamentos y, si vienes por un trámite, el papel que te pidieron (formulario de la escuela, del trabajo o el aviso de USCIS). Si el estudio requiere ayuno, la mañana es tu mejor momento.
+
+Estamos abiertos de lunes a sábado de 9 AM a 9 PM y el domingo de 9 AM a 7 PM. Teléfono: **(832) 617-7439**. También atendemos a familias de Deer Park, South Houston y La Porte, que nos quedan a minutos por la 225.

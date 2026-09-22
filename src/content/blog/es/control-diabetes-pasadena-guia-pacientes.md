@@ -1,6 +1,6 @@
 ---
 title: "Control de diabetes en Pasadena: guía para pacientes"
-description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Pasadena."
+description: "Qué números hay que vigilar, cada cuánto medir y qué cambia de verdad el resultado. Control de diabetes en español en Pasadena, TX."
 date: "2026-02-10"
 dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
@@ -13,35 +13,31 @@ keywords:
   - "guía diabetes pacientes"
 ---
 
-La diabetes es una de las condiciones más comunes en la comunidad hispana, pero con el control adecuado puedes llevar una vida plena y activa. Esta guía te explica lo esencial en palabras simples.
+Controlar la diabetes se reduce a tres cosas: saber qué números vigilar, medirlos con la frecuencia correcta y ajustar cuando se salen. Lo demás es ruido. Esta guía explica los números, la frecuencia y lo que de verdad los mueve.
 
-## Conoce tus números
+## Los números que importan
 
-El primer paso es saber dónde estás. Tu médico te ayudará a entender:
+**Hemoglobina glicosilada (A1C).** Es el promedio de tu azúcar de los últimos dos o tres meses. La [Asociación Americana de Diabetes](https://diabetes.org/about-diabetes/a1c) sitúa la meta de la mayoría de los adultos por debajo del 7 %, aunque tu médico puede fijarte otra según tu edad y tus otras condiciones.
 
-- **Glucosa en ayunas:** tu nivel de azúcar al despertar.
-- **Hemoglobina A1c:** tu promedio de azúcar en los últimos 3 meses.
-- **Presión arterial y colesterol:** muchas veces van de la mano con la diabetes.
+**Glucosa en casa.** En ayunas, lo habitual es apuntar a entre 80 y 130 mg/dL, y dos horas después de comer, por debajo de 180.
 
-## La alimentación es tu medicina
+**Presión y colesterol.** La diabetes daña sobre todo a través del corazón y los riñones, así que no basta con el azúcar: la presión y el LDL se vigilan igual.
 
-No se trata de dejar de comer lo que te gusta, sino de equilibrar. Algunos consejos:
+## Cada cuánto revisarse
 
-1. Reduce las bebidas azucaradas y los refrescos.
-2. Prefiere porciones moderadas de tortilla, arroz y pan.
-3. Llena la mitad de tu plato con verduras.
-4. Toma agua en lugar de jugos.
+A1C cada tres meses mientras no estés en meta, y dos veces al año cuando ya lo estés. Presión en cada visita. Perfil de lípidos y función de riñón una vez al año. Revisión de pies en cada consulta, y del fondo de ojo una vez al año. Eso último se olvida siempre y es lo que salva la vista.
 
-## Muévete cada día
+## Lo que sí mueve la aguja
 
-Una caminata de 30 minutos al día ayuda a bajar el azúcar y a sentirte mejor. No necesitas un gimnasio: camina, baila o sube escaleras.
+- **La caminata después de comer.** Diez o quince minutos bajan el pico de azúcar mejor que caminar en ayunas.
+- **El tamaño del plato de arroz, pan o tortilla.** No hace falta eliminarlos; hace falta medirlos.
+- **Las bebidas.** Un refresco o un jugo grande pueden arruinar un día entero de esfuerzo. El agua es lo más barato que puedes hacer por tu A1C.
+- **Tomar el medicamento a la misma hora.** Las dosis salteadas se notan en el resultado a los tres meses.
 
-## El seguimiento marca la diferencia
+## Señales de alarma
 
-La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el seguimiento regular con tu médico es clave para ajustar el tratamiento a tiempo.
+Sed y ganas de orinar constantes, visión borrosa, pérdida de peso sin buscarlo, heridas en el pie que no cierran, hormigueo en las manos o los pies, o episodios de azúcar baja con temblor y sudor frío. Cualquiera de esas cosas amerita una visita pronto, no esperar al siguiente control.
 
-Si tomas metformina, revisa tu nivel de vitamina B12 al menos una vez al año: este medicamento reduce su absorción y la deficiencia causa cansancio y hormigueo. Te lo explicamos en nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+## Dónde llevar tu control
 
-## Cuenta con nosotros
-
-En Clínica Hispana Nueva Salud Michoacana tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(832) 617-7439** y toma el control de tu salud.
+En la Michoacana tienes consulta, [laboratorio](/services/examenes-sangre) y [seguimiento de condiciones crónicas](/services/condiciones-cronicas) en el mismo lugar, sin cita y sin seguro, en 6500 Spencer Hwy Ste 180, Pasadena. Sales con tus números, tus metas y el ajuste de tu tratamiento. Teléfono: **(832) 617-7439**.

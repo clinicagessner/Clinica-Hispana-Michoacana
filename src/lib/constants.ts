@@ -31,6 +31,10 @@ export const SITE_CONFIG = {
     "Hispanic clinic and medical center in Pasadena, TX, in the Houston area. Professional care in Spanish, walk-ins welcome, no insurance needed. Primary care, family medicine, blood tests, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
+  // Nombre exacto de la ficha de Google (va como alternateName en el schema).
+  gbpName: "Clínica Hispana Nueva Salud Michoacana",
+  // Fecha de apertura declarada en la ficha: solo el año, el 1-ene es relleno.
+  foundingYear: "2010",
   logoUrl: "/logo-nueva-salud.webp",
   ogImage: "/images/og/og-default.png",
 } as const;
@@ -72,6 +76,20 @@ export const CONTACT_INFO = {
 } as const;
 
 // Horario estructurado para JSON-LD (openingHoursSpecification).
+// Última revisión de contenido de las páginas de servicio (lastmod del sitemap).
+// Se toca en el mismo commit que cambia el texto de los servicios.
+export const SERVICES_LAST_REVIEWED = "2026-09-22";
+
+// Zonas que atiende la clínica. La ficha solo declara Pasadena; el resto sale
+// de la descripción de la ficha, que las nombra una a una.
+export const AREAS_SERVED = [
+  "Pasadena",
+  "Deer Park",
+  "La Porte",
+  "South Houston",
+  "Houston",
+] as const;
+
 export const OPENING_HOURS = [
   { day: "Monday", opens: "09:00", closes: "21:00" },
   { day: "Tuesday", opens: "09:00", closes: "21:00" },

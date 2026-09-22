@@ -1,7 +1,9 @@
 import {
+  AREAS_SERVED,
   CONTACT_INFO,
   OPENING_HOURS,
   SITE_CONFIG,
+  SOCIAL_LINKS,
 } from "@/lib/constants";
 import { getAllServices } from "@/lib/services";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -52,7 +54,9 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
     logo: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
     priceRange: "$$",
     currenciesAccepted: "USD",
-    paymentAccepted: "Cash, Credit Card",
+    // Del volcado de "Acerca de tu negocio" de la ficha (2026-09-22).
+    paymentAccepted:
+      "Cash, Credit Card, Debit Card, NFC mobile payments, Visa, Mastercard, American Express, Discover",
     address: postalAddress,
     geo: {
       "@type": "GeoCoordinates",
@@ -60,8 +64,21 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       longitude: CONTACT_INFO.coordinates.lng,
     },
     hasMap: CONTACT_INFO.googleMapsUrl,
-    areaServed: { "@type": "City", name: "Pasadena" },
+    alternateName: SITE_CONFIG.gbpName,
+    foundingDate: SITE_CONFIG.foundingYear,
+    sameAs: Object.values(SOCIAL_LINKS).filter(Boolean),
+    areaServed: AREAS_SERVED.map((name) => ({ "@type": "City", name })),
     availableLanguage: ["es", "en"],
+    isAcceptingNewPatients: true,
+    amenityFeature: [
+      { "@type": "LocationFeatureSpecification", name: "Wheelchair accessible entrance", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Wheelchair accessible parking lot", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Free parking lot", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Restroom", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Walk-ins accepted", value: true },
+      { "@type": "LocationFeatureSpecification", name: "LGBTQ+ friendly", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Transgender safespace", value: true },
+    ],
     openingHoursSpecification: OPENING_HOURS.map((h) => ({
       "@type": "OpeningHoursSpecification",
       dayOfWeek: `https://schema.org/${h.day}`,

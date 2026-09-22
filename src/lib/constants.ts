@@ -2525,69 +2525,67 @@ ${AREAS_EN}`,
     title: "Farmacia",
     titleEn: "Pharmacy",
     shortDescription:
-      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+      "Recibe los medicamentos indicados en tu consulta, sin ir a otro lugar.",
     shortDescriptionEn:
-      "Pick up your medications right after your visit — no second stop.",
+      "Get the medications indicated during your visit — no second stop.",
     description:
-      "Farmacia en Pasadena, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Farmacia en Pasadena, TX dentro de la clínica: entrega de los medicamentos indicados en tu consulta y productos de venta libre, en español.",
     descriptionEn:
-      "Pharmacy in Pasadena, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "Pharmacy in Pasadena, TX inside the clinic: we provide the medications indicated during your visit plus over-the-counter products, in Spanish.",
     keywords: [
       "farmacia en pasadena",
       "farmacia hispana pasadena",
       "farmacia cerca de mí pasadena",
-      "surtir receta pasadena",
+      "medicamentos en la clinica pasadena",
     ],
     keywordsEn: [
       "pharmacy pasadena",
       "hispanic pharmacy pasadena",
       "pharmacy near me pasadena",
-      "fill prescription pasadena",
+      "clinic medications pasadena",
     ],
     features: [
-      "Surtido de tu receta al instante",
-      "Medicamentos de marca y genéricos",
+      "Medicamentos indicados en tu consulta",
+      "Opciones de marca y genéricas",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
-      "Brand-name and generic medications",
+      "Medications indicated during your visit",
+      "Brand-name and generic options",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud Michoacana puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud Michoacana puedes llevarte los medicamentos que el equipo médico te indique, sin tener que ir a otro lugar. También tenemos productos de venta libre. Es la comodidad de resolver todo en una sola visita, con atención en español.
 
 ## ¿Qué incluye?
 
-- Surtido de tu receta justo al terminar la consulta
-- Medicamentos de marca y genéricos
+- Entrega de los medicamentos indicados en tu consulta
+- Opciones de marca y genéricas
 - Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
 - Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
 
 ## ¿Por qué usar nuestra farmacia?
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+Te ahorras una segunda parada: el equipo médico te atiende y te entrega ahí mismo los medicamentos que indique tu tratamiento. Te explicamos en español la dosis, los horarios y los cuidados.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud Michoacana you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud Michoacana you can take home the medications indicated by the medical team, without going anywhere else. We also carry over-the-counter products. It's the convenience of getting everything done in a single visit, with service in Spanish.
 
 ## What's included?
 
-- Your prescription filled right after your visit
-- Brand-name and generic medications
+- Medications indicated during your visit, provided on site
+- Brand-name and generic options
 - Over-the-counter (OTC) medications for colds, pain, allergies and more
 - Staff guidance on how to take your medications
-- Prescription refills
 
 ## Why use our pharmacy?
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+You skip the second stop: the medical team sees you and provides the medications your treatment requires right there. We explain the dosage, schedule and precautions in Spanish.
 
 ${WHY_EN}
 

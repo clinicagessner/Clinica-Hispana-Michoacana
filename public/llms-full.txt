@@ -52,4 +52,4 @@ Clínica Hispana Nueva Salud Michoacana es una clínica de medicina familiar ubi
 - Cirugías Menores: Procedimientos de cirugía menor ambulatoria (lunares, quistes, lipomas) con anestesia local.
 - Drenaje de Abscesos: Drenaje de abscesos e infecciones de piel para aliviar el dolor y favorecer la curación.
 - Extracción de Uñas Encarnadas: Tratamiento de uñas encarnadas para aliviar el dolor y prevenir infecciones, en español.
-- Farmacia: Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.
+- Farmacia: Recibe los medicamentos indicados en tu consulta, sin ir a otro lugar.

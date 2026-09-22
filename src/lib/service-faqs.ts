@@ -579,10 +579,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "farmacia": [
     {
-      question: "¿Puedo surtir mi receta en la clínica?",
-      answer: "Sí, al terminar tu consulta surtimos tu receta en nuestra farmacia, sin tener que ir a otro lugar.",
-      questionEn: "Can I fill my prescription at the clinic?",
-      answerEn: "Yes, after your visit we fill your prescription at our pharmacy, with no need to go elsewhere.",
+      question: "¿Puedo recibir mis medicamentos en la clínica?",
+      answer: "Sí. Al terminar tu consulta te entregamos los medicamentos que el equipo médico te haya indicado, sin tener que ir a otro lugar. También tenemos productos de venta libre.",
+      questionEn: "Can I get my medications at the clinic?",
+      answerEn: "Yes. After your visit we provide the medications indicated by the medical team, with no need to go elsewhere. We also carry over-the-counter products.",
     },
     {
       question: "¿Necesito cita previa?",

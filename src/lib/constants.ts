@@ -1188,13 +1188,13 @@ ${AREAS_EN}`,
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Examen de orina y tratamiento de infecciones urinarias con atención rápida, en español.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "Urinalysis and prompt urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en una clínica hispana en Pasadena, TX. En español, con precios accesibles.",
+      "Examen de orina y tratamiento de infecciones urinarias sin cita y con atención rápida, en una clínica hispana en Pasadena, TX. En español.",
     descriptionEn:
-      "Urinalysis and same-day urinary infection treatment at a Hispanic clinic in Pasadena, TX. In Spanish, with affordable pricing.",
+      "Urinalysis and prompt urinary infection treatment, walk-in, at a Hispanic clinic in Pasadena, TX. In Spanish, with affordable pricing.",
     keywords: [
       "examen de orina pasadena",
       "infeccion urinaria pasadena",
@@ -1212,23 +1212,23 @@ ${AREAS_EN}`,
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento el mismo día",
+      "Tratamiento sin cita previa",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Same-day treatment",
+      "Walk-in treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud Michoacana te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud Michoacana te hacemos la prueba y, si hay infección, empezamos el tratamiento en la misma visita.
 
 ## ¿Qué incluye?
 
 - Examen general de orina (urianálisis)
 - Evaluación de síntomas
 - Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
+- Tratamiento adecuado según el resultado
 - Indicaciones para evitar que regrese
 
 ## Síntomas frecuentes
@@ -1237,21 +1237,21 @@ Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y 
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Llega sin cita: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día.
+Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Llega sin cita: te hacemos el examen de orina y, si hay infección, salimos de la visita con tu tratamiento indicado.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud Michoacana we run the test and, if there's an infection, we start treatment the same day.
+    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud Michoacana we run the test and, if there's an infection, we start treatment during the same visit.
 
 ## What's included?
 
 - General urinalysis
 - Symptom evaluation
 - Diagnosis of urinary infection
-- Appropriate same-day treatment
+- Appropriate treatment based on the result
 - Tips to prevent it from coming back
 
 ## Common symptoms
@@ -1260,7 +1260,7 @@ Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and
 
 ## Urinary infection care at a Hispanic clinic near you
 
-We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. Walk in with no appointment: we run the urine test and, if there's an infection, you leave with your treatment the same day.
+We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. Walk in with no appointment: we run the urine test and, if there's an infection, you leave the visit with your treatment indicated.
 
 ${WHY_EN}
 

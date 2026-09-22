@@ -876,36 +876,46 @@ ${AREAS_EN}`,
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud Michoacana realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `La prueba de embarazo se hace aquí en minutos, con orina o con sangre, y el resultado se explica en privado junto con las opciones de lo que sigue.
 
-## ¿Qué incluye?
+## ¿Cuándo conviene hacerla?
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+La prueba de orina es confiable desde el primer día de retraso; antes de eso puede salir negativa aunque haya embarazo. La de sangre detecta niveles más bajos y sirve unos días antes, además de indicar si el embarazo va avanzando cuando hay dudas.
 
-## Con confianza y respeto
+## ¿Qué pasa si sale positiva?
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+Se confirma el resultado, se calculan las semanas y se revisa lo básico: presión, peso y análisis. Te explicamos las opciones de control prenatal y, como aquí no llevamos el embarazo completo, se orienta la referencia al lugar donde continuarlo, con o sin seguro.
+
+## ¿Y si sale negativa pero no me baja?
+
+El retraso también viene por estrés, cambios de peso, problemas de tiroides, síndrome de ovario poliquístico o anticonceptivos. Si la regla no llega en una o dos semanas, conviene repetir la prueba y revisar esas causas en [consulta ginecológica](/services/ginecologia).
+
+## ¿Es privado?
+
+Sí. Tu resultado es tuyo y se explica en privado, sin juicios y en español. Puedes venir sola o acompañada, sin cita y sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud Michoacana we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+    longDescriptionEn: `A pregnancy test is done here in minutes, by urine or blood, and the result is explained privately along with the options for what comes next.
 
-## What's included?
+## When should I take it?
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+The urine test is reliable from the first day of a missed period; before that it can read negative even with a pregnancy. The blood test detects lower levels and works a few days earlier, and it can also show whether a pregnancy is progressing when there is doubt.
 
-## With trust and respect
+## What if it is positive?
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+The result is confirmed, the weeks are calculated and the basics are checked: blood pressure, weight and lab work. We explain prenatal care options and, since we do not follow pregnancies to term here, we guide the referral to where you can continue, with or without insurance.
+
+## What if it is negative but my period has not come?
+
+A late period also comes from stress, weight changes, thyroid problems, polycystic ovary syndrome or birth control. If your period does not arrive within a week or two, it is worth repeating the test and reviewing those causes at a [gynecological visit](/en/services/ginecologia).
+
+## Is it private?
+
+Yes. Your result is yours and it is explained in private, without judgment and in Spanish. You can come alone or with someone, without an appointment or insurance.
 
 ${WHY_EN}
 
@@ -1475,38 +1485,46 @@ ${AREAS_EN}`,
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud Michoacana hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `No todo dolor de garganta necesita antibiótico. La prueba rápida de estreptococo lo aclara en minutos con un hisopado, y si sale positiva el tratamiento se indica en la misma visita.
 
-## ¿Qué incluye?
+## ¿Cómo sé si puede ser strep?
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+Las señales típicas son dolor de garganta fuerte y repentino, fiebre, ganglios inflamados en el cuello y placas blancas en las amígdalas, **sin** tos ni mocos. Cuando hay tos, ronquera y moco abundante, lo más probable es un virus, y ahí el antibiótico no ayuda.
 
-## Cuándo hacerla
+## ¿Cómo es la prueba?
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+Un hisopado rápido en el fondo de la garganta. Da molestia un segundo, no dolor, y el resultado sale en pocos minutos. No hace falta preparación ni ayuno.
+
+## ¿Por qué importa tratarlo?
+
+Porque el estreptococo no tratado puede complicarse, sobre todo en niños y jóvenes, y porque el tratamiento correcto corta el contagio en la casa y en la escuela. Si el resultado es negativo, se trata el dolor de garganta sin antibiótico innecesario.
+
+## ¿Cuándo puedo volver al trabajo o a la escuela?
+
+Con tratamiento, la mayoría deja de contagiar en las primeras 24 horas y se siente mejor pronto. Lo importante es terminar el tratamiento completo aunque la garganta ya no duela, porque cortarlo a la mitad es lo que causa recaídas.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud Michoacana we run the rapid strep test and give you the result and treatment the same day.
+    longDescriptionEn: `Not every sore throat needs an antibiotic. The rapid strep test settles it in minutes with a throat swab, and if it is positive, treatment is prescribed during the same visit.
 
-## What's included?
+## How do I know it might be strep?
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+The typical signs are sudden, severe throat pain, fever, swollen neck glands and white patches on the tonsils, **without** cough or runny nose. When there is cough, hoarseness and heavy mucus, a virus is more likely, and antibiotics will not help.
 
-## When to get it
+## What is the test like?
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+A quick swab at the back of the throat. It is uncomfortable for a second, not painful, and the result comes back within minutes. No preparation or fasting needed.
+
+## Why does treating it matter?
+
+Because untreated strep can lead to complications, especially in children and teens, and because correct treatment stops the spread at home and at school. If the result is negative, the sore throat is treated without an unnecessary antibiotic.
+
+## When can I go back to work or school?
+
+With treatment, most people stop being contagious within the first 24 hours and feel better soon. What matters is finishing the full course even when the throat no longer hurts, because stopping halfway is what causes relapses.
 
 ${WHY_EN}
 
@@ -1553,36 +1571,46 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud Michoacana la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `La prueba de tuberculosis se pide para trabajos de salud, escuelas y trámites migratorios. Aquí se aplica, se lee el resultado y se te entrega la documentación con fecha.
 
-## ¿Qué incluye?
+## ¿Cómo funciona la prueba de piel (PPD)?
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+Se inyecta una pequeña cantidad bajo la piel del antebrazo y se forma una burbujita. Tienes que **regresar entre 48 y 72 horas después** para la lectura: se mide el endurecimiento, no el enrojecimiento. Si no vuelves en ese plazo, la prueba no sirve y hay que repetirla.
 
-## Para qué la piden
+## ¿Puedo bañarme o taparla?
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+Sí, puedes mojar el brazo con normalidad. Lo que no hay que hacer es rascar, frotar o poner cremas y curitas sobre la zona, porque altera la lectura.
+
+## ¿Qué significa un resultado positivo?
+
+Que hubo contacto con la bacteria, no necesariamente que tengas tuberculosis activa ni que contagies. El siguiente paso suele ser una radiografía de tórax y una evaluación de síntomas como tos larga, fiebre, sudores de noche o pérdida de peso.
+
+## ¿Sirve para mi trámite de inmigración?
+
+El examen I-693 incluye su propia prueba de tuberculosis, que a partir de los dos años es de sangre (IGRA) según las normas de los CDC. Si estás en ese trámite, conviene hacerlo dentro del [examen de inmigración](/services/examenes-inmigracion) y no por separado.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud Michoacana we administer it and read the result, with everything explained in Spanish.
+    longDescriptionEn: `Tuberculosis testing is required for healthcare jobs, schools and immigration paperwork. Here it is placed, read and documented with a date.
 
-## What's included?
+## How does the skin test (PPD) work?
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+A small amount is injected under the skin of the forearm, raising a small bubble. You must **come back 48 to 72 hours later** for the reading: what gets measured is firmness, not redness. If you do not return within that window, the test is void and has to be repeated.
 
-## Why it's required
+## Can I shower or cover it?
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+Yes, you can get your arm wet as usual. What you must not do is scratch, rub or apply creams or bandages over the area, because that alters the reading.
+
+## What does a positive result mean?
+
+That there was contact with the bacteria, not necessarily that you have active tuberculosis or that you are contagious. The next step is usually a chest X-ray and an assessment of symptoms such as long-lasting cough, fever, night sweats or weight loss.
+
+## Does it work for my immigration case?
+
+The I-693 exam includes its own tuberculosis test, which for applicants age 2 and older is a blood test (IGRA) under CDC rules. If you are in that process, it is better done within the [immigration exam](/en/services/examenes-inmigracion) rather than separately.
 
 ${WHY_EN}
 
@@ -1791,36 +1819,46 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud Michoacana lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `El electrocardiograma registra la actividad eléctrica del corazón en unos minutos, sin dolor y sin preparación. Se hace en la clínica y el personal médico lo interpreta ahí mismo.
 
-## ¿Qué incluye?
+## ¿Cómo es el estudio?
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+Te acuestas, se colocan diez electrodos adhesivos en el pecho, los brazos y las piernas, y el equipo registra el trazo mientras respiras normal. Dura unos cinco minutos. No se aplica corriente: el aparato solo escucha la señal que tu corazón ya produce.
 
-## Cuándo se recomienda
+## ¿Para qué sirve?
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+Para revisar el ritmo (si va rápido, lento o irregular), detectar señales de daño previo y evaluar síntomas como palpitaciones, mareo, falta de aire o dolor de pecho al esfuerzo. También se pide como parte de exámenes de trabajo, de deporte o previos a una cirugía.
+
+## ¿Qué no detecta?
+
+Un EKG normal no descarta todo. Muchas arritmias van y vienen, y algunas obstrucciones de las arterias no se ven en reposo. Por eso se interpreta junto con tus síntomas, tu presión y tu laboratorio, y si hace falta se orienta la referencia al cardiólogo.
+
+## ¿Cuándo hay que ir a urgencias en vez de hacerse un EKG?
+
+Si tienes dolor de pecho ahora mismo, sobre todo con sudor frío, falta de aire o dolor que baja al brazo o la mandíbula, no vengas en carro a la clínica: llama al 911. Ahí cada minuto cuenta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud Michoacana we perform it as part of checkups and medical exams.
+    longDescriptionEn: `An electrocardiogram records your heart's electrical activity in a few minutes, painlessly and with no preparation. It is done at the clinic and interpreted on site by medical staff.
 
-## What's included?
+## What is the test like?
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+You lie down, ten adhesive electrodes are placed on your chest, arms and legs, and the machine records the tracing while you breathe normally. It takes about five minutes. No current is applied: the device only listens to the signal your heart already produces.
 
-## When it's recommended
+## What is it for?
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+To check rhythm (fast, slow or irregular), detect signs of previous damage and evaluate symptoms such as palpitations, dizziness, shortness of breath or chest pain on exertion. It is also requested as part of work, sports or pre-surgical exams.
+
+## What does it not detect?
+
+A normal EKG does not rule out everything. Many arrhythmias come and go, and some artery blockages do not show at rest. That is why it is read alongside your symptoms, blood pressure and lab work, and a cardiology referral is guided when needed.
+
+## When should I go to the ER instead?
+
+If you have chest pain right now, especially with cold sweats, shortness of breath or pain radiating to the arm or jaw, do not drive to the clinic: call 911. Minutes matter there.
 
 ${WHY_EN}
 
@@ -2298,38 +2336,46 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud Michoacana cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `Un corte que necesita puntos cierra mejor cuando se sutura pronto. Aquí se limpia, se cierra con anestesia local y se te explica cómo cuidarlo y cuándo volver a retirar los puntos.
 
-## ¿Qué incluye?
+## ¿Cuántas horas tengo para suturar?
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+Cuanto antes, mejor: la mayoría de los cortes limpios se suturan dentro de las primeras horas. Pasado ese tiempo el riesgo de infección sube y a veces conviene cerrar de otra forma o dejar que cicatrice solo. Si el corte es en la cara, ve pronto por el resultado estético.
 
-## Cuándo acudir
+## ¿Qué heridas sí y cuáles no?
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+Se suturan cortes limpios y rectos que no cierran solos. Requieren otra vía las heridas con mucha suciedad o material dentro, las mordeduras (que suelen no suturarse), las que llegan a hueso o tendón y las que sangran a chorro: eso último es sala de emergencias, no clínica.
+
+## ¿Cuándo se quitan los puntos?
+
+Depende del sitio: en la cara, entre cinco y siete días; en brazos y manos, unos diez; en piernas y espalda, de diez a catorce. Ese retiro también se hace aquí, aunque te hayan suturado en otro lugar.
+
+## ¿Qué debo vigilar en casa?
+
+Mantén la herida limpia y seca las primeras 24 horas, cámbiale el vendaje según se indique y vuelve si aparece enrojecimiento que crece, pus, mal olor o fiebre. Se revisa además si te toca el [refuerzo del tétanos](/services/vacunas), sobre todo en heridas sucias.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud Michoacana we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+    longDescriptionEn: `A cut that needs stitches closes better when it is sutured early. Here it is cleaned, closed with local anesthesia, and we explain how to care for it and when to come back for removal.
 
-## What's included?
+## How many hours do I have?
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+The sooner the better: most clean cuts are sutured within the first few hours. After that, infection risk rises and sometimes it is better to close it another way or let it heal on its own. If the cut is on the face, go early for the cosmetic result.
 
-## When to come in
+## Which wounds can be sutured?
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+Clean, straight cuts that will not close on their own. Other routes are needed for wounds with heavy dirt or material inside, bites (usually not sutured), wounds reaching bone or tendon, and spurting bleeding: that last one is an emergency room, not a clinic.
+
+## When do stitches come out?
+
+It depends on the site: face, five to seven days; arms and hands, about ten; legs and back, ten to fourteen. We remove them here too, even if you were sutured somewhere else.
+
+## What should I watch at home?
+
+Keep the wound clean and dry for the first 24 hours, change the dressing as instructed, and come back if you get spreading redness, pus, a bad smell or fever. We also check whether you are due for a [tetanus booster](/en/services/vacunas), especially with dirty wounds.
 
 ${WHY_EN}
 
@@ -2626,38 +2672,46 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud Michoacana la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `La uña encarnada se resuelve en una visita: anestesia local, retiro de la porción que se está clavando y alivio inmediato. Se hace sin cita y en español.
 
-## ¿Qué incluye?
+## ¿Cómo empieza?
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+Casi siempre por cortar la uña en curva o demasiado corta, por zapatos apretados o por un golpe. El borde se entierra en la piel, la zona se inflama y el roce con el zapato la empeora cada día. El dedo gordo del pie es el que se lleva la mayoría de los casos.
 
-## Cuándo acudir
+## ¿Cómo es el procedimiento?
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+Se limpia el dedo y se aplica anestesia local; después se retira solo la porción encarnada, no toda la uña. Si hay infección, se drena y se indica tratamiento. Son pocos minutos y sales caminando, con el dedo vendado.
+
+## ¿Qué cuidados siguen?
+
+Mantén el dedo limpio y seco, usa zapato holgado unos días y evita correr o cargar peso al principio. Los remedios de internet, como cortar una "V" en la uña o meter algodón sin limpieza, suelen terminar en infección.
+
+## ¿Y si tengo diabetes?
+
+No la trates en casa. Cualquier procedimiento en el pie de una persona con diabetes merece revisión médica, porque la circulación y la sensibilidad cambian el riesgo. Aquí puedes combinarlo con [curación de heridas](/services/curacion-heridas) y revisión de tu azúcar.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud Michoacana we treat it with a simple procedure and local anesthesia to relieve you the same day.
+    longDescriptionEn: `An ingrown toenail is fixed in one visit: local anesthesia, removal of the portion digging into the skin and immediate relief. Walk-in, in Spanish.
 
-## What's included?
+## How does it start?
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+Almost always from cutting the nail curved or too short, tight shoes or an impact. The edge buries itself in the skin, the area swells and shoe friction makes it worse every day. The big toe takes most of the cases.
 
-## When to come in
+## What does the procedure involve?
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+The toe is cleaned and local anesthesia is given; then only the ingrown portion is removed, not the whole nail. If there is infection, it is drained and treatment is prescribed. It takes a few minutes and you walk out with the toe bandaged.
+
+## What aftercare is needed?
+
+Keep the toe clean and dry, wear loose shoes for a few days and avoid running or carrying weight at first. Internet remedies, such as cutting a "V" in the nail or packing cotton without cleaning, usually end in infection.
+
+## What if I have diabetes?
+
+Do not treat it at home. Any foot procedure in a person with diabetes deserves medical review, because circulation and sensation change the risk. Here you can combine it with [wound care](/en/services/curacion-heridas) and a blood sugar check.
 
 ${WHY_EN}
 

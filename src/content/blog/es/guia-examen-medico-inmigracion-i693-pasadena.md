@@ -1,7 +1,8 @@
 ---
 title: "Guía del examen médico de inmigración I-693 en Pasadena"
-description: "Todo sobre el examen médico I-693 en Pasadena: qué incluye, qué vacunas necesitas y cómo recibir el formulario sellado por un médico autorizado por USCIS."
+description: "Qué incluye el examen I-693, qué vacunas pide USCIS, cuánto dura y por qué no debes abrir el sobre. En Pasadena, TX y en español."
 date: "2026-03-18"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Inmigración"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-pasadena.webp"
@@ -12,34 +13,41 @@ keywords:
   - "civil surgeon pasadena español"
 ---
 
-El examen médico de inmigración (Formulario I-693) es un paso obligatorio en muchos procesos de ajuste de estatus. Conocer cómo funciona te ayuda a llegar preparado y evitar retrasos.
+El examen médico del Formulario I-693 es uno de los pasos que más nervios provoca del ajuste de estatus, casi siempre por desconocimiento. No es un examen que se apruebe o se repruebe: es un reporte de salud pública. Esta guía explica qué revisan, qué vacunas pide USCIS, cuánto tarda y los errores que hacen repetir la visita.
 
-## ¿Para qué sirve el I-693?
+## Para qué sirve, en realidad
 
-USCIS exige este examen para confirmar que no existen condiciones de salud que afecten tu solicitud. Debe realizarlo un **médico autorizado por USCIS**, conocido como *civil surgeon*.
+USCIS pide el [Formulario I-693](https://www.uscis.gov/i-693) para descartar cuatro cosas concretas: enfermedades transmisibles de importancia para la salud pública, falta de las vacunas exigidas, trastornos físicos o mentales con comportamiento peligroso, y consumo de drogas. Nada más. Tener diabetes, presión alta o sobrepeso no afecta tu caso.
 
-## ¿Qué incluye el examen?
+Quien lo firma tiene que ser un **civil surgeon**, un médico designado por USCIS dentro de Estados Unidos. Si quieres entender ese papel a fondo, lo explicamos en [qué es un médico autorizado por USCIS](/blog/medicos-autorizados-uscis-pasadena-civil-surgeon).
 
-- Revisión de tu historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas, incluida la de tuberculosis
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y **sellado en sobre oficial**
+## Qué pasa el día del examen
 
-## ¿Qué vacunas necesito?
+- **Historial y revisión de vacunas.** Se comparan tus dosis previas con las que exige USCIS.
+- **Examen físico**, con signos vitales, revisión general y preguntas sobre enfermedades y medicamentos.
+- **Prueba de tuberculosis.** Según las [instrucciones de los CDC](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html), a partir de los 2 años se hace una prueba de sangre (IGRA). Si sale positiva, sigue una radiografía de tórax, y esa parte alarga el proceso varios días.
+- **Otras pruebas de laboratorio** según edad y antecedentes, como sífilis y gonorrea.
+- **Vacunas faltantes**, que se aplican ahí mismo.
+- **Llenado y sellado del formulario**, que te entregamos en sobre cerrado.
 
-USCIS requiere ciertas vacunas según tu edad e historial (por ejemplo, influenza, tétanos, hepatitis, entre otras). Si te falta alguna, podemos aplicarla el mismo día.
+La visita dura normalmente menos de una hora, salvo que haga falta la radiografía o una segunda dosis de vacuna.
 
-## ¿Qué debo llevar?
+## Las vacunas que exige USCIS
 
-1. Identificación con foto.
-2. Tu registro de vacunas, si lo tienes.
-3. Cualquier documento médico relevante.
+La lista oficial incluye, entre otras, paperas, sarampión, rubéola, polio, tétanos y difteria, tos ferina, haemophilus influenzae tipo B, hepatitis A y B, varicela, neumococo, COVID-19 e influenza en temporada. No todas aplican a todas las edades: la lista completa y actualizada está en la [página de vacunas de los CDC para inmigrantes](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/vaccination.html).
 
-## Consejo importante
+Si traes tu cartilla, aunque sea de México, Centroamérica o Venezuela y esté en español, cuenta. Sin cartilla, la única salida suele ser repetir dosis o hacer análisis de sangre para comprobar inmunidad, y las dos opciones cuestan tiempo y dinero.
 
-No abras el sobre sellado. Si lo abres, el formulario puede invalidarse y tendrías que repetir el proceso.
+## Los tres errores que hacen repetir el trámite
 
-## Te acompañamos en cada paso
+1. **Abrir el sobre sellado.** Es el error más caro. Si llega abierto, USCIS puede rechazarlo y hay que repetir el examen.
+2. **Ir a un médico que no es civil surgeon.** Verifica el nombre en el [buscador oficial de USCIS](https://my.uscis.gov/findadoctor).
+3. **Dejar la segunda dosis pendiente.** Algunas vacunas necesitan refuerzo; pregunta desde el primer día si tu esquema lo requiere.
 
-En Clínica Hispana Nueva Salud Michoacana realizamos el examen I-693 con médico autorizado, todo en español y con el formulario sellado listo para enviar. Llámanos al **(832) 617-7439**.
+## ¿Cuándo hay que hacerlo?
+
+Desde 2024 el formulario firmado **no caduca**, según la [actualización del manual de políticas de USCIS](https://www.uscis.gov/newsroom/alerts/uscis-updates-policy-guidance-for-form-i-693). Lo más práctico es hacerlo cuando ya tengas tu caso presentado, y guardar el sobre cerrado hasta que te lo pidan.
+
+## Dónde hacerlo en Pasadena
+
+En Clínica Hispana Nueva Salud Michoacana somos civil surgeon autorizado por USCIS y hacemos el examen completo, con laboratorio y vacunas en el mismo lugar y todo en español. Estamos en 6500 Spencer Hwy Ste 180, abiertos los siete días. Llámanos al **(832) 617-7439** o pasa sin cita y pregunta qué debes traer.

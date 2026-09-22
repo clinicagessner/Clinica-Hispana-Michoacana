@@ -54,7 +54,7 @@ If you already live with diabetes, hypertension or high cholesterol, we provide 
 
 - **High blood pressure:** the "silent enemy"; managed with medication and lifestyle changes.
 - **Type 2 diabetes:** very common in our community; early diagnosis makes all the difference.
-- **Urinary and prostate infections:** burning or frequent urination isn't normal; [we treat it](/en/services/infecciones-urinarias) the same day.
+- **Urinary and prostate infections:** burning or frequent urination isn't normal; [we treat it](/en/services/infecciones-urinarias) with walk-in care.
 - **Sexually transmitted infections:** [confidential testing](/en/services/enfermedades-transmision-sexual) and treatment, judgment-free and completely private.
 
 ## Recommended screenings by age

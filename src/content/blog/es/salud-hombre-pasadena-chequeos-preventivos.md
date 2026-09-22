@@ -54,7 +54,7 @@ Si ya vives con diabetes, hipertensión o colesterol alto, te damos [seguimiento
 
 - **Presión arterial alta:** el "enemigo silencioso"; se controla con medicamento y cambios de hábitos.
 - **Diabetes tipo 2:** muy común en nuestra comunidad; el diagnóstico temprano marca la diferencia.
-- **Infecciones urinarias y de próstata:** ardor al orinar o ganas frecuentes no son normales; [las tratamos](/services/infecciones-urinarias) el mismo día.
+- **Infecciones urinarias y de próstata:** ardor al orinar o ganas frecuentes no son normales; [las tratamos](/services/infecciones-urinarias) sin cita y con atención rápida.
 - **Infecciones de transmisión sexual:** [pruebas confidenciales](/services/enfermedades-transmision-sexual) y tratamiento, sin juicios y con total privacidad.
 
 ## Exámenes recomendados por edad

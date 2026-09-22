@@ -46,13 +46,16 @@ export const CONTACT_INFO = {
   // WhatsApp — número EXCLUSIVO para chat. Nunca usarlo en tel:, NAP ni
   // schema: el teléfono de llamadas sigue siendo `phone` (CallRail hace swap
   // solo sobre ese). No derivar este enlace de `phone`: son números distintos.
-  whatsapp: "13462221006", // E.164 sin "+", listo para wa.me
-  whatsappDisplay: "(346) 222-1006",
+  // Es el WhatsApp de la ficha de Google (confirmado 2026-09-22) y lo comparten
+  // otras clínicas Nueva Salud: por eso `whatsappMessage` nombra clínica y calle.
+  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(832) 831-4016",
   email: "clinicanuevasaludmichuacana@gmail.com",
-  hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
-  hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
+  hours: "Lunes a Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 7:00 PM",
+  hoursEn: "Monday to Saturday: 9:00 AM - 9:00 PM · Sunday: 9:00 AM - 7:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
-  hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
+  hoursWeekend: "Sábado: 9:00 AM - 9:00 PM · Domingo: 9:00 AM - 7:00 PM",
+  hoursWeekendEn: "Sat: 9:00 AM - 9:00 PM · Sun: 9:00 AM - 7:00 PM",
   // Coordenadas aproximadas del plus code MV76+MG (Pasadena). TODO(verificar
   // contra el Place real con Text Search a Places API New antes de producción).
   coordinates: { lat: 29.6641, lng: -95.1385 },
@@ -76,14 +79,14 @@ export const OPENING_HOURS = [
   { day: "Thursday", opens: "09:00", closes: "21:00" },
   { day: "Friday", opens: "09:00", closes: "21:00" },
   { day: "Saturday", opens: "09:00", closes: "21:00" },
-  { day: "Sunday", opens: "09:00", closes: "21:00" },
+  { day: "Sunday", opens: "09:00", closes: "19:00" },
 ] as const;
 
 // Perfiles confirmados por el cliente. (El footer oculta cualquiera que quede
 // vacío.) El handle de Facebook es "buenavida" a propósito, según el cliente.
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicabuenavidapasadenatx",
-  instagram: "https://www.instagram.com/clinicahispanansaludpasadena/",
+  instagram: "https://www.instagram.com/clinicanuevasaludmichoacana/",
 } as const;
 
 // Fallback de build para rating/reseñas (comprobado con Places API el
@@ -272,11 +275,11 @@ export const SERVICE_CATEGORIES: {
 // desde 77505 (zona SE de Pasadena, junto a Deer Park).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Michoacana?
 
-En Clínica Hispana Nueva Salud Michoacana te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Somos una clínica hispana y latina: un centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Nueva Salud Michoacana te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Somos una clínica hispana y latina: un centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Michoacana?
 
-At Clínica Hispana Nueva Salud Michoacana we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are a Hispanic and Latino clinic — a medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Nueva Salud Michoacana we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are a Hispanic and Latino clinic — a medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 

@@ -92,8 +92,8 @@ We know many men put off the doctor because of language, cost or lack of time. A
 - Care 100% in Spanish, with clear explanations and no jargon
 - On-site lab with same-day results in most cases
 - Walk-ins welcome, no insurance required
-- Extended hours: Monday through Sunday, 9:00 AM – 9:00 PM
+- Extended hours: Monday to Saturday, from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM
 
 ## Schedule your checkup today
 
-Don't wait for symptoms to appear. Call us at **(832) 617-7439** or walk in at **6500 Spencer Hwy Ste 180, Pasadena, TX 77505**, Monday through Sunday from 9:00 AM to 9:00 PM. Your family needs you healthy.
+Don't wait for symptoms to appear. Call us at **(832) 617-7439** or walk in at **6500 Spencer Hwy Ste 180, Pasadena, TX 77505**, Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM. Your family needs you healthy.

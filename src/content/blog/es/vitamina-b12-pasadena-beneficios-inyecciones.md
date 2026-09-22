@@ -106,7 +106,7 @@ En tu consulta definimos el esquema adecuado para ti con base en tus análisis �
 
 ## Qué esperar en tu visita
 
-1. **Llega sin cita** cualquier día de la semana, de 9:00 AM a 9:00 PM
+1. **Llega sin cita** cualquier día de la semana: de lunes a sábado de 9:00 AM a 9:00 PM y el domingo de 9:00 AM a 7:00 PM
 2. **Consulta en español:** revisamos tus síntomas, medicamentos y antecedentes
 3. **Análisis de sangre** en el mismo lugar, con resultados el mismo día en la mayoría de los casos
 4. **Plan claro:** si hay deficiencia, te explicamos si te conviene inyección, suero vitaminado o suplemento oral, y con qué frecuencia
@@ -118,7 +118,7 @@ En tu consulta definimos el esquema adecuado para ti con base en tus análisis �
 - **Sin cita previa:** ven cuando puedas, los 7 días de la semana
 - Laboratorio en el mismo lugar, con resultados el mismo día en la mayoría de los casos
 - **No necesitas seguro médico:** precios accesibles y transparentes
-- **Horario amplio:** lunes a domingo de 9:00 AM a 9:00 PM
+- **Horario amplio:** lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM
 - Atendemos a pacientes de Pasadena, Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster y el área de Houston
 
 ## Recupera tu energía hoy
@@ -127,7 +127,7 @@ No te acostumbres al cansancio. Una prueba de vitamina B12 toma minutos, y la so
 
 - **Teléfono:** (832) 617-7439
 - **Dirección:** 6500 Spencer Hwy Ste 180, Pasadena, TX 77505
-- **Horario:** lunes a domingo, 9:00 AM – 9:00 PM
+- **Horario:** lunes a sábado, de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 7:00 PM
 - **Sin cita previa** — ven directamente cuando te quede mejor
 
 ## Preguntas frecuentes

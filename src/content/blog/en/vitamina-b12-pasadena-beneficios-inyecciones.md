@@ -106,7 +106,7 @@ At your visit we define the right schedule for you based on your lab work — we
 
 ## What to expect at your visit
 
-1. **Walk in without an appointment** any day of the week, 9:00 AM to 9:00 PM
+1. **Walk in without an appointment** any day of the week: Monday to Saturday 9:00 AM to 9:00 PM, Sunday 9:00 AM to 7:00 PM
 2. **Consultation in Spanish:** we review your symptoms, medications and history
 3. **Blood test** on site, with same-day results in most cases
 4. **A clear plan:** if you're deficient, we explain whether an injection, a vitamin IV drip or an oral supplement fits best, and how often
@@ -118,7 +118,7 @@ At your visit we define the right schedule for you based on your lab work — we
 - **No appointment needed:** walk in any day, 7 days a week
 - On-site lab work, with same-day results in most cases
 - **No insurance required:** affordable, transparent pricing
-- **Extended hours:** Monday through Sunday, 9:00 AM – 9:00 PM
+- **Extended hours:** Monday to Saturday, from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM
 - We serve patients from Pasadena, Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster and the greater Houston area
 
 ## Get your energy back today
@@ -127,7 +127,7 @@ Don't get used to being tired. A vitamin B12 test takes minutes, and the fix can
 
 - **Phone:** (832) 617-7439
 - **Address:** 6500 Spencer Hwy Ste 180, Pasadena, TX 77505
-- **Hours:** Monday to Sunday, 9:00 AM – 9:00 PM
+- **Hours:** Monday to Saturday, from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM
 - **No appointment needed** — walk in whenever works for you
 
 ## Frequently asked questions

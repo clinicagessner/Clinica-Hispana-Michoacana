@@ -36,4 +36,4 @@ In most cases we deliver results **the same day** and explain them in Spanish, w
 
 ## Walk in anytime
 
-At Clínica Hispana Nueva Salud Michoacana we draw your samples on the spot and guide you on the next steps. Call us at **(832) 617-7439** or visit from 9 AM to 9 PM.
+At Clínica Hispana Nueva Salud Michoacana we draw your samples on the spot and guide you on the next steps. Call us at **(832) 617-7439** or visit Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM.

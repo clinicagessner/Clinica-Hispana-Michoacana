@@ -45,8 +45,8 @@ export async function generateMetadata({
       ? "Clínica Hispana Nueva Salud Michoacana | Walk-in Clinic in Pasadena, TX"
       : "Clínica Hispana Nueva Salud Michoacana | Sin Cita en Pasadena, TX",
     description: isEn
-      ? `Hispanic clinic in Pasadena, TX. Walk-ins welcome, no insurance needed, care in Spanish. Blood tests, physicals, immigration exams and more. Open daily 9 AM–9 PM. Call ${CONTACT_INFO.phoneDisplay}.`
-      : `Clínica hispana en Pasadena, TX. Sin cita, sin seguro y 100% en español. Análisis de sangre, exámenes físicos, inmigración y más. Abierto todos los días de 9 AM a 9 PM. Llama al ${CONTACT_INFO.phoneDisplay}.`,
+      ? `Hispanic clinic in Pasadena, TX. Walk-ins welcome, no insurance needed, care in Spanish. Blood tests, physicals, immigration exams and more. Open daily, Sundays until 7 PM. Call ${CONTACT_INFO.phoneDisplay}.`
+      : `Clínica hispana en Pasadena, TX. Sin cita, sin seguro y 100% en español. Análisis de sangre, exámenes físicos, inmigración y más. Abierto todos los días, domingo hasta 7 PM. Llama al ${CONTACT_INFO.phoneDisplay}.`,
     alternates: buildAlternates("/", locale as Locale),
   };
 }

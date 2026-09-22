@@ -55,12 +55,7 @@ export function Location() {
                     )
                   : CONTACT_INFO.hoursWeekday}
                 <br />
-                {en
-                  ? CONTACT_INFO.hoursWeekend.replace(
-                      "Sábado y Domingo",
-                      "Sat–Sun",
-                    )
-                  : CONTACT_INFO.hoursWeekend}
+                {en ? CONTACT_INFO.hoursWeekendEn : CONTACT_INFO.hoursWeekend}
               </InfoCard>
 
               <InfoCard

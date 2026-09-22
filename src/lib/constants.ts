@@ -790,46 +790,46 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud Michoacana ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `La consulta ginecológica se atiende sin cita, en español y con privacidad. Se hace papanicolaou, cultivos vaginales y tratamiento de las infecciones más comunes, con el laboratorio en el mismo lugar.
 
-## ¿Qué incluye?
+## ¿Cada cuánto toca el papanicolaou?
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+De los 21 a los 29 años, cada tres años. De los 30 a los 65, cada tres años, o cada cinco si se combina con la prueba de VPH. Ese calendario es para mujeres sin síntomas: si hay sangrado raro, dolor o flujo con mal olor, se revisa cuando pasa.
 
-## No te quedes con la duda
+## ¿Qué se revisa en la consulta?
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+Motivo de tu visita y síntomas, papanicolaou si toca, cultivo vaginal cuando hay flujo o molestias, prueba de embarazo si aplica y orientación sobre métodos anticonceptivos. La atención la da el equipo médico general; si algo requiere especialista, se orienta la referencia.
 
-## Ginecología en una clínica hispana cerca de ti
+## ¿Cómo me preparo?
 
-Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Te atendemos sin cita previa, con precios accesibles y con la privacidad que este tipo de consulta merece.
+Evita duchas vaginales, óvulos y relaciones 48 horas antes del papanicolaou, porque alteran la muestra. Anota la fecha de tu última regla y, si puedes, agenda fuera de esos días.
+
+## ¿Y si me da pena?
+
+Es normal, sobre todo la primera vez. Puedes pedir que te acompañe alguien de confianza y pedir que te expliquen en español las veces que haga falta. El cáncer de cuello uterino es de los pocos que se previenen con una prueba sencilla, y casi todos los casos aparecen en mujeres que llevaban años sin hacérsela.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud Michoacana we offer gynecology care in Spanish, with the privacy and respect you deserve.
+    longDescriptionEn: `Gynecological visits are walk-in, in Spanish and private. We do Pap smears, vaginal cultures and treatment of the most common infections, with the lab in the same place.
 
-## What's included?
+## How often is a Pap smear due?
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+Ages 21 to 29, every three years. Ages 30 to 65, every three years, or every five when combined with HPV testing. That schedule is for women without symptoms: unusual bleeding, pain or foul-smelling discharge gets checked when it happens.
 
-## Don't stay in doubt
+## What does the visit cover?
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+The reason for your visit and your symptoms, a Pap smear if due, a vaginal culture when there is discharge or discomfort, a pregnancy test if it applies, and guidance on birth control. Care is provided by the general medical team; if something needs a specialist, we guide the referral.
 
-## Gynecology at a Hispanic clinic near you
+## How do I prepare?
 
-We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. We see you with no appointment needed, with affordable pricing and the privacy this kind of visit deserves.
+Avoid douching, vaginal creams and sex for 48 hours before a Pap smear, since they alter the sample. Note the date of your last period and, if you can, schedule outside those days.
+
+## What if I feel embarrassed?
+
+That is normal, especially the first time. You can ask someone you trust to come in with you and ask for explanations in Spanish as many times as you need. Cervical cancer is one of the few that a simple test prevents, and almost all cases appear in women who had gone years without one.
 
 ${WHY_EN}
 
@@ -1313,46 +1313,46 @@ ${AREAS_EN}`,
       "Walk-in treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud Michoacana te hacemos la prueba y, si hay infección, empezamos el tratamiento en la misma visita.
+    longDescription: `El examen de orina se hace en la clínica, sin cita, y si hay infección el tratamiento se indica en la misma visita. Sin plazos prometidos: atención rápida y en español.
 
-## ¿Qué incluye?
+## ¿Cómo sé que es infección urinaria?
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado según el resultado
-- Indicaciones para evitar que regrese
+Ardor al orinar, ganas de ir al baño cada rato con poca cantidad, orina turbia o con olor fuerte y molestia en la parte baja del abdomen. Con fiebre, escalofríos o dolor en la espalda baja, la cosa cambia: puede haber llegado al riñón y eso se revisa ese mismo día.
 
-## Síntomas frecuentes
+## ¿Qué se hace en la visita?
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+Examen general de orina y, según el caso, cultivo para saber qué bacteria es. Se revisan tus síntomas y antecedentes, porque no todas las infecciones se tratan igual: influyen el embarazo, la diabetes y si has tenido infecciones repetidas.
 
-## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+## ¿Por qué se repiten tanto?
 
-Somos un centro médico hispano en Pasadena, TX, a minutos del área de Houston. Llega sin cita: te hacemos el examen de orina y, si hay infección, salimos de la visita con tu tratamiento indicado.
+Por tratamientos cortados a la mitad, por poca agua, por aguantarse las ganas muchas horas y, en algunas mujeres, por la etapa de la menopausia. Si te pasa tres o más veces al año, conviene estudiarlo, no solo tratarlo otra vez.
+
+## ¿Qué ayuda mientras tanto?
+
+Tomar más agua y no aguantarse. Lo que no ayuda: automedicarse con antibióticos sobrantes de otra ocasión, porque enmascara los síntomas y complica el cultivo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud Michoacana we run the test and, if there's an infection, we start treatment during the same visit.
+    longDescriptionEn: `The urine test is done at the clinic, walk-in, and if there is an infection the treatment is prescribed during the same visit. No promised deadlines: prompt care, in Spanish.
 
-## What's included?
+## How do I know it is a urinary infection?
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate treatment based on the result
-- Tips to prevent it from coming back
+Burning when you urinate, constant urges with little output, cloudy or strong-smelling urine and discomfort in the lower abdomen. With fever, chills or lower back pain it is different: it may have reached the kidney, and that gets checked the same day.
 
-## Common symptoms
+## What happens during the visit?
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+A general urinalysis and, depending on the case, a culture to identify the bacteria. Your symptoms and history are reviewed, because not every infection is treated the same: pregnancy, diabetes and repeated infections all matter.
 
-## Urinary infection care at a Hispanic clinic near you
+## Why do they keep coming back?
 
-We are a Hispanic medical center in Pasadena, TX, minutes from the Houston area. Walk in with no appointment: we run the urine test and, if there's an infection, you leave the visit with your treatment indicated.
+Treatments stopped halfway, not drinking enough water, holding it for hours and, for some women, the menopausal stage. If it happens three or more times a year, it is worth investigating rather than simply treating again.
+
+## What helps in the meantime?
+
+Drinking more water and not holding it. What does not help: self-medicating with leftover antibiotics from another occasion, because it masks symptoms and complicates the culture.
 
 ${WHY_EN}
 

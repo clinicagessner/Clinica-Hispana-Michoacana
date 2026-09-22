@@ -291,29 +291,29 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud Michoacana + Pasadena).
 // TODO(cliente): confirmar barrios/comunidades reales que sirve la clínica
 // desde 77505 (zona SE de Pasadena, junto a Deer Park).
-const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Michoacana?
+const WHY_ES = `## ¿Por qué atenderte en la Michoacana?
 
-En Clínica Hispana Nueva Salud Michoacana te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Somos una clínica hispana y latina: un centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Estamos sobre Spencer Hwy, en el 6500 Ste 180, a un lado de la 225 y a pocos minutos de Deer Park, South Houston y La Porte. Abrimos los siete días: de lunes a sábado de 9 AM a 9 PM y el domingo de 9 AM a 7 PM, así que puedes venir después del trabajo o el fin de semana sin pedir permiso en tu empleo. No hace falta cita ni seguro médico. Todo el personal habla español, el estacionamiento es gratuito y la entrada es accesible en silla de ruedas.`;
 
-const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Michoacana?
+const WHY_EN = `## Why come to La Michoacana?
 
-At Clínica Hispana Nueva Salud Michoacana we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are a Hispanic and Latino clinic — a medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are on Spencer Hwy, at 6500 Ste 180, just off Highway 225 and minutes from Deer Park, South Houston and La Porte. We open seven days a week: Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM, so you can come after work or on the weekend without taking time off. No appointment and no insurance needed. Our whole team speaks Spanish, parking is free and the entrance is wheelchair accessible.`;
 
-const PAYMENT_ES = `## Formas de pago
+const PAYMENT_ES = `## Cómo se paga
 
-No es necesario tener seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
+Aquí se paga por visita, sin seguro de por medio. Aceptamos efectivo, tarjeta de débito, tarjeta de crédito (Visa, Mastercard, American Express y Discover) y pagos con el teléfono. No aceptamos cheques. Pregunta el precio de tu servicio al llegar o por teléfono: te lo decimos antes de empezar, para que sepas cuánto vas a pagar.`;
 
-const PAYMENT_EN = `## Payment
+const PAYMENT_EN = `## How payment works
 
-You don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
+You pay per visit, with no insurance involved. We take cash, debit cards, credit cards (Visa, Mastercard, American Express and Discover) and phone payments. We do not take checks. Ask about the price of your service when you arrive or over the phone: we tell you before we start, so you know what you are paying.`;
 
-const AREAS_ES = `## Áreas que servimos
+const AREAS_ES = `## De dónde llegan nuestros pacientes
 
-Atendemos a pacientes de Pasadena, TX y comunidades cercanas: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster y el área de Houston. Si buscas una clínica hispana o un centro médico cerca de ti en el área de Houston, estamos a pocos minutos.`;
+La mayoría vive en Pasadena, en los códigos 77505, 77504, 77506 y 77503. También atendemos a familias que llegan desde Deer Park, South Houston, La Porte, Pearland y el resto del área de Houston. Si trabajas en los complejos industriales de la 225 o del Ship Channel, te queda de camino a casa.`;
 
-const AREAS_EN = `## Areas we serve
+const AREAS_EN = `## Where our patients come from
 
-We care for patients across Pasadena, TX and nearby communities: Deer Park, La Porte, South Houston, Pearland, Friendswood, Webster and the greater Houston area. If you're looking for a Hispanic clinic or a medical center near you in the Houston area, we're just minutes away.`;
+Most live in Pasadena, in ZIP codes 77505, 77504, 77506 and 77503. We also see families from Deer Park, South Houston, La Porte, Pearland and the rest of the Houston area. If you work at the industrial plants along Highway 225 or the Ship Channel, we are on your way home.`;
 
 
 export const SERVICES: Service[] = [

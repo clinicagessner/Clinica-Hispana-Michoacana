@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica 100% en español en Pasadena, TX",
   taglineEn: "Healthcare 100% in Spanish in Pasadena, TX",
   description:
-    "Clínica hispana y centro médico en Pasadena, TX, en el área de Houston. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Médico primario, medicina familiar, análisis de sangre, laboratorio y más.",
+    "Clínica hispana en Spencer Hwy, Pasadena, TX: consulta, laboratorio y trámites en una sola visita, los siete días de la semana. Sin cita, sin seguro y todo en español, a minutos de Deer Park, South Houston y La Porte.",
   descriptionEn:
-    "Hispanic clinic and medical center in Pasadena, TX, in the Houston area. Professional care in Spanish, walk-ins welcome, no insurance needed. Primary care, family medicine, blood tests, lab work and more.",
+    "Hispanic clinic on Spencer Hwy, Pasadena, TX: visit, lab work and paperwork in a single stop, seven days a week. Walk-in, no insurance, all in Spanish, minutes from Deer Park, South Houston and La Porte.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   // Nombre exacto de la ficha de Google (va como alternateName en el schema).
@@ -238,9 +238,9 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Complete Women's Checkup",
     price: "$179",
     blurb:
-      "¿Hace cuánto no revisas tu salud femenina? Chequeo completo de la mujer con ultrasonido pélvico, papanicolaou y examen de orina, más consulta médica gratis, por solo $179 (precio regular $300).",
+      "Tres estudios de salud femenina en una sola visita: ultrasonido pélvico, papanicolaou y examen de orina, con la consulta médica incluida. $179 en total, en vez de los $300 que suman por separado.",
     blurbEn:
-      "How long has it been since you checked your women's health? Complete women's checkup with a pelvic ultrasound, Pap smear and urine test, plus a free medical consultation, for only $179 (regular price $300).",
+      "Three women's health studies in a single visit: pelvic ultrasound, Pap smear and urine test, with the medical consultation included. $179 in total, instead of the $300 they add up to separately.",
     includes: [
       "Ultrasonido pélvico",
       "Papanicolaou",

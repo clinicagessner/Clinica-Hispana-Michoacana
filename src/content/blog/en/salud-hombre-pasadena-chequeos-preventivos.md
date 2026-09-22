@@ -1,7 +1,10 @@
 ---
 title: "Men's health in Pasadena: preventive checkups that can save your life"
 description: "Preventive checkups for men in Pasadena, TX: PSA, testosterone, blood pressure, glucose and more. Care in Spanish, walk-ins welcome, no insurance required."
+metaTitle: "Men's health in Pasadena: preventive checkups"
+metaDescription: "Preventive checkups for men in Pasadena, TX: PSA, blood pressure, glucose and more. Care in Spanish, walk-ins welcome, no insurance."
 date: "2026-07-22"
+dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Men's Health"
 cover: "/images/blog/salud-hombre-pasadena-chequeos-preventivos.webp"

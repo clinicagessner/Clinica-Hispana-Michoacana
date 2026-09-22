@@ -2,6 +2,7 @@
 title: "Control de diabetes en Pasadena: guía para pacientes"
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Pasadena."
 date: "2026-02-10"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-pasadena-guia-pacientes.webp"

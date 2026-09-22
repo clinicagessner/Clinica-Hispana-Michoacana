@@ -1,7 +1,9 @@
 ---
 title: "Welcome to Clínica Hispana Nueva Salud Michoacana"
 description: "Get to know Clínica Hispana Nueva Salud Michoacana: healthcare 100% in Spanish in Pasadena, TX, walk-ins welcome and affordable pricing, no insurance needed."
+metaDescription: "Get to know Clínica Hispana Nueva Salud Michoacana: care 100% in Spanish in Pasadena, TX, walk-ins welcome, no insurance and affordable pricing."
 date: "2026-01-15"
+dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"

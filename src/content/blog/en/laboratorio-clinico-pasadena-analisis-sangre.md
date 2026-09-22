@@ -2,6 +2,7 @@
 title: "Clinical lab in Pasadena: blood tests explained"
 description: "Learn which blood tests you can get in Pasadena, what they're for and how to receive same-day results in Spanish."
 date: "2026-03-30"
+dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Lab"
 cover: "/images/blog/laboratorio-clinico-pasadena-analisis-sangre.webp"

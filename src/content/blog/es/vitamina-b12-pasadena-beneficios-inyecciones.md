@@ -1,7 +1,10 @@
 ---
 title: "Vitamina B12: beneficios, síntomas de deficiencia e inyecciones"
 description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba e inyección de B12 en Pasadena, TX, sin cita y en español."
+metaTitle: "Vitamina B12: beneficios, deficiencia e inyecciones"
+metaDescription: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba e inyección en Pasadena, TX."
 date: "2026-08-18"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud"
 cover: "/images/blog/vitamina-b12-pasadena-beneficios-inyecciones.webp"

@@ -1,7 +1,10 @@
 ---
 title: "Vitamin B12: benefits, deficiency symptoms and injections"
 description: "What vitamin B12 does, deficiency symptoms to watch for, and when a B12 shot beats pills. B12 testing and injections in Pasadena, TX — walk in, no insurance needed."
+metaTitle: "Vitamin B12: benefits, deficiency and injections"
+metaDescription: "What vitamin B12 does, deficiency symptoms and when a shot beats pills. B12 testing and injections in Pasadena, TX, no insurance needed."
 date: "2026-08-18"
+dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Health"
 cover: "/images/blog/vitamina-b12-pasadena-beneficios-inyecciones.webp"

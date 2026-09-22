@@ -90,6 +90,11 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Última edición real del contenido; alimenta el lastmod del sitemap. */
+  dateModified?: string;
+  /** Solo para <title>/<meta>: el H1 sigue siendo `title`. Para recortar a ≤60/≤155. */
+  metaTitle?: string;
+  metaDescription?: string;
   author: string;
   category: string;
   cover: string;

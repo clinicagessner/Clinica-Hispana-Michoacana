@@ -2,6 +2,7 @@
 title: "Diabetes management in Pasadena: a patient guide"
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Pasadena."
 date: "2026-02-10"
+dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-pasadena-guia-pacientes.webp"

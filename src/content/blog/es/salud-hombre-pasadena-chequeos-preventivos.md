@@ -1,7 +1,10 @@
 ---
 title: "Salud del hombre en Pasadena: chequeos preventivos que pueden salvarte la vida"
 description: "Chequeos preventivos para hombres en Pasadena, TX: PSA, testosterona, presión arterial, glucosa y más. Atención en español, sin cita y sin seguro necesario."
+metaTitle: "Salud del hombre en Pasadena: chequeos preventivos"
+metaDescription: "Chequeos preventivos para hombres en Pasadena, TX: PSA, presión arterial, glucosa y más. Atención en español, sin cita y sin seguro."
 date: "2026-07-22"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud del hombre"
 cover: "/images/blog/salud-hombre-pasadena-chequeos-preventivos.webp"

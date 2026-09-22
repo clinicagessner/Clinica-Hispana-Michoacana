@@ -2,6 +2,7 @@
 title: "Laboratorio clínico en Pasadena: análisis de sangre"
 description: "Conoce qué análisis de sangre puedes hacerte en Pasadena, para qué sirven y cómo obtener resultados el mismo día en español."
 date: "2026-03-30"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Laboratorio"
 cover: "/images/blog/laboratorio-clinico-pasadena-analisis-sangre.webp"

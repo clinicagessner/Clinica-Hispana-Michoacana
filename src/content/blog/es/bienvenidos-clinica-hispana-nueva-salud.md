@@ -1,7 +1,9 @@
 ---
 title: "Bienvenidos a Clínica Hispana Nueva Salud Michoacana"
 description: "Conoce Clínica Hispana Nueva Salud Michoacana: atención médica 100% en español en Pasadena, TX, sin cita previa y con precios accesibles, sin necesidad de seguro."
+metaDescription: "Conoce Clínica Hispana Nueva Salud Michoacana: atención 100% en español en Pasadena, TX, sin cita previa, sin seguro y con precios accesibles."
 date: "2026-01-15"
+dateModified: "2026-09-22"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"

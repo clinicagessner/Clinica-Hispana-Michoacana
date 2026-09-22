@@ -356,38 +356,46 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud Michoacana diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `La diabetes, la presión alta y el colesterol elevado no duelen: por eso se descuidan hasta que hacen daño. El control consiste en medir, ajustar y volver a medir, y eso es lo que hacemos aquí, con laboratorio propio y en español.
 
-## ¿Qué incluye?
+## ¿Cada cuánto hay que revisarse?
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+Con diabetes, la hemoglobina glicosilada (A1C) se revisa cada tres meses mientras no esté en meta, y dos veces al año cuando ya lo está. La presión, en cada visita. El colesterol, una o dos veces al año según tu riesgo y si tomas medicamento.
 
-## Por qué es importante el control
+## ¿Qué incluye el seguimiento?
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Laboratorio (A1C, glucosa, perfil de lípidos, función de riñón), revisión de presión y peso, repaso de tus medicamentos y de cómo los estás tomando de verdad, y ajuste de dosis. También revisión de pies si tienes diabetes, que es donde empiezan los problemas serios.
+
+## ¿Puedo dejar el medicamento si me siento bien?
+
+Sentirse bien es justo lo que buscan el medicamento y los cambios de hábito: dejarlo hace que la presión y el azúcar suban otra vez, casi siempre sin avisar. Si algo te molesta (mareo, tos, hinchazón), dilo y se cambia el esquema. No lo suspendas por tu cuenta.
+
+## ¿Qué puedo esperar de la primera visita?
+
+Una consulta con laboratorio el mismo día, metas claras por escrito y un plan con lo que sí puedes sostener: comida real de tu día a día, caminata y horarios de medicamento. Si aparecen complicaciones que requieren especialista, se orienta la referencia.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud Michoacana we design a clear plan and support you every step of the way, in Spanish.
+    longDescriptionEn: `Diabetes, high blood pressure and high cholesterol do not hurt: that is why they get neglected until they cause damage. Control means measuring, adjusting and measuring again, and that is what we do here, with our own lab and in Spanish.
 
-## What's included?
+## How often should I be checked?
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+With diabetes, hemoglobin A1C is checked every three months while it is above target, and twice a year once it is at goal. Blood pressure, at every visit. Cholesterol, once or twice a year depending on your risk and whether you take medication.
 
-## Why control matters
+## What does follow-up include?
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+Lab work (A1C, glucose, lipid panel, kidney function), blood pressure and weight, a review of your medications and how you are actually taking them, and dose adjustments. Also a foot check if you have diabetes, since that is where the serious problems start.
+
+## Can I stop my medication if I feel fine?
+
+Feeling fine is exactly what the medication and the habit changes are for: stopping sends blood pressure and sugar back up, almost always without warning. If something bothers you (dizziness, cough, swelling), say so and the regimen gets changed. Do not stop on your own.
+
+## What can I expect at the first visit?
+
+A consultation with same-day lab work, clear written targets and a plan you can actually keep: real food from your daily life, walking and medication timing. If complications appear that need a specialist, we guide the referral.
 
 ${WHY_EN}
 
@@ -434,38 +442,46 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud Michoacana evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
+    longDescription: `La tiroides regula tu energía, tu peso, tu temperatura y tu ánimo. Cuando trabaja de más o de menos, los síntomas se confunden con estrés durante meses. Una muestra de sangre lo aclara.
 
-## ¿Qué incluye?
+## ¿Qué síntomas hacen sospechar?
 
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
+Cansancio que no se quita, subir o bajar de peso sin cambiar de hábitos, caída del cabello, piel seca, sentir frío cuando nadie más lo siente, estreñimiento, reglas irregulares. Si la tiroides va acelerada: nerviosismo, palpitaciones, temblor en las manos, insomnio y sudoración.
 
-## Síntomas frecuentes
+## ¿Qué prueba se hace?
 
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+Se empieza con la TSH, que es la que detecta la mayoría de los casos, y según el resultado se añaden T4 libre y T3. No hace falta ayuno. Si ya tomas medicamento para la tiroides, ese día tómalo después de la muestra.
+
+## ¿Cómo es el tratamiento?
+
+El hipotiroidismo se trata con hormona en pastilla, todos los días y en ayunas, y el ajuste se hace con análisis de control a las seis u ocho semanas hasta encontrar tu dosis. El hipertiroidismo requiere una evaluación distinta y, en varios casos, referencia al especialista.
+
+## ¿Con qué frecuencia hay que revisarse?
+
+Mientras se ajusta la dosis, cada dos o tres meses. Ya estable, una o dos veces al año. El embarazo y los cambios de peso importantes obligan a revisar antes, porque la dosis deja de servir. Aquí tienes el [laboratorio](/services/examenes-sangre) y el seguimiento en el mismo lugar.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud Michoacana we evaluate your thyroid with lab work and provide the right treatment.
+    longDescriptionEn: `Your thyroid regulates energy, weight, temperature and mood. When it runs fast or slow, the symptoms get mistaken for stress for months. A blood sample settles it.
 
-## What's included?
+## Which symptoms raise suspicion?
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+Fatigue that does not lift, gaining or losing weight without changing habits, hair loss, dry skin, feeling cold when nobody else does, constipation, irregular periods. If the thyroid is running fast: anxiety, palpitations, hand tremor, insomnia and sweating.
 
-## Common symptoms
+## Which test is done?
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+It starts with TSH, which catches most cases, and free T4 and T3 are added depending on the result. No fasting needed. If you already take thyroid medication, take it that day after the sample is drawn.
+
+## What does treatment look like?
+
+Hypothyroidism is treated with a daily hormone tablet taken on an empty stomach, and the dose is adjusted with follow-up labs at six to eight weeks until yours is right. Hyperthyroidism needs a different workup and, in several cases, a specialist referral.
+
+## How often should I be rechecked?
+
+While the dose is being adjusted, every two or three months. Once stable, once or twice a year. Pregnancy and major weight changes call for an earlier check, because the dose stops fitting. The [lab](/en/services/examenes-sangre) and the follow-up are in the same place.
 
 ${WHY_EN}
 
@@ -512,38 +528,46 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud Michoacana identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `En la costa del Golfo la temporada de alergias casi no termina: al polen de primavera le siguen el pasto del verano, la ambrosía del otoño y el moho todo el año por la humedad. Aquí evaluamos qué te está afectando y cómo controlarlo.
 
-## ¿Qué incluye?
+## ¿Es alergia o es gripe?
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+La alergia da comezón (en nariz, ojos o garganta), estornudos en serie y moco claro, dura semanas y empeora en ciertos lugares u horas del día. La gripe trae fiebre y dolor de cuerpo y se va en una semana. Esa diferencia cambia el tratamiento.
 
-## Cuándo consultar
+## ¿Qué se hace en la consulta?
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+Se revisa tu historia: en qué época empeora, si hay mascotas, humedad o polvo en casa, si el trabajo te expone a algo. Se examinan nariz, garganta, oídos y pulmones, y si hay sibilancias o falta de aire se valora si además hay asma.
+
+## ¿Qué tratamientos hay?
+
+Antihistamínicos, aerosoles nasales con esteroide, lavados con solución salina y, cuando hay ronchas, tratamiento para la piel. La mayoría mejora en días. Si los síntomas no ceden o vuelven cada año con fuerza, se orienta la referencia al alergólogo para pruebas específicas.
+
+## ¿Qué puedo cambiar en casa?
+
+Cerrar ventanas en los días de más polen, bañarse por la noche para no llevar polen a la cama, usar filtro en el aire acondicionado y atacar la humedad del baño, que es donde crece el moho en Pasadena. Son medidas aburridas y funcionan.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud Michoacana we identify what triggers them and help you control them so you feel well again.
+    longDescriptionEn: `On the Gulf Coast allergy season barely ends: spring pollen gives way to summer grasses, fall ragweed and year-round mold thanks to the humidity. We work out what is affecting you and how to control it.
 
-## What's included?
+## Is it allergy or a cold?
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+Allergy itches (nose, eyes or throat), brings sneezing fits and clear mucus, lasts weeks and gets worse in certain places or at certain hours. A cold brings fever and body aches and clears in a week. That difference changes the treatment.
 
-## When to seek care
+## What happens during the visit?
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+We go through your history: which season is worse, whether there are pets, damp or dust at home, whether work exposes you to something. We examine nose, throat, ears and lungs, and if there is wheezing or shortness of breath we assess whether asthma is also involved.
+
+## What treatments are available?
+
+Antihistamines, steroid nasal sprays, saline rinses and, when there are hives, treatment for the skin. Most people improve within days. If symptoms do not ease or come back hard every year, we guide a referral to an allergist for specific testing.
+
+## What can I change at home?
+
+Keep windows closed on high-pollen days, shower at night so pollen does not reach your bed, use a filter on the air conditioning and go after bathroom humidity, which is where mold grows in Pasadena. Boring measures, and they work.
 
 ${WHY_EN}
 
@@ -1085,38 +1109,46 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud Michoacana facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `Los exámenes de salud del hombre revisan lo que suele pasar desapercibido: próstata, hormonas, azúcar, presión y colesterol. En la Michoacana se hacen sin cita, con el laboratorio en el mismo lugar y los resultados explicados en español.
 
-## ¿Qué incluye?
+## ¿A partir de qué edad conviene?
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+La conversación sobre el PSA empieza normalmente a los 50 años, y antes, hacia los 40 o 45, si hay padre o hermano con cáncer de próstata o si eres afroamericano. La presión, la glucosa y el colesterol se revisan desde los 30, sobre todo si hay sobrepeso o antecedentes familiares.
 
-## Por qué es importante
+## ¿Qué incluye la visita?
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+Chequeo general con presión y peso, análisis de sangre con PSA y perfil hormonal, revisión de síntomas urinarios (levantarse de noche, chorro débil, ardor) y de señales de fatiga, ánimo bajo o falta de sueño que muchos hombres normalizan durante años.
+
+## ¿Qué significa un PSA alto?
+
+No significa cáncer. El valor sube también por inflamación de la próstata, por una infección urinaria, por andar en bicicleta o después de eyacular. Por eso se interpreta junto con tus síntomas y, si hace falta, se repite o se orienta la referencia al especialista.
+
+## ¿Y si me siento cansado todo el tiempo?
+
+El cansancio tiene muchas causas y conviene medir antes de suponer. En la misma muestra se revisan azúcar, tiroides, vitamina B12 y hormonas. Si el resultado pide tratamiento, se empieza en la visita, y si necesitas seguimiento, tienes el [control de condiciones crónicas](/services/condiciones-cronicas) aquí mismo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud Michoacana we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+    longDescriptionEn: `Men's health exams check what usually goes unnoticed: prostate, hormones, blood sugar, blood pressure and cholesterol. At La Michoacana they are walk-in, with the lab on site and results explained in Spanish.
 
-## What's included?
+## At what age should I start?
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+The PSA conversation usually starts at 50, and earlier, around 40 to 45, if your father or brother had prostate cancer or if you are African American. Blood pressure, glucose and cholesterol get checked from age 30, especially with extra weight or family history.
 
-## Why it matters
+## What does the visit include?
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+A general check with blood pressure and weight, blood work with PSA and a hormone panel, a review of urinary symptoms (getting up at night, weak stream, burning) and of the fatigue, low mood or poor sleep that many men put up with for years.
+
+## What does a high PSA mean?
+
+It does not mean cancer. The value also rises with prostate inflammation, a urinary infection, cycling or recent ejaculation. That is why it is read alongside your symptoms and, if needed, repeated or referred on to a specialist.
+
+## What if I am tired all the time?
+
+Fatigue has many causes and it is worth measuring before assuming. The same sample covers blood sugar, thyroid, vitamin B12 and hormones. If the result calls for treatment, it starts during the visit, and if you need follow-up, [chronic condition care](/en/services/condiciones-cronicas) is right here.
 
 ${WHY_EN}
 
@@ -1341,38 +1373,46 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud Michoacana realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `El examen de heces busca la causa de las molestias digestivas que no se van: parásitos, infecciones intestinales o sangre que no se ve a simple vista. La muestra se entrega en la clínica y los resultados se explican en español.
 
-## ¿Qué incluye?
+## ¿Cuándo conviene hacerlo?
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+Diarrea de más de unos días, dolor o inflamación después de comer, gases y retortijones constantes, evacuaciones con moco o sangre, o pérdida de peso sin explicación. También cuando varios miembros de la familia tienen lo mismo al mismo tiempo.
 
-## Cuándo es útil
+## ¿Cómo se recoge la muestra?
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+Te damos el frasco y las indicaciones. La muestra no debe mezclarse con orina ni con agua del inodoro, y se entrega lo antes posible. Si el estudio busca parásitos, a veces se piden tres muestras de días distintos, porque no siempre aparecen en la primera.
+
+## ¿Qué se busca?
+
+Parásitos y sus huevecillos, bacterias que causan infección intestinal, grasa en exceso que sugiere mala absorción y sangre oculta, que es la prueba que se usa como tamizaje de problemas del colon a partir de los 45 años.
+
+## ¿Y después del resultado?
+
+Si hay parásitos o infección, el tratamiento se indica en la clínica y se explica cómo evitar que se repita en casa. Si el estudio sale normal pero los síntomas siguen, el paso lógico es [laboratorio de sangre](/services/examenes-sangre) o una referencia para estudio del colon.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud Michoacana we perform stool tests to find the source and give you the right treatment.
+    longDescriptionEn: `A stool test looks for the cause of digestive problems that will not go away: parasites, intestinal infections or blood you cannot see. The sample is dropped off at the clinic and results are explained in Spanish.
 
-## What's included?
+## When is it worth doing?
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+Diarrhea lasting more than a few days, pain or bloating after meals, constant gas and cramping, stools with mucus or blood, or unexplained weight loss. Also when several people in the household have the same thing at the same time.
 
-## When it helps
+## How is the sample collected?
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+We give you the container and the instructions. The sample must not mix with urine or toilet water, and it should be dropped off as soon as possible. When the test is looking for parasites, three samples from different days are sometimes requested, because they do not always show up in the first one.
+
+## What does it look for?
+
+Parasites and their eggs, bacteria that cause intestinal infection, excess fat that suggests poor absorption, and occult blood, which is the test used to screen for colon problems starting at age 45.
+
+## What happens after the result?
+
+If there are parasites or an infection, treatment is prescribed at the clinic along with advice on keeping it from coming back at home. If the test is normal but symptoms persist, the logical next step is [blood work](/en/services/examenes-sangre) or a referral for a colon study.
 
 ${WHY_EN}
 
@@ -2286,38 +2326,46 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud Michoacana limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `Una herida que se limpia bien y se cubre como toca cierra antes y se infecta menos. En la Michoacana hacemos curaciones sin cita, con el material adecuado y seguimiento hasta que cierra.
 
-## ¿Qué incluye?
+## ¿Qué heridas atendemos?
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+Heridas de trabajo y de casa, cortes ya suturados que necesitan cambio de vendaje, heridas después de una cirugía, quemaduras pequeñas, raspones profundos y llagas que llevan semanas sin cerrar, incluidas las del pie de quien vive con diabetes.
 
-## Para todo tipo de heridas
+## ¿Cómo es una curación?
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+Se retira el vendaje anterior, se limpia la herida, se revisa si hay tejido muerto o señales de infección, se aplica el apósito que le corresponde a esa herida y se cubre. Toma pocos minutos y, según el caso, se repite cada dos o tres días.
+
+## ¿Cuándo hay que venir de inmediato?
+
+Cuando el enrojecimiento crece alrededor, sale pus o mal olor, aparece fiebre, la zona se hincha o el dolor aumenta en vez de bajar. También si la herida fue con metal oxidado o mordida: ahí se revisa además si te toca refuerzo de la vacuna del tétanos.
+
+## ¿Y si soy diabético?
+
+Las heridas en el pie merecen una revisión pronta, aunque se vean pequeñas y no duelan. La falta de sensibilidad hace que se descubran tarde. Aquí puedes combinar la curación con el [control de diabetes](/services/condiciones-cronicas) y revisar de paso tu azúcar.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud Michoacana we clean, treat and dress your wounds, and follow you until they heal.
+    longDescriptionEn: `A wound that is cleaned properly and dressed the right way closes sooner and gets infected less often. At La Michoacana we do wound care walk-in, with the right supplies and follow-up until it closes.
 
-## What's included?
+## Which wounds do you treat?
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+Work and household wounds, sutured cuts that need dressing changes, wounds after surgery, small burns, deep scrapes and sores that have gone weeks without closing, including foot wounds in people living with diabetes.
 
-## For all kinds of wounds
+## What does a wound care visit involve?
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+The old dressing comes off, the wound is cleaned, we check for dead tissue or signs of infection, apply the dressing that suits that wound and cover it. It takes a few minutes and, depending on the case, repeats every two or three days.
+
+## When should I come in right away?
+
+When redness spreads around it, there is pus or a bad smell, fever appears, the area swells or pain increases instead of easing. Also if the wound came from rusty metal or a bite: we then check whether you are due for a tetanus booster.
+
+## What if I have diabetes?
+
+Foot wounds deserve a prompt look, even when they seem small and do not hurt. Reduced sensation means they get noticed late. Here you can combine wound care with [diabetes care](/en/services/condiciones-cronicas) and have your blood sugar checked at the same time.
 
 ${WHY_EN}
 

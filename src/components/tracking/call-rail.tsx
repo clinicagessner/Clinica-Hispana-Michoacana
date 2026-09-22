@@ -16,6 +16,6 @@ export function CallRail() {
   if (process.env.NODE_ENV !== "production") return null;
 
   return (
-    <Script id="callrail-swap" strategy="afterInteractive" src={CALLRAIL_SWAP_SRC} />
+    <Script id="callrail-swap" strategy="lazyOnload" src={CALLRAIL_SWAP_SRC} />
   );
 }

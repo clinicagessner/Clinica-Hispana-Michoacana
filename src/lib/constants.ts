@@ -86,12 +86,12 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/clinicahispanansaludpasadena/",
 } as const;
 
-// Fallback de build para rating/reseñas (valores de la ficha de Google al
-// 2026-06). La data en vivo la trae getGooglePlaceData() cuando hay
+// Fallback de build para rating/reseñas (comprobado con Places API el
+// 2026-09-22: 4.8 · 288). La data en vivo la trae getGooglePlaceData() cuando hay
 // GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
 export const GOOGLE_REVIEWS_DATA = {
   averageRating: 4.8,
-  totalReviews: 249,
+  totalReviews: 288,
 } as const;
 
 // Promociones de la clínica (flyers en /images/promotions/<slug>.webp).

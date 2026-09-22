@@ -1,38 +1,30 @@
-import { getLocale, getTranslations } from "next-intl/server";
+import { getTranslations } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { StarRating } from "@/components/shared/star-rating";
 import {
   TestimonialsCarousel,
   type CarouselTestimonial,
 } from "@/components/sections/testimonials-carousel";
-import { CONTACT_INFO, FALLBACK_TESTIMONIALS } from "@/lib/constants";
+import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
-import type { Locale } from "@/types";
 
 export async function Testimonials() {
   const t = await getTranslations("Testimonials");
   const tc = await getTranslations("Common");
-  const locale = (await getLocale()) as Locale;
   const place = await getGooglePlaceData();
 
-  // Reseñas en vivo si existen; si no, testimonios de respaldo localizados.
-  const items: CarouselTestimonial[] =
-    place.reviews.length >= 3
-      ? place.reviews.map((r) => ({
-          author: r.author,
-          rating: r.rating,
-          text: r.text,
-          relativeTime: r.relativeTime,
-          photoUrl: r.photoUrl,
-        }))
-      : FALLBACK_TESTIMONIALS.map((r) => ({
-          author: r.author,
-          rating: r.rating,
-          text: locale === "en" ? r.textEn : r.text,
-          relativeTime: r.relativeTime,
-        }));
+  // Solo reseñas reales de Google Places. Si no llegan, el carrusel no se
+  // muestra: la nota y el conteo de la ficha bastan. Nunca testimonios de
+  // relleno (inventarlos es un problema legal y de política de Google).
+  const items: CarouselTestimonial[] = place.reviews.map((r) => ({
+    author: r.author,
+    rating: r.rating,
+    text: r.text,
+    relativeTime: r.relativeTime,
+    photoUrl: r.photoUrl,
+  }));
 
   return (
     <section id="testimonios" className="relative isolate scroll-mt-24 overflow-hidden bg-background py-20 lg:py-28">
@@ -67,9 +59,11 @@ export async function Testimonials() {
           </Reveal>
         </div>
 
-        <Reveal delay={160} className="mt-12">
-          <TestimonialsCarousel items={items} verifiedLabel={t("verified")} />
-        </Reveal>
+        {items.length > 0 && (
+          <Reveal delay={160} className="mt-12">
+            <TestimonialsCarousel items={items} verifiedLabel={t("verified")} />
+          </Reveal>
+        )}
 
         <div className="mt-10 flex justify-center">
           <a

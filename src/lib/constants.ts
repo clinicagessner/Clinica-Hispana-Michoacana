@@ -3,7 +3,6 @@ import type {
   Promotion,
   Service,
   ServiceCategory,
-  Testimonial,
 } from "@/types";
 
 // Normaliza la URL del sitio: añade https:// si falta el esquema y quita la
@@ -2592,44 +2591,5 @@ ${WHY_EN}
 ${PAYMENT_EN}
 
 ${AREAS_EN}`,
-  },
-];
-
-// Testimonios de respaldo para el carrusel cuando no hay data en vivo de Google.
-export const FALLBACK_TESTIMONIALS: Testimonial[] = [
-  {
-    author: "María G.",
-    rating: 5,
-    text: "Excelente atención y todo en español. Me explicaron cada paso de mi examen. Muy recomendados.",
-    textEn: "Excellent care and everything in Spanish. They explained every step of my exam. Highly recommended.",
-    relativeTime: "Hace 2 semanas",
-  },
-  {
-    author: "José R.",
-    rating: 5,
-    text: "Llegué sin cita por una infección y me atendieron rápido. El doctor muy amable y los precios accesibles.",
-    textEn: "I walked in without an appointment for an infection and was seen quickly. The doctor was very kind and the prices affordable.",
-    relativeTime: "Hace 1 mes",
-  },
-  {
-    author: "Carmen L.",
-    rating: 5,
-    text: "Llevo mi control de diabetes aquí y me siento muy bien cuidada. El seguimiento es muy bueno.",
-    textEn: "I manage my diabetes here and feel very well cared for. The follow-up is excellent.",
-    relativeTime: "Hace 1 mes",
-  },
-  {
-    author: "Luis M.",
-    rating: 5,
-    text: "Hice mi examen DOT y salí el mismo día con mi certificado. Proceso rápido y sin complicaciones.",
-    textEn: "I did my DOT exam and left the same day with my certificate. Fast process with no complications.",
-    relativeTime: "Hace 2 meses",
-  },
-  {
-    author: "Ana P.",
-    rating: 5,
-    text: "Una clínica donde te tratan con respeto y cariño. El laboratorio entregó mis resultados muy rápido.",
-    textEn: "A clinic where they treat you with respect and care. The lab delivered my results very fast.",
-    relativeTime: "Hace 3 meses",
   },
 ];

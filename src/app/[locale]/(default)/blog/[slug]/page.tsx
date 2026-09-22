@@ -14,7 +14,7 @@ import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO } from "@/lib/constants";
 import { formatDate } from "@/lib/utils";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -35,19 +35,24 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const post = getPost(slug, locale as Locale);
   if (!post) return {};
+  const metaTitle = post.metaTitle ?? post.title;
+  const metaDescription = post.metaDescription ?? post.description;
   return {
-    title: post.title,
-    description: post.description,
+    title: metaTitle,
+    description: metaDescription,
     keywords: post.keywords,
     alternates: buildAlternates(`/blog/${slug}`, locale as Locale),
-    openGraph: {
+    ...buildSocial({
+      title: metaTitle,
+      description: metaDescription,
+      path: `/blog/${slug}`,
+      locale: locale as Locale,
       type: "article",
-      title: post.title,
-      description: post.description,
+      image: post.cover,
+      imageAlt: post.coverAlt,
       publishedTime: post.date,
-      url: absoluteUrl(`/blog/${slug}`, locale as Locale),
-      images: [{ url: post.cover, alt: post.coverAlt }],
-    },
+      modifiedTime: post.dateModified ?? post.date,
+    }),
   };
 }
 

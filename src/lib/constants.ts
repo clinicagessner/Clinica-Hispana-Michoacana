@@ -614,38 +614,46 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud Michoacana hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `Cuando llegan la fiebre y la tos, lo primero es saber qué es. Hacemos pruebas rápidas de influenza y COVID en la clínica, con resultado en minutos, y se indica el tratamiento en la misma visita.
 
-## ¿Qué incluye?
+## ¿Es flu, COVID o un resfriado?
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+Los tres comparten síntomas y no se distinguen a simple vista. La influenza suele empezar de golpe, con fiebre alta y dolor de cuerpo; el resfriado avanza despacio y rara vez da fiebre alta; el COVID varía mucho. La prueba lo aclara en minutos.
 
-## No dejes que avance
+## ¿Cuándo conviene hacerse la prueba?
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+En los primeros días de síntomas, que es cuando el resultado es más confiable y cuando el tratamiento antiviral todavía sirve. También si convives con personas mayores, embarazadas o con enfermedades crónicas, porque el resultado cambia lo que hay que hacer en casa.
+
+## ¿Qué se trata aquí?
+
+Gripe, bronquitis, faringitis, sinusitis y tos persistente. Se revisan oídos, garganta y pulmones, y se decide si hace falta antibiótico, que no sirve para infecciones por virus y por eso no se receta por rutina.
+
+## ¿Cuándo hay que ir a urgencias?
+
+Falta de aire en reposo, labios o uñas morados, dolor de pecho, confusión, fiebre que no baja en varios días o empeoramiento después de haber mejorado. Eso no espera a una consulta: es sala de emergencias.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud Michoacana we run rapid tests and provide same-day treatment, no appointment needed.
+    longDescriptionEn: `When fever and cough arrive, the first thing is knowing what it is. We run rapid influenza and COVID tests at the clinic, with results in minutes, and treatment is prescribed during the same visit.
 
-## What's included?
+## Is it flu, COVID or a cold?
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+All three share symptoms and cannot be told apart by eye. Influenza usually starts abruptly, with high fever and body aches; a cold builds slowly and rarely brings high fever; COVID varies widely. The test settles it in minutes.
 
-## Don't let it progress
+## When should I get tested?
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+In the first days of symptoms, when the result is most reliable and antiviral treatment still helps. Also if you live with older adults, pregnant women or people with chronic conditions, because the result changes what you do at home.
+
+## What gets treated here?
+
+Flu, bronchitis, pharyngitis, sinusitis and lingering cough. We check ears, throat and lungs and decide whether an antibiotic is needed, which does nothing for viral infections and is therefore not prescribed routinely.
+
+## When should I go to the emergency room?
+
+Shortness of breath at rest, blue lips or nails, chest pain, confusion, fever that will not come down for days, or getting worse after improving. That does not wait for a clinic visit.
 
 ${WHY_EN}
 
@@ -944,38 +952,46 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud Michoacana te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `Aquí puedes hablar de anticoncepción sin juicios y empezar el método el mismo día. Se revisa tu salud, se comparan las opciones disponibles y te explicamos qué esperar los primeros meses.
 
-## ¿Qué incluye?
+## ¿Qué métodos se manejan aquí?
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+Pastillas anticonceptivas e inyección, con inicio y seguimiento en la clínica. Si tu caso necesita un procedimiento que no realizamos, como la colocación de un dispositivo, se orienta la referencia. También retiramos [implantes subdérmicos](/services/extraccion-implantes).
 
-## Una decisión informada
+## ¿Cómo se elige el método?
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+Según tu salud, tus planes y tu rutina. Se preguntan antecedentes de trombosis, migraña con aura, presión alta, tabaquismo y lactancia, porque esos datos descartan algunas opciones. La que se te olvide tomar todos los días no es la mejor opción para ti, aunque sea la más popular.
+
+## ¿Qué efectos son normales al principio?
+
+Manchado entre reglas durante los primeros dos o tres meses, sensibilidad en los senos o cambios leves de ánimo. Suelen ceder. Lo que no es normal: dolor de pierna, dolor de pecho, falta de aire o dolor de cabeza intenso con alteraciones en la vista.
+
+## ¿Necesito cita o receta previa?
+
+No. Llega sin cita y sin seguro. Si llevas tiempo sin revisión, se aprovecha para valorar [atención ginecológica](/services/ginecologia) y, si toca, hacer papanicolaou o [prueba de embarazo](/services/prueba-embarazo).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud Michoacana we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+    longDescriptionEn: `Here you can talk about birth control without judgment and start a method the same day. We review your health, compare the available options and explain what to expect in the first months.
 
-## What's included?
+## Which methods do you offer?
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+Birth control pills and the injection, started and followed up at the clinic. If your case needs a procedure we do not perform, such as device insertion, we guide the referral. We also remove [subdermal implants](/en/services/extraccion-implantes).
 
-## An informed decision
+## How is a method chosen?
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+Based on your health, your plans and your routine. We ask about blood clots, migraine with aura, high blood pressure, smoking and breastfeeding, because those rule out some options. The one you forget to take daily is not the best one for you, however popular it is.
+
+## Which side effects are normal at first?
+
+Spotting between periods during the first two or three months, breast tenderness or mild mood changes. They usually settle. What is not normal: leg pain, chest pain, shortness of breath or a severe headache with vision changes.
+
+## Do I need an appointment or a prescription?
+
+No. Walk in, no insurance needed. If it has been a while since your last checkup, we can also cover [gynecological care](/en/services/ginecologia) and, if due, a Pap smear or a [pregnancy test](/en/services/prueba-embarazo).
 
 ${WHY_EN}
 
@@ -1613,38 +1629,46 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud Michoacana ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `Las pruebas de ETS se hacen aquí de forma confidencial, sin cita y sin seguro. Si el resultado es positivo, el tratamiento se indica en la clínica y se explica qué hacer con tu pareja.
 
-## ¿Qué incluye?
+## ¿Cuándo conviene hacerse la prueba?
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+Después de un contacto de riesgo, si tienes síntomas como ardor al orinar, flujo distinto, llagas o comezón, al empezar una relación nueva, o durante el embarazo. Los CDC recomiendan la prueba anual de clamidia y gonorrea en mujeres sexualmente activas menores de 25 años.
 
-## Cuándo hacerte la prueba
+## ¿Cuánto hay que esperar después del contacto?
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+Cada infección tiene su ventana: unos días para clamidia y gonorrea, semanas para sífilis y VIH. Hacerse la prueba demasiado pronto puede dar un resultado negativo falso, así que en la consulta te decimos cuándo conviene repetirla.
+
+## ¿Muchas infecciones no dan síntomas?
+
+Sí, y ese es el punto. La clamidia y la gonorrea pueden pasar meses en silencio y, sin tratamiento, afectar la fertilidad. Por eso la prueba no es solo para cuando algo duele.
+
+## ¿Es confidencial?
+
+Sí. Tu resultado es tuyo. Se explica en privado y, si hay tratamiento, se te indica ahí mismo junto con la recomendación de que tu pareja también se revise para evitar el rebote de la infección.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud Michoacana we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+    longDescriptionEn: `STD testing is done here confidentially, walk-in and without insurance. If a result is positive, treatment is prescribed at the clinic and we explain what to do about your partner.
 
-## What's included?
+## When should I get tested?
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+After a risky encounter, if you have symptoms such as burning when urinating, unusual discharge, sores or itching, when starting a new relationship, or during pregnancy. The CDC recommends annual chlamydia and gonorrhea screening for sexually active women under 25.
 
-## When to get tested
+## How long after exposure should I wait?
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+Each infection has its own window: a few days for chlamydia and gonorrhea, weeks for syphilis and HIV. Testing too early can give a false negative, so at the visit we tell you when it is worth repeating.
+
+## Do many infections have no symptoms?
+
+Yes, and that is the point. Chlamydia and gonorrhea can go months unnoticed and, untreated, affect fertility. That is why testing is not only for when something hurts.
+
+## Is it confidential?
+
+Yes. Your result is yours. It is explained in private and, if treatment is needed, it is prescribed right there, along with the recommendation that your partner get checked too so the infection does not bounce back.
 
 ${WHY_EN}
 
@@ -1843,36 +1867,46 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud Michoacana contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `El ultrasonido usa ondas de sonido, no radiación, así que es seguro incluso en el embarazo. Se hace en la clínica, sin cita, y el personal te explica en español qué se está viendo.
 
-## ¿Qué incluye?
+## ¿Qué estudios se hacen?
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+Abdominal (hígado, vesícula, riñones, páncreas y bazo), pélvico, de embarazo para control y seguimiento, de tiroides y de tejidos blandos cuando hay un bulto o una zona inflamada que hay que revisar.
 
-## Sin radiación y sin dolor
+## ¿Cómo me preparo?
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+Para el abdominal, entre 6 y 8 horas sin comer, porque la comida y el gas tapan la vista de la vesícula. Para el pélvico y algunos de embarazo, al contrario: hay que llegar con la vejiga llena, tomando agua una hora antes y sin ir al baño.
+
+## ¿Duele o es incómodo?
+
+No duele. Se aplica un gel frío y se desliza el transductor sobre la piel; si la zona está inflamada puede haber algo de molestia al presionar. El estudio dura entre 15 y 30 minutos según lo que se revise.
+
+## ¿Cuándo tengo el resultado?
+
+Se revisa en la misma visita y se te explica qué se vio. Si el hallazgo requiere otro estudio o un especialista, se orienta la referencia y te decimos con claridad cuál es el siguiente paso.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud Michoacana we have modern equipment and staff who explain everything in Spanish.
+    longDescriptionEn: `Ultrasound uses sound waves, not radiation, so it is safe even in pregnancy. It is done at the clinic, walk-in, and staff explain in Spanish what is being seen.
 
-## What's included?
+## Which studies do you perform?
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+Abdominal (liver, gallbladder, kidneys, pancreas and spleen), pelvic, pregnancy scans for monitoring and follow-up, thyroid, and soft tissue when there is a lump or a swollen area to check.
 
-## No radiation, no pain
+## How do I prepare?
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+For an abdominal scan, 6 to 8 hours without food, because food and gas block the view of the gallbladder. For pelvic and some pregnancy scans it is the opposite: arrive with a full bladder, drinking water an hour before and not using the restroom.
+
+## Does it hurt?
+
+No. Cold gel is applied and the probe slides over the skin; if the area is inflamed there may be some discomfort with pressure. The study takes 15 to 30 minutes depending on what is being reviewed.
+
+## When do I get the result?
+
+It is reviewed during the same visit and explained to you. If the finding calls for another study or a specialist, we guide the referral and tell you clearly what the next step is.
 
 ${WHY_EN}
 
@@ -2006,38 +2040,46 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud Michoacana lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `Somos civil surgeon autorizado por USCIS: hacemos el examen médico de inmigración completo, con laboratorio y vacunas en el mismo lugar, y te entregamos el Formulario I-693 en su sobre sellado.
 
-## ¿Qué incluye?
+## ¿Qué revisa el examen?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+Cuatro cosas: enfermedades transmisibles de importancia para la salud pública, vacunas exigidas, trastornos con comportamiento peligroso y consumo de drogas. Tener diabetes, presión alta o sobrepeso no afecta tu trámite.
 
-## Qué traer a tu cita
+## ¿Qué debo traer?
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+Identificación con foto, tu cartilla de vacunas (aunque sea de tu país y en español), la lista de tus medicamentos, resultados previos de tuberculosis si los tienes y el aviso de USCIS de tu caso. Sin cartilla se repiten dosis que ya tenías.
+
+## ¿Cuánto dura y cuándo sale?
+
+La visita suele tomar menos de una hora. Si la prueba de tuberculosis sale positiva, sigue una radiografía y el proceso se alarga unos días. Algunas vacunas necesitan una segunda dosis: pregunta desde el primer día si tu esquema la requiere.
+
+## ¿El formulario caduca?
+
+Desde 2024, el I-693 firmado no tiene fecha de vencimiento mientras esté bien llenado. No abras el sobre: si llega abierto, USCIS puede rechazarlo. Si quieres prepararte, lee la [guía del examen I-693](/blog/guia-examen-medico-inmigracion-i693-pasadena).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud Michoacana we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+    longDescriptionEn: `We are a USCIS-authorized civil surgeon: we perform the full immigration medical exam, with lab work and vaccines in the same place, and hand you Form I-693 in its sealed envelope.
 
-## What's included?
+## What does the exam check?
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+Four things: communicable diseases of public health significance, required vaccines, disorders with harmful behavior and drug use. Having diabetes, high blood pressure or extra weight does not affect your case.
 
-## What to bring
+## What should I bring?
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+Photo ID, your vaccination record (even if it is from your home country and in Spanish), your medication list, previous tuberculosis results if you have them and the USCIS notice for your case. Without the record, doses you already had get repeated.
+
+## How long does it take?
+
+The visit usually takes under an hour. If the tuberculosis test is positive, a chest X-ray follows and the process stretches a few days. Some vaccines need a second dose: ask on day one whether your schedule requires it.
+
+## Does the form expire?
+
+Since 2024, the signed I-693 has no expiration date as long as it is properly completed. Do not open the envelope: if it arrives open, USCIS can reject it. To prepare, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-pasadena).
 
 ${WHY_EN}
 
@@ -2084,38 +2126,46 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud Michoacana aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `Aplicamos la vacuna contra la influenza y el toxoide tetánico sin cita, en minutos y con registro por escrito para que lo lleves a la escuela, al trabajo o a tu trámite.
 
-## ¿Qué incluye?
+## ¿Cuándo toca la vacuna de la influenza?
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+Cada año, y conviene ponerla al inicio de la temporada, entre septiembre y octubre, porque la protección tarda unas dos semanas en instalarse. Ponerla tarde sigue sirviendo: la temporada en Texas se extiende hasta bien entrado el invierno.
 
-## Por qué vacunarte
+## ¿Cada cuánto se pone el tétanos?
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+El refuerzo se pone cada diez años. También se adelanta cuando hay una herida sucia, profunda o con metal oxidado y han pasado más de cinco años desde la última dosis. Si no recuerdas cuándo fue la tuya, dilo: se decide con base en eso.
+
+## ¿Qué reacciones son normales?
+
+Dolor o enrojecimiento en el brazo uno o dos días, y a veces cansancio o febrícula. No significa que la vacuna te haya enfermado. Lo que sí hay que atender de inmediato: ronchas por todo el cuerpo, hinchazón de labios o lengua, o dificultad para respirar.
+
+## ¿Sirven para trámites?
+
+Sí. Te entregamos el comprobante con fecha. Si estás haciendo un trámite migratorio, el [examen I-693](/services/examenes-inmigracion) incluye la revisión completa del esquema y la aplicación de las vacunas que exige USCIS.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud Michoacana we administer the influenza vaccine and tetanus toxoid safely and quickly.
+    longDescriptionEn: `We give the influenza vaccine and tetanus toxoid walk-in, in minutes, with written documentation you can take to school, work or your paperwork.
 
-## What's included?
+## When is the flu shot due?
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+Every year, ideally at the start of the season, September to October, because protection takes about two weeks to build. Getting it late still helps: the Texas season runs well into winter.
 
-## Why get vaccinated
+## How often is the tetanus booster?
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+Every ten years. It is also moved up when there is a dirty or deep wound, or one involving rusty metal, and more than five years have passed since your last dose. If you cannot recall when yours was, say so: that is how the decision is made.
+
+## Which reactions are normal?
+
+Soreness or redness in the arm for a day or two, sometimes fatigue or a slight fever. It does not mean the vaccine made you sick. What needs immediate attention: a body-wide rash, swelling of lips or tongue, or trouble breathing.
+
+## Do they count for paperwork?
+
+Yes. We give you dated documentation. If you are going through an immigration process, the [I-693 exam](/en/services/examenes-inmigracion) includes a full review of your schedule and the vaccines USCIS requires.
 
 ${WHY_EN}
 

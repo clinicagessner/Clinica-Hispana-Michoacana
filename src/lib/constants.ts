@@ -1743,36 +1743,46 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud Michoacana la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `Las pruebas de detección de alcohol y drogas para empleo y trámites se hacen aquí sin cita, con proceso discreto y documentación del resultado con fecha.
 
-## ¿Qué incluye?
+## ¿Para qué suelen pedirse?
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+Para contratación, para revisiones periódicas de la empresa, después de un incidente laboral o como requisito de un trámite. Trae el formato que te dio tu empleador, si lo tienes, y así el resultado se documenta como te lo piden.
 
-## Para trabajo y trámites
+## ¿Cómo es la prueba?
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+Lo habitual es una muestra de orina en un área privada, con el registro de la cadena de custodia cuando el trámite lo exige. Toma pocos minutos y el resultado se entrega por escrito.
+
+## ¿Qué debo decir antes de la prueba?
+
+Los medicamentos que tomas, incluidos los recetados y los de venta libre, porque algunos pueden afectar la interpretación del resultado. Decirlo antes evita explicaciones incómodas después.
+
+## ¿Es confidencial?
+
+El resultado se maneja con discreción y se entrega según el formato que corresponda a tu trámite o a tu empleador. Si vienes por un [examen DOT](/services/examen-dot) o un [chequeo laboral](/services/examen-fisico-escolar), se puede resolver todo en la misma visita.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud Michoacana we perform it quickly and give you the documentation you need.
+    longDescriptionEn: `Alcohol and drug screening for employment and paperwork is done here walk-in, with a discreet process and dated written documentation of the result.
 
-## What's included?
+## What are they usually required for?
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+Hiring, periodic company checks, after a workplace incident, or as a requirement for paperwork. Bring the form your employer gave you, if you have one, so the result is documented the way they ask.
 
-## For work and paperwork
+## What is the test like?
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+Usually a urine sample in a private area, with chain-of-custody records when the process requires it. It takes a few minutes and the result is provided in writing.
+
+## What should I disclose beforehand?
+
+The medications you take, prescription and over-the-counter, because some can affect how a result is interpreted. Saying so up front avoids awkward explanations later.
+
+## Is it confidential?
+
+The result is handled discreetly and provided in the format your process or employer requires. If you are here for a [DOT exam](/en/services/examen-dot) or a [workplace physical](/en/services/examen-fisico-escolar), it can all be handled in the same visit.
 
 ${WHY_EN}
 
@@ -2508,38 +2518,46 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud Michoacana realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `Los procedimientos menores de piel y tejidos blandos se hacen aquí mismo, con anestesia local y en una sola visita. Sales caminando y con indicaciones claras de cuidado.
 
-## ¿Qué incluye?
+## ¿Qué se puede quitar?
 
-- Evaluación del lunar, quiste o lesión
-- Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+Lunares, quistes sebáceos, lipomas, verrugas y pequeñas lesiones de piel que molestan, se irritan con la ropa o han cambiado de aspecto. Primero se revisa la lesión; si por su aspecto conviene estudiarla o requiere cirugía mayor, se orienta la referencia.
 
-## Rápido y seguro
+## ¿Cómo es el procedimiento?
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+Se limpia la zona y se aplica anestesia local: sientes el piquete inicial y después presión. Se retira la lesión, se cierra con puntos si hace falta y se cubre. Entre preparación y cierre suelen ser de 20 a 40 minutos, según el tamaño y el sitio.
+
+## ¿Queda cicatriz?
+
+Cualquier corte deja marca; lo que cambia es cuánto se nota. Influyen el tamaño, la zona y cómo cuides la herida después: mantenerla limpia, no exponerla al sol los primeros meses y no arrancar la costra. Te damos las indicaciones por escrito.
+
+## ¿Qué debo vigilar después?
+
+Enrojecimiento que crece, pus, mal olor, fiebre o dolor que aumenta a partir del tercer día. El [retiro de puntos](/services/suturas-heridas) y las curaciones de seguimiento también se hacen aquí, sin cita.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud Michoacana we perform minor outpatient surgery with local anesthesia, in a single day.
+    longDescriptionEn: `Minor skin and soft-tissue procedures are done right here, with local anesthesia and in a single visit. You walk out with clear aftercare instructions.
 
-## What's included?
+## What can be removed?
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+Moles, sebaceous cysts, lipomas, warts and small skin lesions that bother you, rub against clothing or have changed in appearance. The lesion is examined first; if its appearance calls for study or it needs major surgery, we guide the referral.
 
-## Fast and safe
+## What does the procedure involve?
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+The area is cleaned and local anesthesia is given: you feel the initial pinch, then pressure. The lesion is removed, closed with stitches if needed and covered. From prep to closure it usually takes 20 to 40 minutes, depending on size and location.
+
+## Will it leave a scar?
+
+Any cut leaves a mark; what changes is how noticeable it is. Size, location and aftercare all matter: keeping it clean, avoiding sun exposure for the first months and not picking the scab. We give you written instructions.
+
+## What should I watch for afterward?
+
+Spreading redness, pus, bad smell, fever or pain that increases from the third day on. [Stitch removal](/en/services/suturas-heridas) and follow-up wound care are also done here, walk-in.
 
 ${WHY_EN}
 
@@ -2758,36 +2776,46 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud Michoacana puedes llevarte los medicamentos que el equipo médico te indique, sin tener que ir a otro lugar. También tenemos productos de venta libre. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Al terminar tu consulta puedes llevarte ahí mismo los medicamentos que el equipo médico te indique, además de productos de venta libre. Una sola parada y con la explicación en español.
 
-## ¿Qué incluye?
+## ¿Qué me puedo llevar?
 
-- Entrega de los medicamentos indicados en tu consulta
-- Opciones de marca y genéricas
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
+Los medicamentos indicados durante tu visita, en opciones de marca o genéricas cuando existen, y productos de venta libre para gripe, dolor, alergias, acidez y cuidado de heridas.
 
-## ¿Por qué usar nuestra farmacia?
+## ¿Qué no hacemos?
 
-Te ahorras una segunda parada: el equipo médico te atiende y te entrega ahí mismo los medicamentos que indique tu tratamiento. Te explicamos en español la dosis, los horarios y los cuidados.
+No surtimos recetas de otros médicos ni damos resurtidos de tratamientos iniciados fuera: para eso hace falta una licencia de farmacia del estado de Texas, que es otra cosa. Si ya traes una receta de otro lugar, tendrás que surtirla en una farmacia.
+
+## ¿Me explican cómo tomarlos?
+
+Sí, y conviene preguntar: a qué hora, con o sin comida, cuántos días, qué hacer si se te olvida una dosis y con qué no mezclarlo. Esa conversación evita la mitad de los problemas con los medicamentos.
+
+## ¿Cuánto cuestan?
+
+Pregunta el precio antes de salir de la consulta, como con cualquier otro servicio. Se paga en el momento, con efectivo o tarjeta, sin seguro de por medio.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud Michoacana you can take home the medications indicated by the medical team, without going anywhere else. We also carry over-the-counter products. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `When your visit ends you can take home the medications the medical team indicates, plus over-the-counter products. One stop, with the explanation in Spanish.
 
-## What's included?
+## What can I take home?
 
-- Medications indicated during your visit, provided on site
-- Brand-name and generic options
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
+The medications indicated during your visit, in brand or generic options where available, and over-the-counter products for colds, pain, allergies, heartburn and wound care.
 
-## Why use our pharmacy?
+## What don't you do?
 
-You skip the second stop: the medical team sees you and provides the medications your treatment requires right there. We explain the dosage, schedule and precautions in Spanish.
+We do not fill prescriptions written by other doctors and we do not refill treatments started elsewhere: that requires a Texas pharmacy license, which is a different thing. If you already have a prescription from somewhere else, you will need a pharmacy to fill it.
+
+## Will you explain how to take them?
+
+Yes, and it is worth asking: what time, with or without food, for how many days, what to do if you miss a dose and what not to mix it with. That conversation prevents half of medication problems.
+
+## What do they cost?
+
+Ask the price before leaving the visit, as with any other service. You pay on the spot, cash or card, with no insurance involved.
 
 ${WHY_EN}
 

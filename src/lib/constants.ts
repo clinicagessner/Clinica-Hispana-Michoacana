@@ -668,38 +668,46 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud Michoacana lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `El examen físico escolar y deportivo revisa que el niño o el joven pueda estudiar y competir sin riesgo. En la Michoacana lo hacemos sin cita, en español y con el formulario de la escuela llenado y firmado antes de que salgas.
 
-## ¿Qué incluye?
+## ¿Qué se revisa?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
-- Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+Peso, talla, presión arterial, vista y oído, corazón y pulmones, columna y movilidad de rodillas y tobillos, más las preguntas sobre desmayos, dolor de pecho al hacer ejercicio y antecedentes familiares de problemas cardiacos. Esa parte del cuestionario es la que más casos detecta.
 
-## Para la escuela y el deporte
+## ¿Qué formularios llenan?
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+El de tu escuela o distrito y el de deportes escolares de Texas, que en la mayoría de las preparatorias es el formulario de la UIL. Trae el papel que te dieron; si lo olvidaste, dinos de qué escuela es.
+
+## ¿Qué debo llevar?
+
+Identificación del padre o tutor, la cartilla de vacunas del estudiante, lentes si los usa y el nombre de los medicamentos que tome. Si el chico usa inhalador para el asma, tráelo: se anota en el formulario y evita problemas en la práctica.
+
+## ¿Cuándo conviene hacerlo?
+
+Antes de que empiece la temporada, no el día de la primera práctica. En julio y agosto se juntan todas las familias; el resto del año se hace en una sola visita, y tenemos horario de tarde y fines de semana, que es cuando se puede sin faltar a clases ni al trabajo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud Michoacana we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `A school and sports physical checks that a child or teen can study and compete safely. At La Michoacana we do it walk-in, in Spanish, with the school form filled out and signed before you leave.
 
-## What's included?
+## What gets checked?
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
-- Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+Weight, height, blood pressure, vision and hearing, heart and lungs, spine and knee and ankle mobility, plus the questions about fainting, chest pain during exercise and family history of heart problems. That part of the questionnaire is what catches the most cases.
 
-## For school and sports
+## Which forms do you complete?
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+Your school or district form and the Texas school sports form, which at most high schools is the UIL form. Bring the paper they gave you; if you forgot it, tell us which school it is for.
+
+## What should I bring?
+
+Parent or guardian ID, the student's vaccination record, glasses if they wear them and the names of any medications. If your child uses an asthma inhaler, bring it: it goes on the form and prevents problems at practice.
+
+## When should we come?
+
+Before the season starts, not on the day of the first practice. July and August are when every family shows up; the rest of the year it takes a single visit, and we have evening and weekend hours, which is when most families can come without missing school or work.
 
 ${WHY_EN}
 
@@ -990,36 +998,46 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud Michoacana lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `El implante subdérmico se retira con anestesia local en la misma visita. En la Michoacana lo hacemos sin cita, en español, y te explicamos qué esperar después y qué opciones tienes si quieres seguir con un método anticonceptivo.
 
-## ¿Qué incluye?
+## ¿Cuándo hay que retirarlo?
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+Cuando cumple su tiempo de duración, cuando quieres embarazarte o cuando el método te está dando molestias que no mejoran, como sangrados irregulares que ya te cansaron. También si sientes el implante doblado o fuera de su sitio.
 
-## Un procedimiento sencillo
+## ¿Cómo es el procedimiento?
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+Primero se localiza el implante con los dedos, se limpia la zona y se aplica anestesia local: sientes el piquete y después presión, no dolor. Se hace una incisión pequeña, se retira el implante y se cierra con un vendaje. Son unos minutos y sales caminando.
+
+## ¿Qué cuidados siguen después?
+
+Mantén el vendaje seco 24 horas, evita cargar peso con ese brazo dos o tres días y vigila la zona. Es normal un moretón. Si aparece enrojecimiento que crece, pus o fiebre, regresa: eso sí hay que revisarlo.
+
+## ¿Y si quiero seguir cuidándome?
+
+Puedes cambiar de método el mismo día. Te explicamos las opciones disponibles aquí, como pastillas o inyección, en la consulta de [anticonceptivos](/services/anticonceptivos), y si tu caso necesita un procedimiento que no hacemos, se orienta la referencia.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud Michoacana we do it safely, quickly and with care.
+    longDescriptionEn: `A subdermal implant is removed with local anesthesia in the same visit. At La Michoacana we do it walk-in, in Spanish, and explain what to expect afterward and what your options are if you want to stay on a birth control method.
 
-## What's included?
+## When should it come out?
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+When it reaches the end of its lifespan, when you want to get pregnant, or when the method is causing side effects that are not improving, such as irregular bleeding you are tired of. Also if the implant feels bent or out of place.
 
-## A simple procedure
+## What does the procedure involve?
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+The implant is located by touch, the area is cleaned and local anesthesia is given: you feel the pinch, then pressure, not pain. A small incision is made, the implant comes out and the site is bandaged. It takes a few minutes and you walk out.
+
+## What aftercare is needed?
+
+Keep the bandage dry for 24 hours, avoid lifting weight with that arm for two or three days, and watch the area. Bruising is normal. If you get spreading redness, pus or fever, come back: that does need to be checked.
+
+## What if I want to stay protected?
+
+You can switch methods the same day. We go over the options available here, such as pills or the injection, at the [birth control](/en/services/anticonceptivos) visit, and if your case needs a procedure we do not perform, we guide the referral.
 
 ${WHY_EN}
 
@@ -1148,48 +1166,46 @@ ${AREAS_EN}`,
       "Vitamin B12 test and injection",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud Michoacana tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `El laboratorio está dentro de la clínica: la muestra se toma en el momento, sin cita, y los resultados te los explicamos en español, sin tecnicismos.
 
-## ¿Qué incluye?
+## ¿Qué estudios se hacen?
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Nivel de vitamina B12
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+Biometría hemática, química sanguínea, hemoglobina glicosilada (A1C), perfil de lípidos, perfil tiroideo, función de hígado y riñón, nivel de vitamina B12 y los paneles que piden los trámites de trabajo, escuela o inmigración.
 
-## Para qué sirven
+## ¿Tengo que venir en ayunas?
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+Para glucosa en ayunas y perfil de lípidos, sí: entre 8 y 12 horas sin comer. El A1C, la biometría y el perfil tiroideo no lo necesitan. El agua sí se puede tomar, y de hecho ayuda a que la toma de muestra sea más fácil. Si tomas medicamento diario, pregunta antes de suspenderlo.
 
-## ¿Cansancio o poca energía? Revisa tu vitamina B12
+## ¿Cuánto tardan los resultados?
 
-La deficiencia de vitamina B12 es muy común y se confunde con estrés: fatiga constante, hormigueo en manos o pies, falta de concentración. Medimos tu nivel con el mismo análisis y, si hace falta, aplicamos la **inyección de vitamina B12** el mismo día. Aprovecha la [promoción de examen general de sangre + inyección de B12 por $99](/promociones) o lee nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+En la mayoría de los casos salen el mismo día y te los explicamos al entregarlos: qué valor está fuera de rango, si conviene repetir el estudio y cuál es el siguiente paso. Si hace falta tratamiento, se empieza en la misma visita.
+
+## ¿Cansancio o poca energía?
+
+Antes de comprar vitaminas a ciegas, conviene medir. La deficiencia de vitamina B12 da fatiga, hormigueo en manos y pies y falta de concentración, y se confunde con estrés. Mira la [promoción de examen general de sangre más inyección de B12](/promociones) o lee la [guía del laboratorio](/blog/laboratorio-clinico-pasadena-analisis-sangre).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud Michoacana we draw your samples on the spot and explain your results in Spanish, without the jargon.
+    longDescriptionEn: `The lab is inside the clinic: your sample is drawn on the spot, with no appointment, and we explain the results in Spanish, without jargon.
 
-## What's included?
+## Which tests do you run?
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Vitamin B12 level
-- Panels for general checkups or follow-up
-- Fast results in most cases
+Complete blood count, metabolic panel, hemoglobin A1C, lipid panel, thyroid panel, liver and kidney function, vitamin B12 level, and the panels required for work, school or immigration paperwork.
 
-## Why they matter
+## Do I need to fast?
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+For fasting glucose and the lipid panel, yes: 8 to 12 hours without food. A1C, the blood count and the thyroid panel do not require it. Water is fine, and it actually makes the draw easier. If you take daily medication, ask before skipping a dose.
 
-## Tired or low on energy? Check your vitamin B12
+## How long do results take?
 
-Vitamin B12 deficiency is very common and easy to mistake for stress: constant fatigue, tingling in hands or feet, poor concentration. We measure your level with the same blood draw and, if needed, give you a **vitamin B12 injection** the same day. Take advantage of the [blood panel + B12 injection promotion for $99](/en/promociones) or read our [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+In most cases they are ready the same day and we go through them with you: which value is out of range, whether the test should be repeated and what the next step is. If treatment is needed, it starts during the same visit.
+
+## Tired or low on energy?
+
+Before buying vitamins blindly, it is worth measuring. Vitamin B12 deficiency causes fatigue, tingling in hands and feet and trouble concentrating, and it gets mistaken for stress. See the [blood panel plus B12 injection promotion](/en/promociones) or read our [lab guide](/en/blog/laboratorio-clinico-pasadena-analisis-sangre).
 
 ${WHY_EN}
 
@@ -1864,38 +1880,46 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud Michoacana lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `El examen físico DOT certifica que puedes manejar un vehículo comercial con seguridad. En la Michoacana lo hacemos sin cita, en español, y sales el mismo día con tu certificado.
 
-## ¿Qué incluye?
+## ¿Qué se revisa?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+Visión (20/40 en cada ojo, con lentes si los usas), audición, presión arterial, análisis de orina, corazón y pulmones, columna y movilidad, más tu historial de medicamentos y condiciones como diabetes, apnea del sueño o cirugías recientes.
 
-## Para conductores comerciales
+## ¿Qué debo traer?
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+Identificación con foto, tu CDL o el permiso, lentes o aparatos auditivos, la lista de tus medicamentos y, si aplican, el formulario de insulina llenado por tu médico o el reporte de uso del CPAP de los últimos 90 días. Sin esos papeles el certificado se retrasa.
+
+## ¿Cuánto dura el certificado?
+
+Hasta 24 meses. Si tu presión está alta o llevas control de una condición crónica, puede salir por 12 meses o menos, para revisarte antes. La presión es el motivo más común de un certificado corto: evita café y cigarro antes de la cita y ven descansado.
+
+## ¿Y si algo sale mal ese día?
+
+Aquí mismo tienes [laboratorio](/services/examenes-sangre) y [control de presión, diabetes y colesterol](/services/condiciones-cronicas), así que se puede empezar a resolver en la misma visita en vez de mandarte a otro lugar. Si quieres prepararte, lee la [guía del examen DOT](/blog/examen-dot-cdl-camioneros-pasadena).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Nueva Salud Michoacana we perform it quickly and give you your certificate the same day.
+    longDescriptionEn: `The DOT physical certifies that you can operate a commercial vehicle safely. At La Michoacana we do it walk-in, in Spanish, and you leave the same day with your certificate.
 
-## What's included?
+## What gets checked?
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+Vision (20/40 in each eye, with glasses if you wear them), hearing, blood pressure, urinalysis, heart and lungs, spine and mobility, plus your history of medications and conditions such as diabetes, sleep apnea or recent surgery.
 
-## For commercial drivers
+## What should I bring?
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+Photo ID, your CDL or permit, glasses or hearing aids, your medication list and, if they apply, the insulin form completed by your provider or your CPAP compliance report for the last 90 days. Without those papers the certificate gets delayed.
+
+## How long is the certificate good for?
+
+Up to 24 months. If your blood pressure is high or you are managing a chronic condition, it may be issued for 12 months or less so you get rechecked sooner. Blood pressure is the most common reason for a short certificate: skip coffee and cigarettes before the visit and come rested.
+
+## What if something comes up that day?
+
+We have [lab work](/en/services/examenes-sangre) and [blood pressure, diabetes and cholesterol care](/en/services/condiciones-cronicas) right here, so it can be addressed in the same visit instead of sending you somewhere else. To prepare, read our [DOT exam guide](/en/blog/examen-dot-cdl-camioneros-pasadena).
 
 ${WHY_EN}
 
@@ -2098,46 +2122,46 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud Michoacana los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `Un suero vitaminado es hidratación con vitaminas y minerales que entra por vía intravenosa, aplicada y vigilada por personal médico. En la Michoacana lo hacemos en un área tranquila, con una evaluación breve antes para confirmar que es apropiado para ti.
 
-## ¿Qué incluye?
+## ¿Cuánto tarda la aplicación?
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+Entre 30 y 45 minutos, sentado y con el brazo libre. Antes se revisan tu presión y tus antecedentes, y durante la aplicación el personal está pendiente de cómo te sientes. Puedes venir sin cita, aunque conviene llamar antes para confirmar disponibilidad del día.
 
-## Cuándo pueden ayudar
+## ¿Qué lleva el suero?
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti. Llámanos antes de tu visita para confirmar la disponibilidad del servicio.
+La mezcla la define el personal médico según tu evaluación, así que no publicamos una fórmula fija: pregunta en la clínica qué contiene el que te corresponde y cuánto cuesta antes de empezar. Si tomas medicamentos o tienes problemas de riñón o del corazón, dilo en la evaluación.
 
-## ¿Buscas vitaminas para recuperar energía? Inyección de vitamina B12
+## ¿Suero o inyección de B12?
 
-Si lo que necesitas es energía y bienestar, la opción más práctica y económica es la **inyección intramuscular de vitamina B12**: toma menos de cinco minutos, no requiere suero ni vía intravenosa y está disponible todos los días sin cita. Consulta la [promoción de examen general de sangre + inyección de B12 por $99](/promociones) y nuestra [guía sobre la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+Depende de lo que necesites. Si lo tuyo es cansancio asociado a falta de vitamina B12, la **inyección intramuscular** es más rápida y barata: menos de cinco minutos, sin vía intravenosa y todos los días sin cita. Lo sensato es medir primero: mira la [promoción de examen general de sangre más B12](/promociones) y la [guía de la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+
+## ¿Quién no debería ponerse uno?
+
+Un suero no sustituye un diagnóstico. Si llevas días con vómito, diarrea, fiebre o te sientes muy débil, lo primero es una consulta: esos síntomas pueden tener una causa que se trata de otra manera. Aquí te atendemos el mismo día y, si hace falta, pasamos a [laboratorio](/services/examenes-sangre).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud Michoacana we administer them with medical staff in a comfortable, safe setting.
+    longDescriptionEn: `A vitamin IV is hydration with vitamins and minerals delivered intravenously, given and monitored by medical staff. At La Michoacana we do it in a quiet area, with a short evaluation first to confirm it is appropriate for you.
 
-## What's included?
+## How long does it take?
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+Between 30 and 45 minutes, seated, with one arm free. Your blood pressure and history are checked first, and staff keep an eye on how you feel throughout. You can walk in, though it helps to call ahead to confirm availability that day.
 
-## When they can help
+## What is in the drip?
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you. Please call before your visit to confirm availability of this service.
+The mix is decided by the medical staff based on your evaluation, so we do not publish a fixed formula: ask at the clinic what yours contains and what it costs before starting. If you take medication or have kidney or heart problems, say so during the evaluation.
 
-## Looking for vitamins to regain energy? Vitamin B12 injection
+## IV drip or B12 injection?
 
-If what you need is energy and wellbeing, the most practical and affordable option is an intramuscular **vitamin B12 injection**: it takes under five minutes, needs no IV line and is available every day without an appointment. See the [blood panel + B12 injection promotion for $99](/en/promociones) and our [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+It depends on what you need. If your fatigue is linked to low vitamin B12, the **intramuscular injection** is faster and cheaper: under five minutes, no IV line, available every day without an appointment. The sensible move is to measure first: see the [blood panel plus B12 promotion](/en/promociones) and the [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+
+## Who should not get one?
+
+A drip is not a diagnosis. If you have had days of vomiting, diarrhea, fever or feel very weak, start with a visit: those symptoms can have a cause that is treated differently. We see you the same day and move to [lab work](/en/services/examenes-sangre) if needed.
 
 ${WHY_EN}
 
@@ -2418,38 +2442,46 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud Michoacana lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `Un absceso es una bolsa de pus bajo la piel que no se quita con antibiótico solo: hay que drenarla. En la Michoacana lo hacemos con anestesia local, sin cita, y el alivio se siente casi de inmediato.
 
-## ¿Qué incluye?
+## ¿Cómo sé que es un absceso?
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+Un bulto rojo, caliente y doloroso que crece en días, a veces con una punta blanca o amarilla y con la piel tensa. Puede venir con fiebre o con la zona endurecida alrededor. Si está en la ingle, la axila o la cara, conviene revisarlo pronto.
 
-## No lo dejes pasar
+## ¿Qué se hace en la visita?
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+Se evalúa la zona, se aplica anestesia local y se hace una incisión pequeña para sacar el pus. Se limpia por dentro, a veces se deja una gasa para que siga drenando y se cubre. El procedimiento dura pocos minutos y muchas personas notan alivio al salir.
+
+## ¿Necesito antibiótico?
+
+No siempre. En muchos casos el drenaje resuelve el problema, y el antibiótico se reserva para cuando hay fiebre, la infección se está extendiendo o hay condiciones como diabetes. Eso se decide al revisarte, no por teléfono.
+
+## ¿Y después?
+
+Te damos indicaciones de limpieza y una cita de seguimiento para revisar la herida. Si la zona vuelve a llenarse, aumenta el dolor o aparece fiebre, regresa. Los abscesos que se repiten en el mismo lugar merecen estudiarse: a veces hay una causa de fondo, como azúcar alta sin diagnosticar.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud Michoacana we treat it safely to relieve the discomfort and prevent the infection from spreading.
+    longDescriptionEn: `An abscess is a pocket of pus under the skin that antibiotics alone will not clear: it has to be drained. At La Michoacana we do it with local anesthesia, walk-in, and the relief is almost immediate.
 
-## What's included?
+## How do I know it is an abscess?
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+A red, warm, painful lump that grows over days, sometimes with a white or yellow point and tight skin. It can come with fever or with hardened tissue around it. If it is in the groin, armpit or face, get it looked at sooner.
 
-## Don't let it go
+## What happens during the visit?
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+The area is evaluated, local anesthesia is given and a small incision releases the pus. The cavity is cleaned, sometimes packed with gauze so it keeps draining, and covered. The procedure takes a few minutes and most people feel better on the way out.
+
+## Do I need antibiotics?
+
+Not always. Drainage alone resolves many cases, and antibiotics are kept for fever, spreading infection or conditions such as diabetes. That is decided when we examine you, not over the phone.
+
+## What comes next?
+
+You get cleaning instructions and a follow-up visit to check the wound. If it fills up again, the pain increases or fever appears, come back. Abscesses that keep returning in the same spot deserve a workup: sometimes there is an underlying cause, such as undiagnosed high blood sugar.
 
 ${WHY_EN}
 

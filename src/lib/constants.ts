@@ -857,6 +857,14 @@ Evita duchas vaginales, óvulos y relaciones 48 horas antes del papanicolaou, po
 
 Es normal, sobre todo la primera vez. Puedes pedir que te acompañe alguien de confianza y pedir que te expliquen en español las veces que haga falta. El cáncer de cuello uterino es de los pocos que se previenen con una prueba sencilla, y casi todos los casos aparecen en mujeres que llevaban años sin hacérsela.
 
+## ¿Atienden si estoy embarazada?
+
+Confirmamos el embarazo, calculamos las semanas y revisamos lo básico: presión, peso y análisis. El control prenatal completo no se lleva aquí, así que se orienta la referencia al lugar donde seguirlo, con o sin seguro.
+
+## ¿Qué pasa si el papanicolaou sale alterado?
+
+No significa cáncer. La mayoría de los resultados anormales son cambios leves que se vigilan o infecciones que se tratan. Te explicamos qué dice el resultado, si hay que repetirlo y en qué plazo, y si hace falta un estudio que no hacemos aquí, se orienta la referencia.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -879,6 +887,14 @@ Avoid douching, vaginal creams and sex for 48 hours before a Pap smear, since th
 ## What if I feel embarrassed?
 
 That is normal, especially the first time. You can ask someone you trust to come in with you and ask for explanations in Spanish as many times as you need. Cervical cancer is one of the few that a simple test prevents, and almost all cases appear in women who had gone years without one.
+
+## Do you see pregnant patients?
+
+We confirm the pregnancy, calculate the weeks and check the basics: blood pressure, weight and lab work. Full prenatal care is not provided here, so we guide the referral to where you can continue it, with or without insurance.
+
+## What if my Pap smear is abnormal?
+
+It does not mean cancer. Most abnormal results are mild changes that get monitored or infections that get treated. We explain what the result says, whether it should be repeated and when, and if a study we do not perform is needed, we guide the referral.
 
 ${WHY_EN}
 
@@ -1428,6 +1444,14 @@ Por tratamientos cortados a la mitad, por poca agua, por aguantarse las ganas mu
 
 Tomar más agua y no aguantarse. Lo que no ayuda: automedicarse con antibióticos sobrantes de otra ocasión, porque enmascara los síntomas y complica el cultivo.
 
+## ¿Necesito cultivo o basta con el examen de orina?
+
+El examen general basta en la mayoría de los casos sencillos. El cultivo se pide cuando la infección se repite, cuando el tratamiento anterior no funcionó, en el embarazo o si hay fiebre: sirve para saber qué bacteria es y cuál es el tratamiento que sí le hace efecto.
+
+## ¿Puede ser otra cosa y no una infección?
+
+Sí. El ardor al orinar también aparece con infecciones de transmisión sexual, irritación o problemas de próstata en los hombres. Por eso se revisan tus síntomas antes de tratar, y si el examen sale limpio se busca la causa real en vez de repetir antibiótico.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1450,6 +1474,14 @@ Treatments stopped halfway, not drinking enough water, holding it for hours and,
 ## What helps in the meantime?
 
 Drinking more water and not holding it. What does not help: self-medicating with leftover antibiotics from another occasion, because it masks symptoms and complicates the culture.
+
+## Do I need a culture or is a urinalysis enough?
+
+A general urinalysis is enough in most straightforward cases. A culture is ordered when the infection keeps returning, when previous treatment did not work, in pregnancy or with fever: it identifies which bacteria it is and which treatment actually works on it.
+
+## Could it be something other than an infection?
+
+Yes. Burning when urinating also comes with sexually transmitted infections, irritation, or prostate problems in men. That is why your symptoms are reviewed before treating, and if the test is clean we look for the real cause instead of repeating antibiotics.
 
 ${WHY_EN}
 

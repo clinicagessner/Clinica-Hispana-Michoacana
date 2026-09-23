@@ -477,6 +477,10 @@ El hipotiroidismo se trata con hormona en pastilla, todos los días y en ayunas,
 
 Mientras se ajusta la dosis, cada dos o tres meses. Ya estable, una o dos veces al año. El embarazo y los cambios de peso importantes obligan a revisar antes, porque la dosis deja de servir. Aquí tienes el [laboratorio](/services/examenes-sangre) y el seguimiento en el mismo lugar.
 
+## ¿Afecta la tiroides al embarazo?
+
+Sí, y bastante. En el embarazo las necesidades cambian y la dosis que servía antes suele quedarse corta, así que conviene revisar la TSH en cuanto sepas que estás embarazada y repetirla durante el seguimiento.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -499,6 +503,10 @@ Hypothyroidism is treated with a daily hormone tablet taken on an empty stomach,
 ## How often should I be rechecked?
 
 While the dose is being adjusted, every two or three months. Once stable, once or twice a year. Pregnancy and major weight changes call for an earlier check, because the dose stops fitting. The [lab](/en/services/examenes-sangre) and the follow-up are in the same place.
+
+## Does the thyroid affect pregnancy?
+
+Yes, quite a bit. Needs change in pregnancy and the dose that worked before usually falls short, so it is worth checking TSH as soon as you know you are pregnant and repeating it during follow-up.
 
 ${WHY_EN}
 
@@ -563,6 +571,10 @@ Antihistamínicos, aerosoles nasales con esteroide, lavados con solución salina
 
 Cerrar ventanas en los días de más polen, bañarse por la noche para no llevar polen a la cama, usar filtro en el aire acondicionado y atacar la humedad del baño, que es donde crece el moho en Pasadena. Son medidas aburridas y funcionan.
 
+## ¿Sirven las pastillas de la farmacia?
+
+A muchas personas sí, y son lo primero que se prueba. Si las tomas a diario y aun así sigues con síntomas, el paso siguiente no es subir la dosis: es revisar si hay rinitis persistente, sinusitis o asma detrás.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -585,6 +597,10 @@ Antihistamines, steroid nasal sprays, saline rinses and, when there are hives, t
 ## What can I change at home?
 
 Keep windows closed on high-pollen days, shower at night so pollen does not reach your bed, use a filter on the air conditioning and go after bathroom humidity, which is where mold grows in Pasadena. Boring measures, and they work.
+
+## Do over-the-counter pills work?
+
+For many people yes, and they are the first thing to try. If you take them daily and still have symptoms, the next step is not a higher dose: it is checking whether persistent rhinitis, sinusitis or asthma is behind it.
 
 ${WHY_EN}
 
@@ -649,6 +665,10 @@ Gripe, bronquitis, faringitis, sinusitis y tos persistente. Se revisan oídos, g
 
 Falta de aire en reposo, labios o uñas morados, dolor de pecho, confusión, fiebre que no baja en varios días o empeoramiento después de haber mejorado. Eso no espera a una consulta: es sala de emergencias.
 
+## ¿Me dan justificante para el trabajo o la escuela?
+
+Sí. Si necesitas constancia de la visita o indicación de reposo, dilo al registrarte y sale con la consulta, sin volver otro día por el papel.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -671,6 +691,10 @@ Flu, bronchitis, pharyngitis, sinusitis and lingering cough. We check ears, thro
 ## When should I go to the emergency room?
 
 Shortness of breath at rest, blue lips or nails, chest pain, confusion, fever that will not come down for days, or getting worse after improving. That does not wait for a clinic visit.
+
+## Do you provide a work or school note?
+
+Yes. If you need proof of the visit or a rest recommendation, say so when you check in and it comes with the visit, without coming back another day for the paperwork. We can also note the dates you should stay home if the test is positive.
 
 ${WHY_EN}
 
@@ -735,6 +759,10 @@ Identificación del padre o tutor, la cartilla de vacunas del estudiante, lentes
 
 Antes de que empiece la temporada, no el día de la primera práctica. En julio y agosto se juntan todas las familias; el resto del año se hace en una sola visita, y tenemos horario de tarde y fines de semana, que es cuando se puede sin faltar a clases ni al trabajo.
 
+## ¿Vale para guardería, deportes de adultos o campamentos?
+
+Sí. El examen es el mismo y cambia el formulario. Trae el que te pidieron, sea de la escuela, la liga o el campamento, y lo llenamos y firmamos en la visita.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -757,6 +785,10 @@ Parent or guardian ID, the student's vaccination record, glasses if they wear th
 ## When should we come?
 
 Before the season starts, not on the day of the first practice. July and August are when every family shows up; the rest of the year it takes a single visit, and we have evening and weekend hours, which is when most families can come without missing school or work.
+
+## Is it valid for daycare, adult sports or camps?
+
+Yes. The exam is the same; only the form changes. Bring the one you were given, whether it is from the school, the league or the camp, and we complete and sign it during the visit.
 
 ${WHY_EN}
 
@@ -1013,6 +1045,10 @@ Manchado entre reglas durante los primeros dos o tres meses, sensibilidad en los
 
 No. Llega sin cita y sin seguro. Si llevas tiempo sin revisión, se aprovecha para valorar [atención ginecológica](/services/ginecologia) y, si toca, hacer papanicolaou o [prueba de embarazo](/services/prueba-embarazo). Aquí explicamos [cada cuánto toca el papanicolaou](/blog/ginecologos-hispanos-pasadena-hablan-espanol).
 
+## ¿Qué pasa si se me olvida una dosis?
+
+Depende del método y de cuántas horas hayan pasado. Pregunta en la consulta qué hacer en tu caso concreto y guarda la indicación: es la duda más frecuente y la que más embarazos no planeados provoca cuando se resuelve con lo que dice internet.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1035,6 +1071,10 @@ Spotting between periods during the first two or three months, breast tenderness
 ## Do I need an appointment or a prescription?
 
 No. Walk in, no insurance needed. If it has been a while since your last checkup, we can also cover [gynecological care](/en/services/ginecologia) and, if due, a Pap smear or a [pregnancy test](/en/services/prueba-embarazo). We explain [how often a Pap smear is due](/en/blog/ginecologos-hispanos-pasadena-hablan-espanol).
+
+## What if I miss a dose?
+
+It depends on the method and how many hours have passed. Ask at the visit what to do in your specific case and keep the instructions: it is the most common question, and the one that causes the most unplanned pregnancies when it gets answered by the internet.
 
 ${WHY_EN}
 
@@ -1099,6 +1139,10 @@ Mantén el vendaje seco 24 horas, evita cargar peso con ese brazo dos o tres dí
 
 Puedes cambiar de método el mismo día. Te explicamos las opciones disponibles aquí, como pastillas o inyección, en la consulta de [anticonceptivos](/services/anticonceptivos), y si tu caso necesita un procedimiento que no hacemos, se orienta la referencia.
 
+## ¿Retiran implantes colocados en otra clínica?
+
+Sí, siempre que se pueda localizar por palpación y esté en su sitio habitual del brazo. Si está muy profundo, se movió o no se palpa, se orienta la referencia en vez de intentarlo: forzar la búsqueda es lo que deja cicatriz.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1121,6 +1165,10 @@ Keep the bandage dry for 24 hours, avoid lifting weight with that arm for two or
 ## What if I want to stay protected?
 
 You can switch methods the same day. We go over the options available here, such as pills or the injection, at the [birth control](/en/services/anticonceptivos) visit, and if your case needs a procedure we do not perform, we guide the referral.
+
+## Do you remove implants placed at another clinic?
+
+Yes, as long as it can be located by touch and sits in its usual spot on the arm. If it is deep, has moved or cannot be felt, we guide a referral instead of attempting it: forcing the search is what leaves a scar.
 
 ${WHY_EN}
 
@@ -1186,6 +1234,10 @@ No significa cáncer. El valor sube también por inflamación de la próstata, p
 
 El cansancio tiene muchas causas y conviene medir antes de suponer. En la misma muestra se revisan azúcar, tiroides, vitamina B12 y hormonas. Si el resultado pide tratamiento, se empieza en la visita, y si necesitas seguimiento, tienes el [control de condiciones crónicas](/services/condiciones-cronicas) aquí mismo.
 
+## ¿Hace falta ayuno para estos exámenes?
+
+Para el perfil de lípidos y la glucosa en ayunas, sí: de 8 a 12 horas. El PSA y el perfil hormonal no lo requieren, aunque conviene hacerlos por la mañana porque la testosterona varía a lo largo del día.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1208,6 +1260,10 @@ It does not mean cancer. The value also rises with prostate inflammation, a urin
 ## What if I am tired all the time?
 
 Fatigue has many causes and it is worth measuring before assuming. The same sample covers blood sugar, thyroid, vitamin B12 and hormones. If the result calls for treatment, it starts during the visit, and if you need follow-up, [chronic condition care](/en/services/condiciones-cronicas) is right here.
+
+## Do these tests require fasting?
+
+For the lipid panel and fasting glucose, yes: 8 to 12 hours. PSA and the hormone panel do not, though morning is better because testosterone varies through the day.
 
 ${WHY_EN}
 
@@ -1275,6 +1331,10 @@ En la mayoría de los casos salen el mismo día y te los explicamos al entregarl
 
 Antes de comprar vitaminas a ciegas, conviene medir. La deficiencia de vitamina B12 da fatiga, hormigueo en manos y pies y falta de concentración, y se confunde con estrés. Mira la [promoción de examen general de sangre más inyección de B12](/promociones) o lee la [guía del laboratorio](/blog/laboratorio-clinico-pasadena-analisis-sangre).
 
+## ¿Puedo pedir un estudio sin consulta?
+
+Sí, puedes pedir el panel que ya sabes que necesitas. Si el resultado sale alterado, lo lógico es pasar a consulta para interpretarlo con tus síntomas y decidir el tratamiento, y eso se puede hacer el mismo día.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1297,6 +1357,10 @@ In most cases they are ready the same day and we go through them with you: which
 ## Tired or low on energy?
 
 Before buying vitamins blindly, it is worth measuring. Vitamin B12 deficiency causes fatigue, tingling in hands and feet and trouble concentrating, and it gets mistaken for stress. See the [blood panel plus B12 injection promotion](/en/promociones) or read our [lab guide](/en/blog/laboratorio-clinico-pasadena-analisis-sangre).
+
+## Can I order a test without a visit?
+
+Yes, you can request the panel you already know you need. If the result comes back abnormal, the logical next step is a visit to interpret it alongside your symptoms and decide on treatment, and that can happen the same day.
 
 ${WHY_EN}
 
@@ -1450,6 +1514,10 @@ Parásitos y sus huevecillos, bacterias que causan infección intestinal, grasa 
 
 Si hay parásitos o infección, el tratamiento se indica en la clínica y se explica cómo evitar que se repita en casa. Si el estudio sale normal pero los síntomas siguen, el paso lógico es [laboratorio de sangre](/services/examenes-sangre) o una referencia para estudio del colon.
 
+## ¿Hay que dejar algún medicamento antes?
+
+Algunos antiácidos, antibióticos y antidiarreicos alteran el resultado. No los suspendas por tu cuenta: dinos qué tomas y te decimos si conviene esperar unos días o hacer el estudio igual.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1472,6 +1540,10 @@ Parasites and their eggs, bacteria that cause intestinal infection, excess fat t
 ## What happens after the result?
 
 If there are parasites or an infection, treatment is prescribed at the clinic along with advice on keeping it from coming back at home. If the test is normal but symptoms persist, the logical next step is [blood work](/en/services/examenes-sangre) or a referral for a colon study.
+
+## Should I stop any medication first?
+
+Some antacids, antibiotics and antidiarrheals alter the result. Do not stop them on your own: tell us what you take and we will say whether to wait a few days or run the test anyway.
 
 ${WHY_EN}
 
@@ -1536,6 +1608,10 @@ Porque el estreptococo no tratado puede complicarse, sobre todo en niños y jóv
 
 Con tratamiento, la mayoría deja de contagiar en las primeras 24 horas y se siente mejor pronto. Lo importante es terminar el tratamiento completo aunque la garganta ya no duela, porque cortarlo a la mitad es lo que causa recaídas.
 
+## ¿Y si el resultado es negativo pero sigo mal?
+
+Se trata igual lo que tienes: hay virus que dan dolor de garganta fuerte durante varios días. Si a las 48 horas no mejoras, si te cuesta tragar o abrir la boca, o si aparece fiebre alta otra vez, vuelve para revisarte.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1558,6 +1634,10 @@ Because untreated strep can lead to complications, especially in children and te
 ## When can I go back to work or school?
 
 With treatment, most people stop being contagious within the first 24 hours and feel better soon. What matters is finishing the full course even when the throat no longer hurts, because stopping halfway is what causes relapses.
+
+## What if the test is negative but I still feel bad?
+
+What you have is still treated: some viruses cause a severe sore throat for several days. If you are not better in 48 hours, if swallowing or opening your mouth is hard, or if high fever returns, come back to be checked.
 
 ${WHY_EN}
 
@@ -1622,6 +1702,10 @@ Que hubo contacto con la bacteria, no necesariamente que tengas tuberculosis act
 
 El examen I-693 incluye su propia prueba de tuberculosis, que a partir de los dos años es de sangre (IGRA) según las normas de los CDC. Si estás en ese trámite, conviene hacerlo dentro del [examen de inmigración](/services/examenes-inmigracion) y no por separado.
 
+## ¿Cada cuánto hay que repetirla?
+
+Depende de quién la pide. Muchos empleos de salud y escuelas la piden cada año; otros trámites, una sola vez. Si ya saliste positivo alguna vez, la prueba de piel no se repite: se documenta con el historial y, cuando corresponde, con radiografía.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1644,6 +1728,10 @@ That there was contact with the bacteria, not necessarily that you have active t
 ## Does it work for my immigration case?
 
 The I-693 exam includes its own tuberculosis test, which for applicants age 2 and older is a blood test (IGRA) under CDC rules. If you are in that process, it is better done within the [immigration exam](/en/services/examenes-inmigracion) rather than separately.
+
+## How often does it need repeating?
+
+It depends who asks for it. Many healthcare jobs and schools require it yearly; other processes only once. If you have ever tested positive, the skin test is not repeated: it is documented with your history and, when appropriate, a chest X-ray.
 
 ${WHY_EN}
 
@@ -1708,6 +1796,10 @@ Sí, y ese es el punto. La clamidia y la gonorrea pueden pasar meses en silencio
 
 Sí. Tu resultado es tuyo. Se explica en privado y, si hay tratamiento, se te indica ahí mismo junto con la recomendación de que tu pareja también se revise para evitar el rebote de la infección.
 
+## ¿Cuántas visitas hacen falta?
+
+Normalmente una para la muestra y otra corta para el resultado y el tratamiento, si hace falta. Cuando el cuadro es claro y hay síntomas, el tratamiento puede indicarse en la primera visita sin esperar al laboratorio.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1730,6 +1822,10 @@ Yes, and that is the point. Chlamydia and gonorrhea can go months unnoticed and,
 ## Is it confidential?
 
 Yes. Your result is yours. It is explained in private and, if treatment is needed, it is prescribed right there, along with the recommendation that your partner get checked too so the infection does not bounce back.
+
+## How many visits does it take?
+
+Usually one for the sample and a short one for the result and treatment, if needed. When the picture is clear and there are symptoms, treatment can be prescribed at the first visit without waiting for the lab. Results are explained in private, and you decide who else you tell.
 
 ${WHY_EN}
 
@@ -1896,6 +1992,10 @@ Un EKG normal no descarta todo. Muchas arritmias van y vienen, y algunas obstruc
 
 Si tienes dolor de pecho ahora mismo, sobre todo con sudor frío, falta de aire o dolor que baja al brazo o la mandíbula, no vengas en carro a la clínica: llama al 911. Ahí cada minuto cuenta.
 
+## ¿Necesito una orden médica para hacérmelo?
+
+No. Puedes pedirlo directamente si tu trabajo, tu deporte o una cirugía lo requieren, y también se hace dentro de una consulta cuando los síntomas lo justifican. En los dos casos te entregamos el trazo y su interpretación.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1918,6 +2018,10 @@ A normal EKG does not rule out everything. Many arrhythmias come and go, and som
 ## When should I go to the ER instead?
 
 If you have chest pain right now, especially with cold sweats, shortness of breath or pain radiating to the arm or jaw, do not drive to the clinic: call 911. Minutes matter there.
+
+## Do I need a doctor's order?
+
+No. You can request it directly if your job, your sport or an upcoming surgery requires it, and it is also done within a visit when symptoms justify it. In both cases you get the tracing and its interpretation.
 
 ${WHY_EN}
 
@@ -2085,6 +2189,10 @@ Hasta 24 meses. Si tu presión está alta o llevas control de una condición cr�
 
 Aquí mismo tienes [laboratorio](/services/examenes-sangre) y [control de presión, diabetes y colesterol](/services/condiciones-cronicas), así que se puede empezar a resolver en la misma visita en vez de mandarte a otro lugar. Si quieres prepararte, lee la [guía del examen DOT](/blog/examen-dot-cdl-camioneros-pasadena).
 
+## ¿Hacen también el examen para otras licencias?
+
+Además del DOT hacemos exámenes físicos de empleo y las pruebas de alcohol y drogas que pidan muchas empresas de transporte. Si tu empleador te dio un formato propio, tráelo y lo llenamos en la misma visita.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2107,6 +2215,10 @@ Up to 24 months. If your blood pressure is high or you are managing a chronic co
 ## What if something comes up that day?
 
 We have [lab work](/en/services/examenes-sangre) and [blood pressure, diabetes and cholesterol care](/en/services/condiciones-cronicas) right here, so it can be addressed in the same visit instead of sending you somewhere else. To prepare, read our [DOT exam guide](/en/blog/examen-dot-cdl-camioneros-pasadena).
+
+## Do you handle exams for other licenses?
+
+Besides the DOT, we do employment physicals and the alcohol and drug screening many transport companies require. If your employer gave you their own form, bring it and we complete it during the same visit.
 
 ${WHY_EN}
 
@@ -2273,6 +2385,10 @@ Dolor o enrojecimiento en el brazo uno o dos días, y a veces cansancio o febrí
 
 Sí. Te entregamos el comprobante con fecha. Si estás haciendo un trámite migratorio, el [examen I-693](/services/examenes-inmigracion) incluye la revisión completa del esquema y la aplicación de las vacunas que exige USCIS.
 
+## ¿Pueden vacunarse los niños aquí?
+
+Aplicamos influenza y toxoide tetánico a partir de la edad indicada para cada vacuna. El esquema completo de la infancia lo lleva el pediatra o la clínica de vacunación del condado; si te falta una dosis puntual para la escuela, dinos cuál y te decimos si la tenemos.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2295,6 +2411,10 @@ Soreness or redness in the arm for a day or two, sometimes fatigue or a slight f
 ## Do they count for paperwork?
 
 Yes. We give you dated documentation. If you are going through an immigration process, the [I-693 exam](/en/services/examenes-inmigracion) includes a full review of your schedule and the vaccines USCIS requires.
+
+## Can children be vaccinated here?
+
+We give influenza and tetanus toxoid from the age indicated for each vaccine. The full childhood schedule is handled by a pediatrician or the county immunization clinic; if you need one specific dose for school, tell us which and we will say whether we have it.
 
 ${WHY_EN}
 
@@ -2445,6 +2565,10 @@ Depende del sitio: en la cara, entre cinco y siete días; en brazos y manos, uno
 
 Mantén la herida limpia y seca las primeras 24 horas, cámbiale el vendaje según se indique y vuelve si aparece enrojecimiento que crece, pus, mal olor o fiebre. Se revisa además si te toca el [refuerzo del tétanos](/services/vacunas), sobre todo en heridas sucias.
 
+## ¿Duele que te pongan puntos?
+
+Se aplica anestesia local antes: sientes el piquete inicial y después presión. Lo que más molesta suele ser la limpieza de la herida, no la sutura, y dura poco.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2467,6 +2591,10 @@ It depends on the site: face, five to seven days; arms and hands, about ten; leg
 ## What should I watch at home?
 
 Keep the wound clean and dry for the first 24 hours, change the dressing as instructed, and come back if you get spreading redness, pus, a bad smell or fever. We also check whether you are due for a [tetanus booster](/en/services/vacunas), especially with dirty wounds.
+
+## Does getting stitches hurt?
+
+Local anesthesia is given first: you feel the initial pinch, then pressure. What usually bothers people most is cleaning the wound, not the suturing, and it does not last long.
 
 ${WHY_EN}
 
@@ -2531,6 +2659,10 @@ Cuando el enrojecimiento crece alrededor, sale pus o mal olor, aparece fiebre, l
 
 Las heridas en el pie merecen una revisión pronta, aunque se vean pequeñas y no duelan. La falta de sensibilidad hace que se descubran tarde. Aquí puedes combinar la curación con el [control de diabetes](/services/condiciones-cronicas) y revisar de paso tu azúcar.
 
+## ¿Retiran puntos puestos en otro lugar?
+
+Sí, aunque te hayan atendido en urgencias o en otra clínica. Trae la indicación si la tienes, y si no, se revisa la herida y se decide si ya toca retirarlos o conviene esperar unos días más.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2553,6 +2685,10 @@ When redness spreads around it, there is pus or a bad smell, fever appears, the 
 ## What if I have diabetes?
 
 Foot wounds deserve a prompt look, even when they seem small and do not hurt. Reduced sensation means they get noticed late. Here you can combine wound care with [diabetes care](/en/services/condiciones-cronicas) and have your blood sugar checked at the same time.
+
+## Do you remove stitches placed elsewhere?
+
+Yes, even if you were treated at an emergency room or another clinic. Bring the instructions if you have them; if not, we examine the wound and decide whether it is time to remove them or better to wait a few more days.
 
 ${WHY_EN}
 
@@ -2719,6 +2855,10 @@ No siempre. En muchos casos el drenaje resuelve el problema, y el antibiótico s
 
 Te damos indicaciones de limpieza y una cita de seguimiento para revisar la herida. Si la zona vuelve a llenarse, aumenta el dolor o aparece fiebre, regresa. Los abscesos que se repiten en el mismo lugar merecen estudiarse: a veces hay una causa de fondo, como azúcar alta sin diagnosticar.
 
+## ¿Qué pasa si el absceso todavía está duro?
+
+Cuando la infección aún no forma pus, drenar no sirve. En ese caso se trata con antibiótico y calor local y se revisa en dos o tres días: si se forma la bolsa, se drena entonces.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2741,6 +2881,10 @@ Not always. Drainage alone resolves many cases, and antibiotics are kept for fev
 ## What comes next?
 
 You get cleaning instructions and a follow-up visit to check the wound. If it fills up again, the pain increases or fever appears, come back. Abscesses that keep returning in the same spot deserve a workup: sometimes there is an underlying cause, such as undiagnosed high blood sugar.
+
+## What if the abscess is still hard?
+
+When the infection has not formed pus yet, draining does not help. In that case it is treated with antibiotics and local heat and rechecked in two or three days: if a pocket forms, it is drained then.
 
 ${WHY_EN}
 
@@ -2805,6 +2949,10 @@ Mantén el dedo limpio y seco, usa zapato holgado unos días y evita correr o ca
 
 No la trates en casa. Cualquier procedimiento en el pie de una persona con diabetes merece revisión médica, porque la circulación y la sensibilidad cambian el riesgo. Aquí puedes combinarlo con [curación de heridas](/services/curacion-heridas) y revisión de tu azúcar.
 
+## ¿Vuelve a salir?
+
+Puede volver si la causa sigue ahí: cortar la uña en curva, zapatos apretados o una forma de uña que se encarna sola. Te enseñamos cómo cortarla recta y, si se repite varias veces en el mismo dedo, se valora un procedimiento que trata la raíz del problema.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2827,6 +2975,10 @@ Keep the toe clean and dry, wear loose shoes for a few days and avoid running or
 ## What if I have diabetes?
 
 Do not treat it at home. Any foot procedure in a person with diabetes deserves medical review, because circulation and sensation change the risk. Here you can combine it with [wound care](/en/services/curacion-heridas) and a blood sugar check.
+
+## Will it come back?
+
+It can, if the cause is still there: cutting the nail curved, tight shoes, or a nail shape that tends to dig in. We show you how to cut it straight and, if it keeps returning on the same toe, we assess a procedure that treats the root of the problem.
 
 ${WHY_EN}
 

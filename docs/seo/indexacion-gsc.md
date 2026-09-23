@@ -22,18 +22,18 @@ final el inglés, que hoy no tiene tracción (la línea base de IA en inglés no
 
 Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 
-### Tanda 1 — PENDIENTE
+### Tanda 1 — ✅ PEDIDA 22/09/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  ← Crawled - currently not indexed
-- [ ] https://www.clinicamedicamichoacana.com/promociones  ← Discovered - currently not indexed
-- [ ] https://www.clinicamedicamichoacana.com  (2843 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  (323 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/laboratorio-clinico-pasadena-analisis-sangre  (285 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/walk-in  (245 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services  (135 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  (57 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  (57 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  (53 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  ← Crawled - currently not indexed
+- [x] https://www.clinicamedicamichoacana.com/promociones  ← Discovered - currently not indexed
+- [x] https://www.clinicamedicamichoacana.com  (2843 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  (323 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/laboratorio-clinico-pasadena-analisis-sangre  (285 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/walk-in  (245 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services  (135 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  (57 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  (57 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  (53 impresiones)
 
 ### Tanda 2 — PENDIENTE
 

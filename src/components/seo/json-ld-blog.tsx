@@ -27,20 +27,15 @@ export function JsonLdBlogPosting({
         headline: post.title,
         description: post.description,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.dateModified ?? post.date,
         inLanguage: locale,
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
         mainEntityOfPage: { "@type": "WebPage", "@id": url },
         author: { "@type": "Organization", name: post.author },
-        publisher: {
-          "@type": "Organization",
-          name: SITE_CONFIG.name,
-          logo: {
-            "@type": "ImageObject",
-            url: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
-          },
-        },
+        // Referencia al nodo de la clínica, no un segundo nodo tipado: un
+        // `publisher` como objeto crea otra entidad del mismo negocio.
+        publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
       }}
     />
   );

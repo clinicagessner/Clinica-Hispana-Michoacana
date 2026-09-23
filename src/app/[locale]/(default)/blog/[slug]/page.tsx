@@ -3,6 +3,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import ReactMarkdown from "react-markdown";
+import { MedicalReview } from "@/components/shared/medical-review";
 import remarkGfm from "remark-gfm";
 import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -161,6 +162,11 @@ export default async function BlogPostPage({
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
               {post.content}
             </ReactMarkdown>
+            <MedicalReview
+              locale={loc}
+              published={post.date}
+              reviewed={post.dateModified ?? post.date}
+            />
           </article>
 
           {/* CTA navy */}

@@ -10,7 +10,14 @@ import { ScrollLink } from "@/components/shared/scroll-link";
 import { ServiceCard } from "@/components/services/service-card";
 import { ServiceIcon } from "@/components/shared/service-icon";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { JsonLdBreadcrumb, JsonLdClinicRef, JsonLdFaqPage, JsonLdMedicalProcedure } from "@/components/seo/json-ld";
+import {
+  JsonLdBreadcrumb,
+  JsonLdClinicRef,
+  JsonLdFaqPage,
+  JsonLdMedicalProcedure,
+  JsonLdMedicalWebPage,
+} from "@/components/seo/json-ld";
+import { MedicalReview } from "@/components/shared/medical-review";
 import {
   getAllServiceSlugs,
   getCategoryLabel,
@@ -19,7 +26,7 @@ import {
   hasServiceImage,
 } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
-import { CONTACT_INFO } from "@/lib/constants";
+import { CONTACT_INFO, SERVICES_LAST_REVIEWED } from "@/lib/constants";
 import {
   getLocalizedFaq,
   getLocalizedService,
@@ -109,6 +116,13 @@ export default async function ServiceDetailPage({
         url={url}
       />
       <JsonLdFaqPage faqs={faqs} />
+      <JsonLdMedicalWebPage
+        name={l.title}
+        description={l.description}
+        url={url}
+        lastReviewed={SERVICES_LAST_REVIEWED}
+        locale={loc}
+      />
 
       {/* Hero del servicio: split editorial sobre crema */}
       <section className="relative isolate overflow-hidden bg-sand-bg py-12 lg:py-16">
@@ -215,6 +229,7 @@ export default async function ServiceDetailPage({
               <ReactMarkdown remarkPlugins={[remarkGfm]}>
                 {l.longDescription}
               </ReactMarkdown>
+              <MedicalReview locale={loc} reviewed={SERVICES_LAST_REVIEWED} />
             </div>
 
             {/* FAQ */}

@@ -36,6 +36,8 @@ export function JsonLdBlogPosting({
         // Referencia al nodo de la clínica, no un segundo nodo tipado: un
         // `publisher` como objeto crea otra entidad del mismo negocio.
         publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        // Revisión médica (§B2): sin médico nombrado, revisa la clínica.
+        reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
       }}
     />
   );

@@ -7,7 +7,7 @@ import { Contact } from "@/components/sections/contact";
 import { FaqSection } from "@/components/sections/faq-section";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
 import { StarRating } from "@/components/shared/star-rating";
-import { JsonLdBreadcrumb } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdClinicRef } from "@/components/seo/json-ld";
 import { CONTACT_INFO, PROMOTIONS } from "@/lib/constants";
 import { PROMO_FAQS } from "@/lib/promo-faqs";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -76,6 +76,8 @@ export default async function PromotionsPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

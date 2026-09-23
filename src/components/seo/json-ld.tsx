@@ -115,6 +115,27 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
   return <JsonLd data={data} />;
 }
 
+/**
+ * Referencia ligera a la clínica, con el **mismo `@id`** que el nodo completo.
+ * El nodo completo (servicios, reseñas, atributos) va solo en la home: tenerlo
+ * en el layout lo repetía en las 90 páginas y diluía la entidad.
+ */
+export function JsonLdClinicRef({ locale }: { locale: Locale }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalClinic",
+        "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+        name: SITE_CONFIG.name,
+        url: absoluteUrl("/", locale),
+        telephone: CONTACT_INFO.phone,
+        address: postalAddress,
+      }}
+    />
+  );
+}
+
 export function JsonLdBreadcrumb({
   items,
 }: {

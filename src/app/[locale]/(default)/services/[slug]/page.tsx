@@ -10,11 +10,7 @@ import { ScrollLink } from "@/components/shared/scroll-link";
 import { ServiceCard } from "@/components/services/service-card";
 import { ServiceIcon } from "@/components/shared/service-icon";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import {
-  JsonLdBreadcrumb,
-  JsonLdFaqPage,
-  JsonLdMedicalProcedure,
-} from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdClinicRef, JsonLdFaqPage, JsonLdMedicalProcedure } from "@/components/seo/json-ld";
 import {
   getAllServiceSlugs,
   getCategoryLabel,
@@ -98,6 +94,8 @@ export default async function ServiceDetailPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

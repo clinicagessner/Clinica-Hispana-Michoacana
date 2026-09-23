@@ -13,9 +13,12 @@ import type { Locale, ServiceFaq } from "@/types";
 export function FaqSection({
   items,
   className,
+  jsonLd = false,
 }: {
   items: ServiceFaq[];
   className?: string;
+  /** El FAQPage de la home no se repite en /services, /blog ni los posts. */
+  jsonLd?: boolean;
 }) {
   const t = useTranslations("Faq");
   const locale = useLocale() as Locale;
@@ -27,7 +30,7 @@ export function FaqSection({
     <section
       className={cn("relative isolate overflow-hidden bg-sand-bg py-20 lg:py-24", className)}
     >
-      <JsonLdFaqPage faqs={faqs} />
+      {jsonLd ? <JsonLdFaqPage faqs={faqs} /> : null}
       <div
         aria-hidden
         className="cross-pattern pointer-events-none absolute -right-20 top-8 -z-10 h-96 w-96 text-blue-deep/5"

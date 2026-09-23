@@ -372,7 +372,7 @@ Sentirse bien es justo lo que buscan el medicamento y los cambios de hábito: de
 
 ## ¿Qué puedo esperar de la primera visita?
 
-Una consulta con laboratorio el mismo día, metas claras por escrito y un plan con lo que sí puedes sostener: comida real de tu día a día, caminata y horarios de medicamento. Si aparecen complicaciones que requieren especialista, se orienta la referencia.
+Una consulta con laboratorio el mismo día, metas claras por escrito y un plan con lo que sí puedes sostener (los números que vigilamos están en la [guía de control de diabetes](/blog/control-diabetes-pasadena-guia-pacientes)): comida real de tu día a día, caminata y horarios de medicamento. Si aparecen complicaciones que requieren especialista, se orienta la referencia.
 
 ${WHY_ES}
 
@@ -395,7 +395,7 @@ Feeling fine is exactly what the medication and the habit changes are for: stopp
 
 ## What can I expect at the first visit?
 
-A consultation with same-day lab work, clear written targets and a plan you can actually keep: real food from your daily life, walking and medication timing. If complications appear that need a specialist, we guide the referral.
+A consultation with same-day lab work, clear written targets and a plan you can actually keep (the numbers we track are in our [diabetes management guide](/en/blog/control-diabetes-pasadena-guia-pacientes)): real food from your daily life, walking and medication timing. If complications appear that need a specialist, we guide the referral.
 
 ${WHY_EN}
 
@@ -1224,7 +1224,7 @@ ${AREAS_EN}`,
       "Vitamin B12 test and injection",
       "Results explained in Spanish",
     ],
-    longDescription: `El laboratorio está dentro de la clínica: la muestra se toma en el momento, sin cita, y los resultados te los explicamos en español, sin tecnicismos.
+    longDescription: `El laboratorio está dentro de la clínica: la muestra se toma en el momento, sin cita, y los resultados te los explicamos en español, sin tecnicismos. Si nunca has venido, aquí contamos [cómo funciona una visita](/blog/bienvenidos-clinica-hispana-nueva-salud).
 
 ## ¿Qué estudios se hacen?
 
@@ -1247,7 +1247,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The lab is inside the clinic: your sample is drawn on the spot, with no appointment, and we explain the results in Spanish, without jargon.
+    longDescriptionEn: `The lab is inside the clinic: your sample is drawn on the spot, with no appointment, and we explain the results in Spanish, without jargon. If you have never been here, we explain [how a visit works](/en/blog/bienvenidos-clinica-hispana-nueva-salud).
 
 ## Which tests do you run?
 
@@ -2792,7 +2792,7 @@ Sí, y conviene preguntar: a qué hora, con o sin comida, cuántos días, qué h
 
 ## ¿Cuánto cuestan?
 
-Pregunta el precio antes de salir de la consulta, como con cualquier otro servicio. Se paga en el momento, con efectivo o tarjeta, sin seguro de por medio.
+Pregunta el precio antes de salir de la consulta, como con cualquier otro servicio. Se paga en el momento, con efectivo o tarjeta, sin seguro de por medio; si es tu primera vez sin seguro, mira las [opciones que hay en Pasadena](/blog/atencion-medica-sin-seguro-pasadena).
 
 ${WHY_ES}
 
@@ -2815,7 +2815,7 @@ Yes, and it is worth asking: what time, with or without food, for how many days,
 
 ## What do they cost?
 
-Ask the price before leaving the visit, as with any other service. You pay on the spot, cash or card, with no insurance involved.
+Ask the price before leaving the visit, as with any other service. You pay on the spot, cash or card, with no insurance involved; if this is your first time without insurance, see [the options in Pasadena](/en/blog/atencion-medica-sin-seguro-pasadena).
 
 ${WHY_EN}
 

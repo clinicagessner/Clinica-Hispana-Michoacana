@@ -8,7 +8,7 @@ import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
-import { JsonLdBreadcrumb } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdClinicRef } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
 import { HOME_FAQS } from "@/lib/home-faqs";
@@ -76,6 +76,8 @@ export default async function BlogPostPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

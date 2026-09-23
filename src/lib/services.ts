@@ -71,17 +71,35 @@ export function getServicesByCategory(category: Service["category"]): Service[] 
   return getAllServices().filter((s) => s.category === category);
 }
 
-/** Servicios relacionados: misma categoría primero, completando con otros. */
+/**
+ * Servicios relacionados: misma categoría primero, completando con otros.
+ *
+ * La selección **rota** a partir de la posición del servicio actual en vez de
+ * cortar siempre por el principio con `slice(0, n)`. Con el corte fijo, los
+ * primeros de cada categoría acumulaban todos los enlaces y la cola se quedaba
+ * con uno solo: medido con `toolkit/links.mjs`, cuatro servicios tenían 1
+ * enlace entrante de contenido. La rotación garantiza el mínimo en lugar de
+ * dejarlo al azar del orden.
+ */
 export function getRelatedServices(slug: string, count = 3): Service[] {
+  const all = getAllServices();
   const current = getServiceBySlug(slug);
-  if (!current) return getAllServices().slice(0, count);
-  const sameCategory = getAllServices().filter(
+  if (!current) return all.slice(0, count);
+
+  const sameCategory = all.filter(
     (s) => s.slug !== slug && s.category === current.category,
   );
-  const others = getAllServices().filter(
+  const others = all.filter(
     (s) => s.slug !== slug && s.category !== current.category,
   );
-  return [...sameCategory, ...others].slice(0, count);
+  const pool = [...sameCategory, ...others];
+  if (pool.length <= count) return pool;
+
+  const start = all.findIndex((s) => s.slug === slug);
+  return Array.from(
+    { length: count },
+    (_, i) => pool[(start + i) % pool.length],
+  );
 }
 
 export function getAllServiceSlugs(): string[] {

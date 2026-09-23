@@ -276,6 +276,23 @@ export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "contact", href: "/#contacto" },
 ];
 
+/**
+ * Bloque de definición de entidad para la home (§B1). 130-170 palabras, solo
+ * hechos verificables y sin publicidad: es el párrafo que las IAs citan
+ * literalmente al responder "qué clínica hispana hay en Pasadena". El mismo
+ * texto, recortado a 750 caracteres, sirve de descripción del perfil de Google.
+ */
+export const ENTITY_BLOCK = {
+  title: "¿Qué es Clínica Hispana Nueva Salud Michoacana?",
+  titleEn: "What is Clínica Hispana Nueva Salud Michoacana?",
+  body: `Clínica Hispana Nueva Salud Michoacana es una clínica médica de atención sin cita en 6500 Spencer Hwy Ste 180, Pasadena, TX 77505, junto a la autopista 225 y a pocos minutos de Deer Park, South Houston y La Porte. Abre de lunes a sábado de 9:00 AM a 9:00 PM y el domingo de 9:00 AM a 7:00 PM. Todo el personal atiende en español, y también en inglés.
+
+No se necesita cita ni seguro médico: se paga por visita, en efectivo o con tarjeta, y el precio se puede preguntar antes de empezar. La clínica tiene laboratorio propio, así que la consulta, los análisis y los trámites se resuelven en una sola visita. Ofrece medicina general, control de diabetes, presión y colesterol, salud de la mujer y del hombre, pruebas de laboratorio, ultrasonido, electrocardiograma, vacunas, curaciones y cirugías menores, examen físico DOT para licencia CDL y examen médico de inmigración I-693 con médico autorizado por USCIS. Teléfono: (832) 617-7439. WhatsApp: (832) 831-4016.`,
+  bodyEn: `Clínica Hispana Nueva Salud Michoacana is a walk-in medical clinic at 6500 Spencer Hwy Ste 180, Pasadena, TX 77505, just off Highway 225 and minutes from Deer Park, South Houston and La Porte. It is open Monday to Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM. The entire staff speaks Spanish, and English as well.
+
+No appointment and no insurance are required: you pay per visit, in cash or by card, and you can ask the price before anything starts. The clinic has its own lab, so the visit, the tests and the paperwork are handled in a single stop. Services include general medicine, diabetes, blood pressure and cholesterol management, women's and men's health, lab testing, ultrasound, electrocardiogram, vaccines, wound care and minor surgery, DOT physicals for a CDL license, and the I-693 immigration medical exam with a USCIS-authorized physician. Phone: (832) 617-7439. WhatsApp: (832) 831-4016.`,
+} as const;
+
 export const SERVICE_CATEGORIES: {
   value: ServiceCategory;
   label: string;

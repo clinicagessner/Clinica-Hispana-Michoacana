@@ -7,13 +7,8 @@ import {
 import { Link } from "@/i18n/navigation";
 import { Logo } from "@/components/shared/logo";
 import { ScrollLink } from "@/components/shared/scroll-link";
-import {
-  CONTACT_INFO,
-  FOOTER_NAV_LINKS,
-  SITE_CONFIG,
-  SOCIAL_LINKS,
-} from "@/lib/constants";
-import { getAllServices } from "@/lib/services";
+import { CONTACT_INFO, FOOTER_NAV_LINKS, SERVICE_CATEGORIES, SITE_CONFIG, SOCIAL_LINKS } from "@/lib/constants";
+import { getAllServices, getCategoryLabel } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
 import type { Locale } from "@/types";
 
@@ -22,9 +17,14 @@ export function Footer() {
   const tNav = useTranslations("Nav");
   const locale = useLocale() as Locale;
   const year = new Date().getFullYear();
-  const services = getAllServices()
-    .slice(0, 6)
-    .map((s) => getLocalizedService(s, locale));
+  // Los 29 servicios, agrupados por categoría: el footer era el único enlace
+  // interno de muchos de ellos y solo listaba 6.
+  const byCategory = SERVICE_CATEGORIES.map((c) => ({
+    label: getCategoryLabel(c.value, locale),
+    items: getAllServices()
+      .filter((s) => s.category === c.value)
+      .map((s) => getLocalizedService(s, locale)),
+  })).filter((c) => c.items.length > 0);
 
   return (
     <footer className="relative overflow-hidden bg-blue-deep text-sky-alt">
@@ -99,23 +99,32 @@ export function Footer() {
             </ul>
           </nav>
 
-          {/* Servicios */}
+          {/* Servicios, agrupados por categoría */}
           <nav className="lg:col-span-3" aria-label={t("servicesTitle")}>
             <h2 className="inline-block border-b-2 border-red-accent pb-1.5 font-heading text-sm font-bold uppercase tracking-widest text-white">
               {t("servicesTitle")}
             </h2>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              {services.map((s) => (
-                <li key={s.slug}>
-                  <Link
-                    href={`/services/${s.slug}`}
-                    className="text-sky-bg/80 hover:text-teal-light"
-                  >
-                    {s.title}
-                  </Link>
-                </li>
+            <div className="mt-4 space-y-5">
+              {byCategory.map((group) => (
+                <div key={group.label}>
+                  <p className="font-heading text-xs font-semibold uppercase tracking-wide text-teal-light">
+                    {group.label}
+                  </p>
+                  <ul className="mt-2 space-y-2 text-sm">
+                    {group.items.map((s) => (
+                      <li key={s.slug}>
+                        <Link
+                          href={`/services/${s.slug}`}
+                          className="text-sky-bg/80 hover:text-teal-light"
+                        >
+                          {s.title}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               ))}
-            </ul>
+            </div>
           </nav>
 
           {/* Contacto */}

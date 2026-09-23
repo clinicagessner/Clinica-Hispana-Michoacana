@@ -7,6 +7,7 @@ import { Gynecology } from "@/components/sections/gynecology";
 import { MensHealth } from "@/components/sections/mens-health";
 import { Testimonials } from "@/components/sections/testimonials";
 import { BlogPreview } from "@/components/sections/blog-preview";
+import { AboutClinic } from "@/components/sections/about-clinic";
 import { Faq } from "@/components/sections/faq";
 import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { Location } from "@/components/sections/location";
@@ -71,6 +72,7 @@ export default async function HomePage({
       <Testimonials />
       <BlogPreview />
       <JsonLdMedicalClinic locale={locale as Locale} />
+      <AboutClinic />
       <Faq />
       <Location />
       <Contact />

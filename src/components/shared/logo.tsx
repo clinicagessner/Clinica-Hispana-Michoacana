@@ -23,8 +23,8 @@ export function Logo({
       <Image
         src="/logo-nueva-salud.webp"
         alt={SITE_CONFIG.name}
-        width={512}
-        height={512}
+        width={112}
+        height={112}
         priority={priority}
         className="h-14 w-14 shrink-0 object-contain"
       />

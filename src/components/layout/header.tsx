@@ -82,7 +82,7 @@ export function Header() {
             }
           }}
         >
-          <Logo priority />
+          <Logo />
         </Link>
 
         {/* Nav desktop */}

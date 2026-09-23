@@ -911,6 +911,14 @@ El retraso también viene por estrés, cambios de peso, problemas de tiroides, s
 
 Sí. Tu resultado es tuyo y se explica en privado, sin juicios y en español. Puedes venir sola o acompañada, sin cita y sin seguro médico.
 
+## ¿Cuánto tarda el resultado?
+
+La prueba de orina da resultado en minutos, ahí mismo. La de sangre se procesa en el laboratorio de la clínica y se entrega el mismo día en la mayoría de los casos, con la explicación de qué significa el número.
+
+## ¿Qué hago mientras decido?
+
+Si el resultado es positivo y aún no tienes claro el siguiente paso, hay cosas que ayudan desde el primer día: empezar ácido fólico, evitar alcohol y tabaco, y revisar con nosotros los medicamentos que tomas, porque algunos se cambian en el embarazo.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -933,6 +941,14 @@ A late period also comes from stress, weight changes, thyroid problems, polycyst
 ## Is it private?
 
 Yes. Your result is yours and it is explained in private, without judgment and in Spanish. You can come alone or with someone, without an appointment or insurance.
+
+## How long do results take?
+
+The urine test gives a result in minutes, right here. The blood test is processed in the clinic lab and is usually ready the same day, with an explanation of what the number means.
+
+## What can I do while I decide?
+
+If the result is positive and the next step is not clear yet, some things help from day one: starting folic acid, avoiding alcohol and tobacco, and reviewing your medications with us, since some are changed during pregnancy.
 
 ${WHY_EN}
 
@@ -1778,6 +1794,14 @@ Los medicamentos que tomas, incluidos los recetados y los de venta libre, porque
 
 El resultado se maneja con discreción y se entrega según el formato que corresponda a tu trámite o a tu empleador. Si vienes por un [examen DOT](/services/examen-dot) o un [chequeo laboral](/services/examen-fisico-escolar), se puede resolver todo en la misma visita.
 
+## ¿Cuánto tarda y cuándo tengo el papel?
+
+La toma de muestra lleva unos minutos y el resultado se entrega por escrito con fecha. Si tu empleador pide un formato concreto o un envío al laboratorio, dilo al llegar: cambia el procedimiento y conviene saberlo antes de empezar, no después.
+
+## ¿Qué conviene saber antes de venir?
+
+Trae tu identificación y llega hidratado, porque sin muestra suficiente hay que esperar. No hace falta ayuno. Si el examen es parte de un proceso de contratación con fecha límite, ven temprano: a última hora del día la sala está más llena y el papeleo se retrasa.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1800,6 +1824,14 @@ The medications you take, prescription and over-the-counter, because some can af
 ## Is it confidential?
 
 The result is handled discreetly and provided in the format your process or employer requires. If you are here for a [DOT exam](/en/services/examen-dot) or a [workplace physical](/en/services/examen-fisico-escolar), it can all be handled in the same visit.
+
+## How long does it take and when do I get the paperwork?
+
+Sample collection takes a few minutes and the result is provided in writing with a date. If your employer requires a specific format or a send-out to a lab, say so when you arrive: it changes the procedure, and that is better known before starting than after.
+
+## What should I know before coming?
+
+Bring your ID and arrive hydrated, because without enough sample you have to wait. No fasting needed. If the test is part of a hiring process with a deadline, come early: late in the day the waiting room is fuller and paperwork takes longer.
 
 ${WHY_EN}
 
@@ -1950,6 +1982,14 @@ No duele. Se aplica un gel frío y se desliza el transductor sobre la piel; si l
 
 Se revisa en la misma visita y se te explica qué se vio. Si el hallazgo requiere otro estudio o un especialista, se orienta la referencia y te decimos con claridad cuál es el siguiente paso.
 
+## ¿Sirve para saber las semanas de embarazo?
+
+Sí. El ultrasonido de embarazo ayuda a calcular las semanas y a confirmar que todo va en orden. Aquí hacemos el estudio y, como el control prenatal completo no se lleva en la clínica, se orienta la referencia para continuarlo.
+
+## ¿Puede ver piedras en la vesícula o el riñón?
+
+Es uno de sus usos más frecuentes, junto con revisar hígado, bazo, páncreas y vejiga. Si el estudio encuentra algo que necesita cirugía o un especialista, te explicamos qué se vio y cuál es el siguiente paso.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1972,6 +2012,14 @@ No. Cold gel is applied and the probe slides over the skin; if the area is infla
 ## When do I get the result?
 
 It is reviewed during the same visit and explained to you. If the finding calls for another study or a specialist, we guide the referral and tell you clearly what the next step is.
+
+## Can it tell how many weeks pregnant I am?
+
+Yes. A pregnancy ultrasound helps estimate the weeks and confirm things are on track. We perform the study, and since full prenatal care is not provided at the clinic, we guide the referral to continue it.
+
+## Can it show gallstones or kidney stones?
+
+That is one of its most common uses, along with checking liver, spleen, pancreas and bladder. If the study finds something that needs surgery or a specialist, we explain what was seen and what comes next.
 
 ${WHY_EN}
 
@@ -2123,6 +2171,14 @@ La visita suele tomar menos de una hora. Si la prueba de tuberculosis sale posit
 
 Desde 2024, el I-693 firmado no tiene fecha de vencimiento mientras esté bien llenado. No abras el sobre: si llega abierto, USCIS puede rechazarlo. Si quieres prepararte, lee la [guía del examen I-693](/blog/guia-examen-medico-inmigracion-i693-pasadena).
 
+## ¿Puedo traer a mi familia el mismo día?
+
+Sí, y conviene: si varios miembros del caso necesitan el examen, hacerlo en la misma visita ahorra viajes y permite revisar juntas las cartillas de vacunación. Cada persona recibe su propio sobre sellado, a su nombre.
+
+## ¿Qué pasa si vivo con una enfermedad crónica?
+
+No afecta tu caso. La diabetes, la presión alta o el asma se anotan como parte de tu historial, sin más. Lo que sí revisa USCIS son las enfermedades transmisibles de importancia para la salud pública, las vacunas exigidas y el consumo de drogas.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2145,6 +2201,14 @@ The visit usually takes under an hour. If the tuberculosis test is positive, a c
 ## Does the form expire?
 
 Since 2024, the signed I-693 has no expiration date as long as it is properly completed. Do not open the envelope: if it arrives open, USCIS can reject it. To prepare, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-pasadena).
+
+## Can I bring my family the same day?
+
+Yes, and it helps: if several people in the case need the exam, doing it in one visit saves trips and lets us review vaccination records together. Each person gets their own sealed envelope, in their name.
+
+## What if I live with a chronic condition?
+
+It does not affect your case. Diabetes, high blood pressure or asthma are recorded as part of your history, nothing more. What USCIS reviews is communicable diseases of public health significance, required vaccines and drug use.
 
 ${WHY_EN}
 
@@ -2553,6 +2617,14 @@ Cualquier corte deja marca; lo que cambia es cuánto se nota. Influyen el tamañ
 
 Enrojecimiento que crece, pus, mal olor, fiebre o dolor que aumenta a partir del tercer día. El [retiro de puntos](/services/suturas-heridas) y las curaciones de seguimiento también se hacen aquí, sin cita.
 
+## ¿Se manda a analizar lo que se retira?
+
+Cuando el aspecto de la lesión lo amerita, la muestra se envía a estudio y te explicamos el resultado cuando llega. Si desde la evaluación se ve que el caso necesita a un especialista, se orienta la referencia antes de hacer nada.
+
+## ¿Cuándo puedo volver a mi rutina?
+
+El mismo día para trabajo de oficina. Si tu trabajo es físico o la zona queda en una articulación, conviene evitar esfuerzo unos días para que la herida no se abra. Te lo decimos según dónde esté y cómo cerró.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2575,6 +2647,14 @@ Any cut leaves a mark; what changes is how noticeable it is. Size, location and 
 ## What should I watch for afterward?
 
 Spreading redness, pus, bad smell, fever or pain that increases from the third day on. [Stitch removal](/en/services/suturas-heridas) and follow-up wound care are also done here, walk-in.
+
+## Is what you remove sent for analysis?
+
+When the appearance of the lesion warrants it, the sample is sent for study and we explain the result when it arrives. If the evaluation shows the case needs a specialist, we guide the referral before doing anything.
+
+## When can I go back to my routine?
+
+The same day for desk work. If your job is physical or the area is over a joint, it is best to avoid strain for a few days so the wound does not open. We tell you based on where it is and how it closed.
 
 ${WHY_EN}
 
@@ -2811,6 +2891,14 @@ Sí, y conviene preguntar: a qué hora, con o sin comida, cuántos días, qué h
 
 Pregunta el precio antes de salir de la consulta, como con cualquier otro servicio. Se paga en el momento, con efectivo o tarjeta, sin seguro de por medio; si es tu primera vez sin seguro, mira las [opciones que hay en Pasadena](/blog/atencion-medica-sin-seguro-pasadena).
 
+## ¿Y si el medicamento que necesito no está?
+
+Te decimos en el momento si lo tenemos o no, y en ese caso te damos la receta para que la surtas en una farmacia. No te vas sin saber qué hacer ni con la duda de si el tratamiento empieza hoy o mañana.
+
+## ¿Puedo preguntar por interacciones?
+
+Sí. Dinos qué otros medicamentos tomas, incluidos los de venta libre, las vitaminas y los remedios de herbolaria, que también interactúan. Es la conversación que evita la mayoría de los problemas y no cuesta nada tenerla.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -2833,6 +2921,14 @@ Yes, and it is worth asking: what time, with or without food, for how many days,
 ## What do they cost?
 
 Ask the price before leaving the visit, as with any other service. You pay on the spot, cash or card, with no insurance involved; if this is your first time without insurance, see [the options in Pasadena](/en/blog/atencion-medica-sin-seguro-pasadena).
+
+## What if the medication I need is not available?
+
+We tell you on the spot whether we have it, and if not we give you the prescription so you can fill it at a pharmacy. You do not leave without knowing what to do or wondering whether treatment starts today or tomorrow.
+
+## Can I ask about interactions?
+
+Yes. Tell us what else you take, including over-the-counter products, vitamins and herbal remedies, which also interact. It is the conversation that prevents most problems, and it costs nothing to have it.
 
 ${WHY_EN}
 

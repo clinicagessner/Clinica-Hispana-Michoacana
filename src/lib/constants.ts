@@ -978,7 +978,7 @@ Manchado entre reglas durante los primeros dos o tres meses, sensibilidad en los
 
 ## ¿Necesito cita o receta previa?
 
-No. Llega sin cita y sin seguro. Si llevas tiempo sin revisión, se aprovecha para valorar [atención ginecológica](/services/ginecologia) y, si toca, hacer papanicolaou o [prueba de embarazo](/services/prueba-embarazo).
+No. Llega sin cita y sin seguro. Si llevas tiempo sin revisión, se aprovecha para valorar [atención ginecológica](/services/ginecologia) y, si toca, hacer papanicolaou o [prueba de embarazo](/services/prueba-embarazo). Aquí explicamos [cada cuánto toca el papanicolaou](/blog/ginecologos-hispanos-pasadena-hablan-espanol).
 
 ${WHY_ES}
 
@@ -1001,7 +1001,7 @@ Spotting between periods during the first two or three months, breast tenderness
 
 ## Do I need an appointment or a prescription?
 
-No. Walk in, no insurance needed. If it has been a while since your last checkup, we can also cover [gynecological care](/en/services/ginecologia) and, if due, a Pap smear or a [pregnancy test](/en/services/prueba-embarazo).
+No. Walk in, no insurance needed. If it has been a while since your last checkup, we can also cover [gynecological care](/en/services/ginecologia) and, if due, a Pap smear or a [pregnancy test](/en/services/prueba-embarazo). We explain [how often a Pap smear is due](/en/blog/ginecologos-hispanos-pasadena-hablan-espanol).
 
 ${WHY_EN}
 

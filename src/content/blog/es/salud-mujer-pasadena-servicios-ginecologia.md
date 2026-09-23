@@ -38,4 +38,4 @@ Ninguna de esas cosas se arregla esperando a la próxima cita: se revisan cuando
 
 ## Lo práctico
 
-No necesitas seguro ni cita. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, en 6500 Spencer Hwy Ste 180, Pasadena. Si nunca te has hecho un papanicolaou o llevas años sin uno, ese es el primer paso: lee [cada cuánto toca](/blog/ginecologos-hispanos-pasadena-hablan-espanol) y ven cuando puedas. Teléfono: **(832) 617-7439**.
+No necesitas seguro ni cita. Abrimos de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, en 6500 Spencer Hwy Ste 180, Pasadena. Si estás sin seguro, mira también [las opciones que hay en Pasadena](/blog/atencion-medica-sin-seguro-pasadena). Si nunca te has hecho un papanicolaou o llevas años sin uno, ese es el primer paso: lee [cada cuánto toca](/blog/ginecologos-hispanos-pasadena-hablan-espanol) y ven cuando puedas. Teléfono: **(832) 617-7439**.

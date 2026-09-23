@@ -56,7 +56,7 @@ The injection takes under five minutes, needs no IV line and is given walk-in. I
 
 ## Measure first, treat second
 
-The order matters: a blood sample tells you whether you are genuinely low and, from there, how much to replace and for how long. It also rules out other causes of the same fatigue, such as iron-deficiency anemia, thyroid problems or high blood sugar, all checked in the same sample.
+The order matters: a blood sample tells you whether you are genuinely low and, from there, how much to replace and for how long. It also rules out other causes of the same fatigue, such as iron-deficiency anemia, thyroid problems or high blood sugar, all checked in the same sample. Our [lab guide](/en/blog/laboratorio-clinico-pasadena-analisis-sangre) explains what each test measures and when to fast.
 
 You can do it here in one visit: [blood work](/en/services/examenes-sangre) on the spot and, if the result calls for it, the injection that same day. Ask about the [blood panel plus B12 injection promotion](/en/promociones).
 

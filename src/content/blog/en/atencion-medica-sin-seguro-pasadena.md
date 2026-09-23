@@ -40,4 +40,4 @@ Everything else (flu, throat or urinary infections, wounds, back pain, checkups,
 
 ## At La Michoacana
 
-We see patients without insurance and without an appointment, in Spanish, Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM, at 6500 Spencer Hwy Ste 180, Pasadena. You ask the price when you arrive and decide. Phone: **(832) 617-7439**.
+We see patients without insurance and without an appointment, in Spanish, Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM, at 6500 Spencer Hwy Ste 180, Pasadena. You ask the price when you arrive and decide. If you have never been here, we explain [how a visit works](/en/blog/bienvenidos-clinica-hispana-nueva-salud). Phone: **(832) 617-7439**.

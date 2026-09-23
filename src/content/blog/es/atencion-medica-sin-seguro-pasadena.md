@@ -40,4 +40,4 @@ Todo lo demás (gripe, infecciones de garganta u orina, heridas, dolor de espald
 
 ## En la Michoacana
 
-Atendemos sin seguro y sin cita, en español, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, en 6500 Spencer Hwy Ste 180, Pasadena. Preguntas el precio al llegar y decides. Teléfono: **(832) 617-7439**.
+Atendemos sin seguro y sin cita, en español, de lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 7 PM, en 6500 Spencer Hwy Ste 180, Pasadena. Preguntas el precio al llegar y decides. Si nunca has venido, aquí contamos [cómo funciona una visita](/blog/bienvenidos-clinica-hispana-nueva-salud). Teléfono: **(832) 617-7439**.

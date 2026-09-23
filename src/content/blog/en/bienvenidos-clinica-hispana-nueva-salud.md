@@ -39,4 +39,6 @@ The clinic's medical team, who speak Spanish as a first language. That matters m
 
 Bring your ID, your medication list and, if you are here for paperwork, the form you were given (school, work or your USCIS notice). If the test requires fasting, morning is your best window.
 
+For the most requested paperwork we have separate guides: [DOT exam](/en/blog/examen-dot-cdl-camioneros-pasadena), [I-693 exam](/en/blog/guia-examen-medico-inmigracion-i693-pasadena) and [diabetes management](/en/blog/control-diabetes-pasadena-guia-pacientes).
+
 We are open Monday to Saturday from 9 AM to 9 PM and Sunday from 9 AM to 7 PM. Phone: **(832) 617-7439**. We also see families from Deer Park, South Houston and La Porte, minutes away via Highway 225.

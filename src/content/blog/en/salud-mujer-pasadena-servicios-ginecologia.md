@@ -38,4 +38,4 @@ None of those improve by waiting for the next appointment: they get checked when
 
 ## The practical part
 
-No insurance and no appointment needed. We are open Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM, at 6500 Spencer Hwy Ste 180, Pasadena. If you have never had a Pap smear or it has been years, that is the first step: read [how often it is due](/en/blog/ginecologos-hispanos-pasadena-hablan-espanol) and come when you can. Phone: **(832) 617-7439**.
+No insurance and no appointment needed. We are open Monday to Saturday 9 AM to 9 PM and Sunday 9 AM to 7 PM, at 6500 Spencer Hwy Ste 180, Pasadena. If you are uninsured, see also [the options in Pasadena](/en/blog/atencion-medica-sin-seguro-pasadena). If you have never had a Pap smear or it has been years, that is the first step: read [how often it is due](/en/blog/ginecologos-hispanos-pasadena-hablan-espanol) and come when you can. Phone: **(832) 617-7439**.

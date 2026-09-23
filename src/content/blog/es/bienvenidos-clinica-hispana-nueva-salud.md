@@ -39,4 +39,6 @@ El equipo médico de la clínica, que habla español como primera lengua. Eso im
 
 Trae tu identificación, la lista de tus medicamentos y, si vienes por un trámite, el papel que te pidieron (formulario de la escuela, del trabajo o el aviso de USCIS). Si el estudio requiere ayuno, la mañana es tu mejor momento.
 
+Para los trámites más pedidos tenemos guía aparte: [examen DOT](/blog/examen-dot-cdl-camioneros-pasadena), [examen I-693](/blog/guia-examen-medico-inmigracion-i693-pasadena) y [control de diabetes](/blog/control-diabetes-pasadena-guia-pacientes).
+
 Estamos abiertos de lunes a sábado de 9 AM a 9 PM y el domingo de 9 AM a 7 PM. Teléfono: **(832) 617-7439**. También atendemos a familias de Deer Park, South Houston y La Porte, que nos quedan a minutos por la 225.

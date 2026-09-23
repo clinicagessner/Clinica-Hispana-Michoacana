@@ -56,7 +56,7 @@ La inyección toma menos de cinco minutos, no necesita suero ni vía intravenosa
 
 ## Primero medir, después tratar
 
-El orden importa: una muestra de sangre te dice si realmente te falta y, con eso, cuánto y por cuánto tiempo hay que reponerla. También descarta otras causas del mismo cansancio, como anemia por hierro bajo, tiroides o azúcar alta, que se revisan en la misma muestra.
+El orden importa: una muestra de sangre te dice si realmente te falta y, con eso, cuánto y por cuánto tiempo hay que reponerla. También descarta otras causas del mismo cansancio, como anemia por hierro bajo, tiroides o azúcar alta, que se revisan en la misma muestra. En la [guía del laboratorio](/blog/laboratorio-clinico-pasadena-analisis-sangre) explicamos qué mide cada estudio y cuándo hay que ayunar.
 
 Aquí puedes hacerlo en una sola visita: [análisis de sangre](/services/examenes-sangre) en el momento y, si el resultado lo indica, la inyección ese mismo día. Pregunta también por la [promoción de examen general de sangre más inyección de B12](/promociones).
 

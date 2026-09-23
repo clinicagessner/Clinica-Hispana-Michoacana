@@ -83,22 +83,17 @@ export function getServicesByCategory(category: Service["category"]): Service[] 
  */
 export function getRelatedServices(slug: string, count = 3): Service[] {
   const all = getAllServices();
-  const current = getServiceBySlug(slug);
-  if (!current) return all.slice(0, count);
-
-  const sameCategory = all.filter(
-    (s) => s.slug !== slug && s.category === current.category,
-  );
-  const others = all.filter(
-    (s) => s.slug !== slug && s.category !== current.category,
-  );
-  const pool = [...sameCategory, ...others];
-  if (pool.length <= count) return pool;
-
   const start = all.findIndex((s) => s.slug === slug);
+  if (start < 0) return all.slice(0, count);
+
+  // Rotación circular sobre la lista completa: cada servicio enlaza a los
+  // `count` siguientes. Con el corte por categoría más `slice`, la cola de
+  // cada categoría se quedaba con 1 enlace entrante (medido con links.mjs).
+  // Como SERVICES va ordenado por `order` y las categorías son contiguas, los
+  // vecinos siguen siendo casi siempre del mismo tipo de servicio.
   return Array.from(
-    { length: count },
-    (_, i) => pool[(start + i) % pool.length],
+    { length: Math.min(count, all.length - 1) },
+    (_, i) => all[(start + 1 + i) % all.length],
   );
 }
 

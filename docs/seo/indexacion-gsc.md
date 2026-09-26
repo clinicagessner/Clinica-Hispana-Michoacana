@@ -35,18 +35,18 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  (57 impresiones)
 - [x] https://www.clinicamedicamichoacana.com/services/examen-dot  (53 impresiones)
 
-### Tanda 2 — PENDIENTE
+### Tanda 2  ✅ PEDIDA 25/09/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  (45 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/tiroides  (35 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/curacion-heridas  (34 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/bienvenidos-clinica-hispana-nueva-salud  (31 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-heces  (29 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examenes-sangre  (28 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  (27 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/salud-hombre  (25 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  (23 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/prueba-tuberculosis  (20 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  (45 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/tiroides  (35 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/curacion-heridas  (34 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/bienvenidos-clinica-hispana-nueva-salud  (31 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examen-heces  (29 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-sangre  (28 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  (27 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/salud-hombre  (25 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  (23 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/prueba-tuberculosis  (20 impresiones)
 
 ### Tanda 3 — PENDIENTE
 

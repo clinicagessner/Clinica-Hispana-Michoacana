@@ -48,18 +48,18 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  (23 impresiones)
 - [x] https://www.clinicamedicamichoacana.com/services/prueba-tuberculosis  (20 impresiones)
 
-### Tanda 3 — PENDIENTE
+### Tanda 3  ✅ PEDIDA 27/09/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/services/alergias  (19 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog  (16 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  (15 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  (15 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/prueba-strep  (15 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  (13 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/suturas-heridas  (13 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  (11 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/enfermedades-transmision-sexual  (10 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/enfermedades-respiratorias  (9 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/alergias  (19 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog  (16 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  (15 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  (15 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/prueba-strep  (15 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  (13 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/suturas-heridas  (13 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  (11 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/enfermedades-transmision-sexual  (10 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/enfermedades-respiratorias  (9 impresiones)
 
 ### Tanda 4 — PENDIENTE
 

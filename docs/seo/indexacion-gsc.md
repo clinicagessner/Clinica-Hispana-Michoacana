@@ -61,18 +61,18 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/enfermedades-transmision-sexual  (10 impresiones)
 - [x] https://www.clinicamedicamichoacana.com/services/enfermedades-respiratorias  (9 impresiones)
 
-### Tanda 4 — PENDIENTE
+### Tanda 4  ✅ PEDIDA 30/09/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/services/vacunas  (7 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  (6 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  (6 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/unas-encarnadas  (4 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  (3 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/guia-examen-medico-inmigracion-i693-pasadena  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/anticonceptivos  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-alcohol-drogas  (1 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/vacunas  (7 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  (6 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  (6 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/unas-encarnadas  (4 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  (3 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/guia-examen-medico-inmigracion-i693-pasadena  (2 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/anticonceptivos  (2 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/electrocardiograma  (2 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  (1 impresiones)
+- [x] https://www.clinicamedicamichoacana.com/services/examen-alcohol-drogas  (1 impresiones)
 
 ### Tanda 5 — PENDIENTE
 

@@ -1,7 +1,78 @@
 # Indexación en Search Console — Michoacana
 
+**Este archivo es la fuente de verdad del progreso.** Al pedir una tanda, marcar sus casillas y
+poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día por propiedad.
+
 Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de dominio).
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
+
+<!-- tandas:auto -->
+**Estado (actualizado 2026-10-04; URL Inspection API, datos de hoy 2026-10-04):** 85 de 90 URLs del sitemap indexadas · 5 sin indexar (3 descubierta sin indexar · 2 rastreada sin indexar).
+
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 44 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+<!-- /tandas:auto -->
+
+## Tanda 5
+
+- [ ] https://www.clinicamedicamichoacana.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · pedida 2026-09-22 · 3064 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services  — cambiada 2026-09-23 · rastreada 2026-09-10 · indexada · pedida 2026-09-22 · 132 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · pedida 2026-09-22 · 62 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · pedida 2026-09-22 · 56 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 55 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-09-03 · indexada · pedida 2026-09-22 · 42 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/ultrasonido  — cambiada 2026-09-23 · rastreada 2026-09-13 · indexada · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-28 · indexada · pedida 2026-09-30 · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 144 impr.
+
+## Tanda 6
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-07-27 · indexada · 21 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 20 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-09-07 · indexada · 17 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 15 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 12 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 10 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 10 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 6 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.
+
+## Tanda 7
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-09-23 · rastreada 2026-09-16 · indexada · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.
+
+## Tanda 8
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-23 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ultrasonido  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-22 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
+
+## Tanda 9
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/suturas-heridas  — cambiada 2026-09-23 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · descubierta sin indexar · 0 impr.
+
+## Notas anteriores (texto previo del archivo, sin actualizar)
 
 ## Estado conocido (GSC por API, 90 días hasta 2026-09-18)
 
@@ -21,6 +92,8 @@ Orden: primero lo que Google no ha indexado, después el español por impresione
 final el inglés, que hoy no tiene tracción (la línea base de IA en inglés no nombra la clínica).
 
 Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
+
+## Historial (tandas pedidas)
 
 ### Tanda 1 — ✅ PEDIDA 22/09/2026
 
@@ -73,69 +146,3 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/electrocardiograma  (2 impresiones)
 - [x] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  (1 impresiones)
 - [x] https://www.clinicamedicamichoacana.com/services/examen-alcohol-drogas  (1 impresiones)
-
-### Tanda 5 — PENDIENTE
-
-- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/services/ultrasonido  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/blog/control-diabetes-pasadena-guia-pacientes
-- [ ] https://www.clinicamedicamichoacana.com/blog/examen-dot-cdl-camioneros-pasadena
-- [ ] https://www.clinicamedicamichoacana.com/services/cirugias-menores
-- [ ] https://www.clinicamedicamichoacana.com/en  (143 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  (57 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  (47 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  (38 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  (29 impresiones)
-
-### Tanda 6 — PENDIENTE
-
-- [ ] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  (29 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/walk-in  (26 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  (17 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  (17 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  (15 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  (13 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  (12 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  (12 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  (11 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  (8 impresiones)
-
-### Tanda 7 — PENDIENTE
-
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  (7 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-strep  (7 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  (6 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  (6 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  (5 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-alcohol-drogas  (5 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  (5 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  (5 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  (4 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  (4 impresiones)
-
-### Tanda 8 — PENDIENTE
-
-- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  (4 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-heces  (4 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  (3 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  (3 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  (3 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  (3 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ultrasonido  (2 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/promociones  (1 impresiones)
-
-### Tanda 9 — PENDIENTE
-
-- [ ] https://www.clinicamedicamichoacana.com/en/services  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/tiroides  (1 impresiones)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  (EN, nunca enviada)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  (EN, nunca enviada)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  (EN, nunca enviada)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  (EN, nunca enviada)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/suturas-heridas  (EN, nunca enviada)
-- [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  (EN, nunca enviada)
-

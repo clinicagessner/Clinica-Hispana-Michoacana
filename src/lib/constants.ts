@@ -1393,9 +1393,9 @@ ${AREAS_EN}`,
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias con atención rápida, en español.",
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
-      "Urinalysis and prompt urinary infection treatment, in Spanish.",
+      "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
       "Examen de orina y tratamiento de infecciones urinarias sin cita y con atención rápida, en una clínica hispana en Pasadena, TX. En español.",
     descriptionEn:
@@ -1417,16 +1417,16 @@ ${AREAS_EN}`,
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento sin cita previa",
+      "Tratamiento el mismo día",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Walk-in treatment",
+      "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina se hace en la clínica, sin cita, y si hay infección el tratamiento se indica en la misma visita. Sin plazos prometidos: atención rápida y en español.
+    longDescription: `El examen de orina se hace en la clínica, sin cita, y si hay infección sales con tu tratamiento el mismo día, con las indicaciones en español. Si además hace falta un cultivo, ese resultado tarda unos días.
 
 ## ¿Cómo sé que es infección urinaria?
 
@@ -1457,7 +1457,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The urine test is done at the clinic, walk-in, and if there is an infection the treatment is prescribed during the same visit. No promised deadlines: prompt care, in Spanish.
+    longDescriptionEn: `The urine test is done at the clinic, walk-in, and if there is an infection you leave with your treatment the same day, with instructions in Spanish. If a culture is also needed, that result takes a few days.
 
 ## How do I know it is a urinary infection?
 

@@ -4,7 +4,7 @@ description: "Preventive checkups for men in Pasadena, TX: PSA, testosterone, bl
 metaTitle: "Men's health in Pasadena: preventive checkups"
 metaDescription: "Preventive checkups for men in Pasadena, TX: PSA, blood pressure, glucose and more. Care in Spanish, walk-ins welcome, no insurance."
 date: "2026-07-22"
-dateModified: "2026-09-22"
+dateModified: "2026-10-04"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Men's Health"
 cover: "/images/blog/salud-hombre-pasadena-chequeos-preventivos.webp"
@@ -54,7 +54,7 @@ If you already live with diabetes, hypertension or high cholesterol, we provide 
 
 - **High blood pressure:** the "silent enemy"; managed with medication and lifestyle changes.
 - **Type 2 diabetes:** very common in our community; early diagnosis makes all the difference.
-- **Urinary and prostate infections:** burning or frequent urination isn't normal; [we treat it](/en/services/infecciones-urinarias) with walk-in care.
+- **Urinary and prostate infections:** burning or frequent urination isn't normal; [we treat it](/en/services/infecciones-urinarias) with walk-in care: a urine test at the clinic and, if there is a urinary infection, you leave with your treatment the same day.
 - **Sexually transmitted infections:** [confidential testing](/en/services/enfermedades-transmision-sexual) and treatment, judgment-free and completely private.
 
 ## Recommended screenings by age

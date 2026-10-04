@@ -4,7 +4,7 @@ description: "Chequeos preventivos para hombres en Pasadena, TX: PSA, testostero
 metaTitle: "Salud del hombre en Pasadena: chequeos preventivos"
 metaDescription: "Chequeos preventivos para hombres en Pasadena, TX: PSA, presión arterial, glucosa y más. Atención en español, sin cita y sin seguro."
 date: "2026-07-22"
-dateModified: "2026-09-22"
+dateModified: "2026-10-04"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud del hombre"
 cover: "/images/blog/salud-hombre-pasadena-chequeos-preventivos.webp"
@@ -54,7 +54,7 @@ Si ya vives con diabetes, hipertensión o colesterol alto, te damos [seguimiento
 
 - **Presión arterial alta:** el "enemigo silencioso"; se controla con medicamento y cambios de hábitos.
 - **Diabetes tipo 2:** muy común en nuestra comunidad; el diagnóstico temprano marca la diferencia.
-- **Infecciones urinarias y de próstata:** ardor al orinar o ganas frecuentes no son normales; [las tratamos](/services/infecciones-urinarias) sin cita y con atención rápida.
+- **Infecciones urinarias y de próstata:** ardor al orinar o ganas frecuentes no son normales; [las tratamos](/services/infecciones-urinarias) sin cita: examen de orina en la clínica y, si hay infección urinaria, sales con tu tratamiento el mismo día.
 - **Infecciones de transmisión sexual:** [pruebas confidenciales](/services/enfermedades-transmision-sexual) y tratamiento, sin juicios y con total privacidad.
 
 ## Exámenes recomendados por edad

@@ -13,18 +13,18 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5 — 📨 ENVIADA 05/10/2026
+## Tanda 5  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · pedida 2026-09-22 · 3115 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services  — cambiada 2026-09-23 · rastreada 2026-09-10 · indexada · pedida 2026-09-22 · 138 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · pedida 2026-09-22 · 65 impr.
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 56 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · pedida 2026-09-22 · 56 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-09-03 · indexada · pedida 2026-09-22 · 43 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/ultrasonido  — cambiada 2026-09-23 · rastreada 2026-09-13 · indexada · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-28 · indexada · pedida 2026-09-30 · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 147 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-07-27 · indexada · 21 impr.
+- [x] https://www.clinicamedicamichoacana.com  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · pedida 2026-09-22 · 3115 impr.
+- [x] https://www.clinicamedicamichoacana.com/services  — cambiada 2026-09-23 · rastreada 2026-09-10 · indexada · pedida 2026-09-22 · 138 impr.
+- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · pedida 2026-09-22 · 65 impr.
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 56 impr.
+- [x] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · pedida 2026-09-22 · 56 impr.
+- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-09-03 · indexada · pedida 2026-09-22 · 43 impr.
+- [x] https://www.clinicamedicamichoacana.com/services/ultrasonido  — cambiada 2026-09-23 · rastreada 2026-09-13 · indexada · 4 impr.
+- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-28 · indexada · pedida 2026-09-30 · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 147 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-07-27 · indexada · 21 impr.
 
 ## Tanda 6
 

@@ -3,30 +3,18 @@
 **Este archivo es la fuente de verdad del progreso.** Al pedir una tanda, marcar sus casillas y
 poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día por propiedad.
 
-Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de dominio).
+Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de dominio), cuenta **clinicanuevasaludmichuacana@gmail.com**.
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 85 de 90 URLs del sitemap indexadas · 5 sin indexar (2 rastreada sin indexar · 2 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-07; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 85 de 90 URLs del sitemap indexadas · 5 sin indexar (2 rastreada sin indexar · 2 descubierta sin indexar · 1 desconocida).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 33 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 23 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 6  ✅ PEDIDA 06/10/2026
-
-- [x] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 20 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-09-07 · indexada · 18 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 17 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 12 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 10 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 10 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 6 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.
-
-## Tanda 7
+## Tanda 7  📨 ENVIADA 07/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
@@ -145,3 +133,16 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-28 · indexada · pedida 2026-09-30 · 3 impr.
 - [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-04 · rastreada 2026-10-03 · indexada · 147 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-07-27 · indexada · 21 impr.
+
+## Tanda 6  ✅ PEDIDA 06/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 20 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-09-07 · indexada · 18 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 17 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 12 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 10 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 10 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.

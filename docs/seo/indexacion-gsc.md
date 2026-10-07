@@ -13,18 +13,18 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 6  📨 ENVIADA 06/10/2026
+## Tanda 6  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 20 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-09-07 · indexada · 18 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 17 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 12 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 10 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 10 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 6 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 20 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-09-23 · rastreada 2026-09-07 · indexada · 18 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 17 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 12 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 10 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 10 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.
 
 ## Tanda 7
 

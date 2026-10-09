@@ -7,14 +7,14 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-08; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 85 de 90 URLs del sitemap indexadas · 5 sin indexar (2 rastreada sin indexar · 2 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-09; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 85 de 90 URLs del sitemap indexadas · 5 sin indexar (2 rastreada sin indexar · 2 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 7  📨 ENVIADA 08/10/2026
+## Tanda 7  📨 ENVIADA 09/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.

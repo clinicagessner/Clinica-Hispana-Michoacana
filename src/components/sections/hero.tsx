@@ -65,19 +65,19 @@ export async function Hero() {
         aria-hidden
         className="absolute inset-x-0 bottom-0 -z-20 h-2/3 bg-linear-to-t from-blue-deep/90 to-transparent md:hidden"
       />
-      {/* Glows decorativos suaves */}
+      {/* Glows decorativos suaves: degradado radial en vez de blur (el blur se rasteriza lento en móvil) */}
       <div
         aria-hidden
-        className="pointer-events-none absolute -left-24 -top-24 -z-20 h-96 w-96 rounded-full bg-blue-soft/20 blur-3xl"
+        className="pointer-events-none absolute -left-24 -top-24 -z-20 h-96 w-96 rounded-full bg-radial from-blue-soft/20 to-transparent to-70%"
       />
       <div
         aria-hidden
-        className="pointer-events-none absolute -right-20 bottom-0 -z-20 h-80 w-80 rounded-full bg-teal/20 blur-3xl"
+        className="pointer-events-none absolute -right-20 bottom-0 -z-20 h-80 w-80 rounded-full bg-radial from-teal/20 to-transparent to-70%"
       />
       <div className="mx-auto w-full max-w-7xl px-5 py-20 sm:px-6 lg:px-8 lg:py-28">
         <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-2xl">
           {/* Badge de reseñas de Google */}
-          <span className="inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm text-white shadow-sm backdrop-blur-sm">
+          <span className="inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm text-white shadow-sm">
             <StarRating rating={place.averageRating} />
             <span className="font-heading font-bold">
               {place.averageRating.toFixed(1)}

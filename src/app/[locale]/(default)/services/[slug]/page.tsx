@@ -32,7 +32,7 @@ import {
   getLocalizedService,
   serviceImagePath,
 } from "@/lib/utils";
-import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial, SERVICE_META_TITLES } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -54,13 +54,14 @@ export async function generateMetadata({
   const service = getServiceBySlug(slug);
   if (!service) return {};
   const l = getLocalizedService(service, locale as Locale);
+  const metaTitle = SERVICE_META_TITLES[slug]?.[locale as Locale] ?? l.title;
   return {
-    title: l.title,
+    title: metaTitle,
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),
     ...buildSocial({
-      title: l.title,
+      title: metaTitle,
       description: l.description,
       path: `/services/${slug}`,
       locale: locale as Locale,

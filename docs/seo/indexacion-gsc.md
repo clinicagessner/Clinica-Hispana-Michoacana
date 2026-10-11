@@ -7,45 +7,42 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 85 de 92 URLs del sitemap indexadas · 7 sin indexar (2 rastreada sin indexar · 2 descubierta sin indexar · 2 sin datos · 1 desconocida).
+**Estado (actualizado 2026-10-11; URL Inspection API, datos de hoy 2026-10-11):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (1 desconocida · 1 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 15 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 7  ✅ PEDIDA 11/10/2026
+## Tanda 10 — cambios del 2026-10-11 (análisis diario: títulos de servicios con la ciudad y salud del hombre)
 
-- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 4 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-09-23 · rastreada 2026-09-16 · indexada · 4 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 3 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
-- [x] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
+- [ ] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11
 
-## Tanda 8
+## Tanda 11
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/senales-alarma-respiratorias-urgencias-clinica-casa  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 2 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-23 · indexada · 2 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 6 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 3 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-23 · indexada · 3 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 1 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 1 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ultrasonido  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 1 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-22 · indexada · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/senales-alarma-respiratorias-urgencias-clinica-casa  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 0 impr.
-
-## Tanda 9
-
 - [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/suturas-heridas  — cambiada 2026-09-23 · desconocida · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 0 impr.
+
+## Tanda 12
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · desconocida · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · descubierta sin indexar · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
@@ -148,3 +145,16 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 6 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 6 impr.
+
+## Tanda 7  ✅ PEDIDA 11/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 4 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-09-23 · rastreada 2026-09-16 · indexada · 4 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.

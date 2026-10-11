@@ -14,18 +14,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 7  📨 ENVIADA 10/10/2026
+## Tanda 7  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-09-23 · rastreada 2026-09-16 · indexada · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-23 · rastreada 2026-07-31 · indexada · 5 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 5 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-23 · rastreada 2026-09-18 · indexada · 4 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-09-23 · rastreada 2026-09-16 · indexada · 4 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-22 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-09-19 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.
 
 ## Tanda 8
 

@@ -13,18 +13,18 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 10 — cambios del 2026-10-11 (análisis diario: títulos de servicios con la ciudad y salud del hombre)  📨 ENVIADA 13/10/2026
+## Tanda 10 — cambios del 2026-10-11 (análisis diario: títulos de servicios con la ciudad y salud del hombre)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
-- [ ] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11
 
 ## Tanda 11
 

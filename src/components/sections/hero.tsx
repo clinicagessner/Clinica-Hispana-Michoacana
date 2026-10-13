@@ -103,6 +103,14 @@ export async function Hero() {
             {t("subtitle")}
           </p>
 
+          {/* Consulta inicial gratis (confirmado por el usuario, 2026-10-13) */}
+          <p className="mt-5 flex justify-center md:justify-start">
+            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-gray-900 shadow-md md:text-base">
+              <Check className="h-5 w-5 shrink-0 text-green-600" />
+              {t("freeConsultation")}
+            </span>
+          </p>
+
           {/* CTAs */}
           <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row sm:items-center md:justify-start">
             <a

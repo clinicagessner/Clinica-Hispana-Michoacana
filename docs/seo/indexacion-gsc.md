@@ -7,26 +7,13 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-13; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (2 descubierta sin indexar).
+**Estado (actualizado 2026-10-14; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (2 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 10 — cambios del 2026-10-11 (análisis diario: títulos de servicios con la ciudad y salud del hombre)  ✅ PEDIDA 13/10/2026
-
-- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
-- [x] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11
-
-## Tanda 11
+## Tanda 11  📨 ENVIADA 14/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 28 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 6 impr.
@@ -158,3 +145,16 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-09-23 · rastreada 2026-06-27 · indexada · 3 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-23 · rastreada 2026-08-20 · indexada · 2 impr.
+
+## Tanda 10 — cambios del 2026-10-11 (análisis diario: títulos de servicios con la ciudad y salud del hombre)  ✅ PEDIDA 13/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examen-fisico-escolar  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
+- [x] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11

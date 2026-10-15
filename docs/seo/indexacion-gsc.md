@@ -13,7 +13,7 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 13 — cambios del 2026-10-15 (farmacia en la clínica)
+## Tanda 13 — cambios del 2026-10-15 (farmacia en la clínica)  📨 ENVIADA 15/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-15
 - [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-15

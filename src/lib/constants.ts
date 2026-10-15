@@ -3026,13 +3026,13 @@ ${AREAS_EN}`,
     title: "Farmacia",
     titleEn: "Pharmacy",
     shortDescription:
-      "Recibe los medicamentos indicados en tu consulta, sin ir a otro lugar.",
+      "Al terminar tu consulta, compras aquí mismo lo que te recetó nuestro médico.",
     shortDescriptionEn:
-      "Get the medications indicated during your visit — no second stop.",
+      "After your visit, buy what our doctor prescribed right here, no extra stop.",
     description:
-      "Farmacia en Pasadena, TX dentro de la clínica: entrega de los medicamentos indicados en tu consulta y productos de venta libre, en español.",
+      "Farmacia en la clínica en Pasadena, TX: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico, sin otra parada.",
     descriptionEn:
-      "Pharmacy in Pasadena, TX inside the clinic: we provide the medications indicated during your visit plus over-the-counter products, in Spanish.",
+      "On-site pharmacy in Pasadena, TX: after your visit, buy the medicines our doctor prescribed right here at the clinic, with no extra stop.",
     keywords: [
       "farmacia en pasadena",
       "farmacia hispana pasadena",
@@ -3046,26 +3046,26 @@ ${AREAS_EN}`,
       "clinic medications pasadena",
     ],
     features: [
-      "Medicamentos indicados en tu consulta",
+      "Farmacia en la misma clínica",
+      "Medicamentos que te recetó nuestro médico",
       "Opciones de marca y genéricas",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español",
+      "Explicación de cada medicamento en español",
     ],
     featuresEn: [
-      "Medications indicated during your visit",
+      "Pharmacy inside the same clinic",
+      "The medicines our doctor prescribed for you",
       "Brand-name and generic options",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish",
+      "Each medicine explained in Spanish",
     ],
-    longDescription: `Al terminar tu consulta puedes llevarte ahí mismo los medicamentos que el equipo médico te indique, además de productos de venta libre. Una sola parada y con la explicación en español.
+    longDescription: `Farmacia en la clínica: cuando termina tu consulta en Spencer Highway, compras aquí mismo los medicamentos que te recetó nuestro médico y te vas a casa con el tratamiento en la mano, sin hacer otra parada en Pasadena.
 
-## ¿Qué me puedo llevar?
+## ¿Cómo funciona?
 
-Los medicamentos indicados durante tu visita, en opciones de marca o genéricas cuando existen, y productos de venta libre para gripe, dolor, alergias, acidez y cuidado de heridas.
+El médico de la clínica te revisa y te receta lo que necesitas. Al salir del consultorio pasas a la farmacia del mismo local, pagas tus medicamentos y te explicamos en español cómo tomarlos.
 
-## ¿Qué no hacemos?
+## ¿Qué medicamentos venden?
 
-No surtimos recetas de otros médicos ni damos resurtidos de tratamientos iniciados fuera: para eso hace falta una licencia de farmacia del estado de Texas, que es otra cosa. Si ya traes una receta de otro lugar, tendrás que surtirla en una farmacia.
+Los que te recetó nuestro médico en tu consulta, en opción de marca o genérica cuando existe. La farmacia trabaja solo con las recetas de la propia clínica: no vende medicamentos con recetas de otros médicos.
 
 ## ¿Me explican cómo tomarlos?
 
@@ -3074,10 +3074,6 @@ Sí, y conviene preguntar: a qué hora, con o sin comida, cuántos días, qué h
 ## ¿Cuánto cuestan?
 
 Pregunta el precio antes de salir de la consulta, como con cualquier otro servicio. Se paga en el momento, con efectivo o tarjeta, sin seguro de por medio; si es tu primera vez sin seguro, mira las [opciones que hay en Pasadena](/blog/atencion-medica-sin-seguro-pasadena).
-
-## ¿Y si el medicamento que necesito no está?
-
-Te decimos en el momento si lo tenemos o no, y en ese caso te damos la receta para que la surtas en una farmacia. No te vas sin saber qué hacer ni con la duda de si el tratamiento empieza hoy o mañana.
 
 ## ¿Puedo preguntar por interacciones?
 
@@ -3088,15 +3084,15 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When your visit ends you can take home the medications the medical team indicates, plus over-the-counter products. One stop, with the explanation in Spanish.
+    longDescriptionEn: `On-site pharmacy: when your visit on Spencer Highway is over, you buy the medicines our doctor prescribed right here and head home with your treatment in hand, with no extra stop in Pasadena.
 
-## What can I take home?
+## How does it work?
 
-The medications indicated during your visit, in brand or generic options where available, and over-the-counter products for colds, pain, allergies, heartburn and wound care.
+The clinic's doctor examines you and prescribes what you need. When you leave the exam room you go to the pharmacy in the same building, pay for your medicines and we explain in Spanish how to take them.
 
-## What don't you do?
+## Which medicines do you sell?
 
-We do not fill prescriptions written by other doctors and we do not refill treatments started elsewhere: that requires a Texas pharmacy license, which is a different thing. If you already have a prescription from somewhere else, you will need a pharmacy to fill it.
+The ones our doctor prescribed during your visit, as a brand-name or generic option where one exists. The pharmacy works only with the clinic's own prescriptions: it does not sell medicines on prescriptions from other doctors.
 
 ## Will you explain how to take them?
 
@@ -3105,10 +3101,6 @@ Yes, and it is worth asking: what time, with or without food, for how many days,
 ## What do they cost?
 
 Ask the price before leaving the visit, as with any other service. You pay on the spot, cash or card, with no insurance involved; if this is your first time without insurance, see [the options in Pasadena](/en/blog/atencion-medica-sin-seguro-pasadena).
-
-## What if the medication I need is not available?
-
-We tell you on the spot whether we have it, and if not we give you the prescription so you can fill it at a pharmacy. You do not leave without knowing what to do or wondering whether treatment starts today or tomorrow.
 
 ## Can I ask about interactions?
 

@@ -105,5 +105,5 @@ export const SERVICE_META_TITLES: Record<string, Record<Locale, string>> = {
   "cirugias-menores": { es: "Cirugías Menores: Lunares y Quistes en Pasadena, TX", en: "Minor Surgery: Moles & Cysts in Pasadena, TX" },
   "drenaje-abscesos": { es: "Drenaje de Abscesos en Pasadena, TX", en: "Abscess Drainage in Pasadena, TX" },
   "unas-encarnadas": { es: "Uña Encarnada: Extracción en Pasadena, TX", en: "Ingrown Toenail Removal in Pasadena, TX" },
-  "farmacia": { es: "Farmacia dentro de la Clínica en Pasadena, TX", en: "In-Clinic Pharmacy in Pasadena, TX" },
+  "farmacia": { es: "Farmacia en la Clínica en Pasadena, TX", en: "On-Site Clinic Pharmacy in Pasadena, TX" },
 };

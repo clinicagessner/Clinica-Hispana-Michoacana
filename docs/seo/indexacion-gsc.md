@@ -7,23 +7,18 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (2 descubierta sin indexar).
+**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 94 URLs del sitemap indexadas · 4 sin indexar (2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 13 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal)  ✅ PEDIDA 16/10/2026
+## Tanda 16 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 17/10/2026
 
-- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-15
-- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 
-## Tanda 16 — pendientes de la tanda anterior (no salieron el 16/10)
-
-- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — post nuevo 2026-10-16 (blog semanal)
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — post nuevo 2026-10-16 (blog semanal)
-
-## Tanda 14
+## Tanda 17
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 28 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 6 impr.
@@ -36,7 +31,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-22 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
 
-## Tanda 15
+## Tanda 18
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · descubierta sin indexar · 0 impr.
@@ -168,3 +163,8 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-11
 - [x] https://www.clinicamedicamichoacana.com/services/examenes-sangre  — cambiada 2026-10-11
 - [x] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-10-11
+
+## Tanda 13 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal)  ✅ PEDIDA 16/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-15

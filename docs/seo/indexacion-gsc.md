@@ -7,13 +7,13 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 94 URLs del sitemap indexadas · 4 sin indexar (2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-18; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 90 de 94 URLs del sitemap indexadas · 4 sin indexar (2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 16 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 17/10/2026
+## Tanda 16 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.

@@ -13,10 +13,10 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 16 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
+## Tanda 16 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 
 ## Tanda 17
 

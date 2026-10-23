@@ -13,6 +13,11 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 19 — cambios del 2026-10-23 (post del blog semanal)  📨 ENVIADA 23/10/2026
+
+- [ ] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
+
 ## Tanda 17
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 26 impr.

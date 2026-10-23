@@ -134,9 +134,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Llevan el control del embarazo?",
-      answer: "Confirmamos el resultado, calculamos las semanas y revisamos lo básico. El control prenatal completo no se lleva aquí: se orienta la referencia.",
+      answer: "Confirmamos el resultado, calculamos las semanas y revisamos lo básico.",
       questionEn: "Do you provide prenatal care?",
-      answerEn: "We confirm the result, calculate the weeks and check the basics. Full prenatal care isn't provided here: we guide the referral.",
+      answerEn: "We confirm the result, calculate the weeks and check the basics.",
     },
     {
       question: "Salió negativa pero no me baja la regla, ¿qué hago?",
@@ -160,9 +160,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Colocan dispositivos intrauterinos?",
-      answer: "Manejamos pastillas e inyección, y retiramos implantes subdérmicos. Si tu caso necesita un procedimiento que no realizamos, se orienta la referencia.",
+      answer: "Manejamos pastillas e inyección, y retiramos implantes subdérmicos.",
       questionEn: "Do you place IUDs?",
-      answerEn: "We offer pills and the injection, and we remove subdermal implants. If your case needs a procedure we don't perform, we guide the referral.",
+      answerEn: "We offer pills and the injection, and we remove subdermal implants.",
     },
   ],
   "extraccion-implantes": [
@@ -180,9 +180,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Puedo cambiar de método el mismo día?",
-      answer: "Sí. Te explicamos las opciones disponibles aquí, como pastillas o inyección, y si tu caso necesita un procedimiento que no hacemos, se orienta la referencia.",
+      answer: "Sí. Te explicamos las opciones disponibles aquí, como pastillas o inyección.",
       questionEn: "Can I switch methods the same day?",
-      answerEn: "Yes. We go over the options available here, such as pills or the injection, and if your case needs a procedure we don't perform, we guide the referral.",
+      answerEn: "Yes. We go over the options available here, such as pills or the injection.",
     },
   ],
   "salud-hombre": [

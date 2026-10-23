@@ -859,11 +859,11 @@ Es normal, sobre todo la primera vez. Puedes pedir que te acompañe alguien de c
 
 ## ¿Atienden si estoy embarazada?
 
-Confirmamos el embarazo, calculamos las semanas y revisamos lo básico: presión, peso y análisis. El control prenatal completo no se lleva aquí, así que se orienta la referencia al lugar donde seguirlo, con o sin seguro.
+Confirmamos el embarazo, calculamos las semanas y revisamos lo básico: presión, peso y análisis.
 
 ## ¿Qué pasa si el papanicolaou sale alterado?
 
-No significa cáncer. La mayoría de los resultados anormales son cambios leves que se vigilan o infecciones que se tratan. Te explicamos qué dice el resultado, si hay que repetirlo y en qué plazo, y si hace falta un estudio que no hacemos aquí, se orienta la referencia.
+No significa cáncer. La mayoría de los resultados anormales son cambios leves que se vigilan o infecciones que se tratan. Te explicamos qué dice el resultado, si hay que repetirlo y en qué plazo.
 
 ${WHY_ES}
 
@@ -890,11 +890,11 @@ That is normal, especially the first time. You can ask someone you trust to come
 
 ## Do you see pregnant patients?
 
-We confirm the pregnancy, calculate the weeks and check the basics: blood pressure, weight and lab work. Full prenatal care is not provided here, so we guide the referral to where you can continue it, with or without insurance.
+We confirm the pregnancy, calculate the weeks and check the basics: blood pressure, weight and lab work.
 
 ## What if my Pap smear is abnormal?
 
-It does not mean cancer. Most abnormal results are mild changes that get monitored or infections that get treated. We explain what the result says, whether it should be repeated and when, and if a study we do not perform is needed, we guide the referral.
+It does not mean cancer. Most abnormal results are mild changes that get monitored or infections that get treated. We explain what the result says, whether it should be repeated and when.
 
 ${WHY_EN}
 
@@ -949,7 +949,7 @@ La prueba de orina es confiable desde el primer día de retraso; antes de eso pu
 
 ## ¿Qué pasa si sale positiva?
 
-Se confirma el resultado, se calculan las semanas y se revisa lo básico: presión, peso y análisis. Te explicamos las opciones de control prenatal y, como aquí no llevamos el embarazo completo, se orienta la referencia al lugar donde continuarlo, con o sin seguro.
+Se confirma el resultado, se calculan las semanas y se revisa lo básico: presión, peso y análisis. Te explicamos las opciones de control prenatal.
 
 ## ¿Y si sale negativa pero no me baja?
 
@@ -980,7 +980,7 @@ The urine test is reliable from the first day of a missed period; before that it
 
 ## What if it is positive?
 
-The result is confirmed, the weeks are calculated and the basics are checked: blood pressure, weight and lab work. We explain prenatal care options and, since we do not follow pregnancies to term here, we guide the referral to where you can continue, with or without insurance.
+The result is confirmed, the weeks are calculated and the basics are checked: blood pressure, weight and lab work. We explain prenatal care options.
 
 ## What if it is negative but my period has not come?
 
@@ -1047,7 +1047,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué métodos se manejan aquí?
 
-Pastillas anticonceptivas e inyección, con inicio y seguimiento en la clínica. Si tu caso necesita un procedimiento que no realizamos, como la colocación de un dispositivo, se orienta la referencia. También retiramos [implantes subdérmicos](/services/extraccion-implantes).
+Pastillas anticonceptivas e inyección, con inicio y seguimiento en la clínica. También retiramos [implantes subdérmicos](/services/extraccion-implantes).
 
 ## ¿Cómo se elige el método?
 
@@ -1074,7 +1074,7 @@ ${AREAS_ES}`,
 
 ## Which methods do you offer?
 
-Birth control pills and the injection, started and followed up at the clinic. If your case needs a procedure we do not perform, such as device insertion, we guide the referral. We also remove [subdermal implants](/en/services/extraccion-implantes).
+Birth control pills and the injection, started and followed up at the clinic. We also remove [subdermal implants](/en/services/extraccion-implantes).
 
 ## How is a method chosen?
 
@@ -1153,11 +1153,11 @@ Mantén el vendaje seco 24 horas, evita cargar peso con ese brazo dos o tres dí
 
 ## ¿Y si quiero seguir cuidándome?
 
-Puedes cambiar de método el mismo día. Te explicamos las opciones disponibles aquí, como pastillas o inyección, en la consulta de [anticonceptivos](/services/anticonceptivos), y si tu caso necesita un procedimiento que no hacemos, se orienta la referencia.
+Puedes cambiar de método el mismo día. Te explicamos las opciones disponibles aquí, como pastillas o inyección, en la consulta de [anticonceptivos](/services/anticonceptivos).
 
 ## ¿Retiran implantes colocados en otra clínica?
 
-Sí, siempre que se pueda localizar por palpación y esté en su sitio habitual del brazo. Si está muy profundo, se movió o no se palpa, se orienta la referencia en vez de intentarlo: forzar la búsqueda es lo que deja cicatriz.
+Sí, siempre que se pueda localizar por palpación y esté en su sitio habitual del brazo. Si está muy profundo, se movió o no se palpa, no se intenta a ciegas: forzar la búsqueda es lo que deja cicatriz.
 
 ${WHY_ES}
 
@@ -1180,11 +1180,11 @@ Keep the bandage dry for 24 hours, avoid lifting weight with that arm for two or
 
 ## What if I want to stay protected?
 
-You can switch methods the same day. We go over the options available here, such as pills or the injection, at the [birth control](/en/services/anticonceptivos) visit, and if your case needs a procedure we do not perform, we guide the referral.
+You can switch methods the same day. We go over the options available here, such as pills or the injection, at the [birth control](/en/services/anticonceptivos) visit.
 
 ## Do you remove implants placed at another clinic?
 
-Yes, as long as it can be located by touch and sits in its usual spot on the arm. If it is deep, has moved or cannot be felt, we guide a referral instead of attempting it: forcing the search is what leaves a scar.
+Yes, as long as it can be located by touch and sits in its usual spot on the arm. If it is deep, has moved or cannot be felt, it is not attempted blind: forcing the search is what leaves a scar.
 
 ${WHY_EN}
 

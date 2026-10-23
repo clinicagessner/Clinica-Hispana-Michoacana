@@ -7,9 +7,9 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 94 URLs del sitemap indexadas · 2 sin indexar (2 desconocida).
+**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 96 URLs del sitemap indexadas · 4 sin indexar (2 desconocida · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
@@ -18,21 +18,38 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
 
-## Tanda 17
+## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+
+- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/services/anticonceptivos  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-23
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+
+## Tanda 21
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 26 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-10-10 · indexada · pedida 2026-10-13 · 10 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-09-25 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 3 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-23 · indexada · 3 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-06-27 · indexada · pedida 2026-10-11 · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 2 impr.
+
+## Tanda 22
+
 - [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 1 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-09-23 · rastreada 2026-09-22 · indexada · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
-
-## Tanda 18
-
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-09-22 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · desconocida · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · desconocida · 0 impr.

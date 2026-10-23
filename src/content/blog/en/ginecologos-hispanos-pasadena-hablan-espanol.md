@@ -2,7 +2,7 @@
 title: "Gynecological care in Spanish in Pasadena"
 description: "How often you need a Pap smear, what a visit covers and how to prepare. Gynecological care in Spanish in Pasadena, TX, walk-in."
 date: "2026-03-05"
-dateModified: "2026-09-22"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Women's health"
 cover: "/images/blog/ginecologos-hispanos-pasadena-hablan-espanol.webp"
@@ -31,8 +31,6 @@ That schedule is for women without symptoms. If you have unusual bleeding, pain 
 - **Symptom review:** cycle, pain, discharge, burning, discomfort when urinating.
 - **Pregnancy testing** and, if it applies, guidance on birth control methods.
 - **Sexually transmitted infection testing** when needed. The [CDC recommends](https://www.cdc.gov/sti/hcp/clinical-guidance/index.html) annual chlamydia and gonorrhea screening for sexually active women under 25.
-
-Care is provided by the clinic's general medical team. If a result calls for a specialist, we guide the referral and explain the next step.
 
 ## How to prepare
 

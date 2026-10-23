@@ -2,7 +2,7 @@
 title: "Salud de la mujer en Pasadena: qué revisar y cuándo"
 description: "Qué chequeos tocan a cada edad, qué señales no deben esperar y qué se resuelve en una clínica sin cita. Salud de la mujer en Pasadena, TX."
 date: "2026-04-25"
-dateModified: "2026-09-22"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud de la mujer"
 cover: "/images/blog/salud-mujer-pasadena-servicios-ginecologia.webp"
@@ -34,7 +34,7 @@ Ninguna de esas cosas se arregla esperando a la próxima cita: se revisan cuando
 
 ## Qué se resuelve en una clínica como esta
 
-[Papanicolaou y cultivos](/services/ginecologia), pruebas de embarazo, [métodos anticonceptivos](/services/anticonceptivos) como pastillas e inyección, [retiro de implantes](/services/extraccion-implantes), tratamiento de infecciones vaginales y urinarias, y laboratorio en el mismo lugar. La atención la da el equipo médico general; si algo necesita especialista, se orienta la referencia.
+[Papanicolaou y cultivos](/services/ginecologia), pruebas de embarazo, [métodos anticonceptivos](/services/anticonceptivos) como pastillas e inyección, [retiro de implantes](/services/extraccion-implantes), tratamiento de infecciones vaginales y urinarias, y laboratorio en el mismo lugar, todo en español.
 
 ## Lo práctico
 

@@ -119,10 +119,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "Avoid douching, vaginal creams and sex for 48 hours before a Pap smear, since they alter the sample. Note the date of your last period.",
     },
     {
-      question: "¿Me atiende un ginecólogo?",
-      answer: "La atención la da el equipo médico general de la clínica. Si un resultado requiere especialista, se orienta la referencia y te explicamos el siguiente paso.",
-      questionEn: "Will I see a gynecologist?",
-      answerEn: "Care is provided by the clinic's general medical team. If a result calls for a specialist, we guide the referral and explain the next step.",
+      question: "¿Qué se revisa en la consulta de ginecología?",
+      answer: "El motivo de tu visita y tus síntomas, el papanicolaou si toca, un cultivo vaginal cuando hay flujo o molestias, la prueba de embarazo si aplica y orientación sobre métodos anticonceptivos, todo en español.",
+      questionEn: "What does the gynecology visit cover?",
+      answerEn: "The reason for your visit and your symptoms, a Pap smear if due, a vaginal culture when there is discharge or discomfort, a pregnancy test if it applies, and guidance on birth control, all in Spanish.",
     },
   ],
   "prueba-embarazo": [

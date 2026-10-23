@@ -2,7 +2,7 @@
 title: "Atención ginecológica en español en Pasadena"
 description: "Cada cuánto toca el papanicolaou, qué se revisa en la consulta y cómo prepararte. Atención ginecológica en español en Pasadena, TX, sin cita."
 date: "2026-03-05"
-dateModified: "2026-09-22"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud de la mujer"
 cover: "/images/blog/ginecologos-hispanos-pasadena-hablan-espanol.webp"
@@ -31,8 +31,6 @@ Ese calendario es para mujeres sin síntomas. Si tienes sangrado fuera de lo nor
 - **Revisión de síntomas:** ciclo, dolor, flujo, ardor, molestias al orinar.
 - **Pruebas de embarazo** y, si aplica, orientación sobre métodos anticonceptivos.
 - **Pruebas de infecciones de transmisión sexual** cuando hacen falta. Los [CDC recomiendan](https://www.cdc.gov/sti/hcp/clinical-guidance/index.html) la prueba anual de clamidia y gonorrea en mujeres sexualmente activas menores de 25 años.
-
-La atención la da el equipo médico general de la clínica. Si un resultado requiere un especialista, se orienta la referencia y te explicamos el siguiente paso.
 
 ## Cómo prepararte
 

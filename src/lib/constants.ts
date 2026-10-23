@@ -847,7 +847,7 @@ De los 21 a los 29 años, cada tres años. De los 30 a los 65, cada tres años, 
 
 ## ¿Qué se revisa en la consulta?
 
-Motivo de tu visita y síntomas, papanicolaou si toca, cultivo vaginal cuando hay flujo o molestias, prueba de embarazo si aplica y orientación sobre métodos anticonceptivos. La atención la da el equipo médico general; si algo requiere especialista, se orienta la referencia.
+Motivo de tu visita y síntomas, papanicolaou si toca, cultivo vaginal cuando hay flujo o molestias, prueba de embarazo si aplica y orientación sobre métodos anticonceptivos, todo en español.
 
 ## ¿Cómo me preparo?
 
@@ -878,7 +878,7 @@ Ages 21 to 29, every three years. Ages 30 to 65, every three years, or every fiv
 
 ## What does the visit cover?
 
-The reason for your visit and your symptoms, a Pap smear if due, a vaginal culture when there is discharge or discomfort, a pregnancy test if it applies, and guidance on birth control. Care is provided by the general medical team; if something needs a specialist, we guide the referral.
+The reason for your visit and your symptoms, a Pap smear if due, a vaginal culture when there is discharge or discomfort, a pregnancy test if it applies, and guidance on birth control, all in Spanish.
 
 ## How do I prepare?
 
@@ -1244,7 +1244,7 @@ Chequeo general con presión y peso, análisis de sangre con PSA y perfil hormon
 
 ## ¿Qué significa un PSA alto?
 
-No significa cáncer. El valor sube también por inflamación de la próstata, por una infección urinaria, por andar en bicicleta o después de eyacular. Por eso se interpreta junto con tus síntomas y, si hace falta, se repite o se orienta la referencia al especialista.
+No significa cáncer. El valor sube también por inflamación de la próstata, por una infección urinaria, por andar en bicicleta o después de eyacular. Por eso se interpreta junto con tus síntomas y, si hace falta, se repite.
 
 ## ¿Y si me siento cansado todo el tiempo?
 
@@ -1271,7 +1271,7 @@ A general check with blood pressure and weight, blood work with PSA and a hormon
 
 ## What does a high PSA mean?
 
-It does not mean cancer. The value also rises with prostate inflammation, a urinary infection, cycling or recent ejaculation. That is why it is read alongside your symptoms and, if needed, repeated or referred on to a specialist.
+It does not mean cancer. The value also rises with prostate inflammation, a urinary infection, cycling or recent ejaculation. That is why it is read alongside your symptoms and, if needed, repeated.
 
 ## What if I am tired all the time?
 

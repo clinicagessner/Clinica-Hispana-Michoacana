@@ -3,7 +3,7 @@ title: "Bladder or kidney infection: signs it has spread up"
 description: "Fever, chills or flank pain on top of burning urination can mean a bladder infection reached the kidney. What to watch for, and when it is a 911 call."
 metaTitle: "Bladder or kidney infection: signs it has spread up"
 date: "2026-10-16"
-dateModified: "2026-10-16"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Health"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -68,7 +68,7 @@ When you come in with burning plus fever or back pain, the clinic's medical team
 
 At a [urinary infection visit](/en/services/infecciones-urinarias) the urine test is done right at the clinic, and if there is an infection, you leave with your treatment the same day, along with clear instructions on what to watch at home over the next few days and when to come back if the fever will not break; and because the clinic has its own [pharmacy](/en/services/farmacia), you can buy what the medical team prescribed right there instead of making another stop while running a fever.
 
-If the exam shows the infection is already affecting your whole body, the right move is the hospital, and the team will tell you so plainly. When kidney infections keep coming back or something in the results points to an underlying issue, the visit includes guidance on a referral to a urologist to look into it.
+If the exam shows the infection is already affecting your whole body, the right move is the hospital, and the team will tell you so plainly.
 
 ## When it is not a clinic problem: ER or 911
 

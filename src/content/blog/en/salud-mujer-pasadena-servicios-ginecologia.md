@@ -2,7 +2,7 @@
 title: "Women's health in Pasadena: what to check and when"
 description: "Which checkups belong to each age, which signs should not wait and what a walk-in clinic can handle. Women's health in Pasadena, TX."
 date: "2026-04-25"
-dateModified: "2026-09-22"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Women's health"
 cover: "/images/blog/salud-mujer-pasadena-servicios-ginecologia.webp"
@@ -34,7 +34,7 @@ None of those improve by waiting for the next appointment: they get checked when
 
 ## What a clinic like this handles
 
-[Pap smears and cultures](/en/services/ginecologia), pregnancy tests, [birth control](/en/services/anticonceptivos) such as pills and the injection, [implant removal](/en/services/extraccion-implantes), treatment of vaginal and urinary infections, and lab work in the same place. Care is provided by the general medical team; if something needs a specialist, we guide the referral.
+[Pap smears and cultures](/en/services/ginecologia), pregnancy tests, [birth control](/en/services/anticonceptivos) such as pills and the injection, [implant removal](/en/services/extraccion-implantes), treatment of vaginal and urinary infections, and lab work in the same place, all in Spanish.
 
 ## The practical part
 

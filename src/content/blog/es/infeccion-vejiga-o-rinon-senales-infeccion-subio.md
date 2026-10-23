@@ -3,7 +3,7 @@ title: "Infección de vejiga o de riñón: señales de que subió"
 description: "Fiebre, escalofríos o dolor de costado con ardor al orinar pueden indicar que la infección pasó de la vejiga al riñón. Qué hacer y cuándo ir a urgencias."
 metaTitle: "Infección de vejiga o de riñón: señales de que subió"
 date: "2026-10-16"
-dateModified: "2026-10-16"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Nueva Salud Michoacana"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -68,7 +68,7 @@ Al llegar con ardor más fiebre o dolor de espalda, el equipo médico de la clí
 
 En la consulta de [infecciones urinarias](/services/infecciones-urinarias) se hace el examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día, con indicaciones claras de qué vigilar en casa durante los siguientes días y de cuándo regresar si la fiebre no cede; y como la clínica tiene [farmacia](/services/farmacia), compras ahí mismo lo que recetó el equipo médico sin hacer otra parada con fiebre encima.
 
-Si al revisarte aparecen señales de que la infección ya está afectando a todo el cuerpo, lo correcto es enviarte al hospital, y el equipo te lo dirá con claridad. Cuando hay infecciones de riñón repetidas o algo en los resultados apunta a un problema de fondo, se orienta la referencia a un urólogo para estudiarlo.
+Si al revisarte aparecen señales de que la infección ya está afectando a todo el cuerpo, lo correcto es enviarte al hospital, y el equipo te lo dirá con claridad.
 
 ## Cuándo no es para la clínica: urgencias o 911
 

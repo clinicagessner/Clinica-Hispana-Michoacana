@@ -7,18 +7,14 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 96 URLs del sitemap indexadas · 4 sin indexar (2 desconocida · 2 sin datos).
+**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 96 URLs del sitemap indexadas · 4 sin indexar (2 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-07).
 <!-- /tandas:auto -->
 
-## Tanda 19 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
-
-- [x] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
-- [x] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
-
-## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  — cambiada 2026-10-23
@@ -28,6 +24,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23
+
+## Tanda 23 — cambios del 2026-10-23 (resto de la regla Ads = referencia; cupo del 24/10 ya usado)
+
 - [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
@@ -190,3 +189,8 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 
 - [x] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 - [x] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+
+## Tanda 19 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-10-23

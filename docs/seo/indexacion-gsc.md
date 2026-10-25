@@ -7,14 +7,14 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 96 URLs del sitemap indexadas · 4 sin indexar (2 desconocida · 2 sin datos).
+**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 92 de 96 URLs del sitemap indexadas · 4 sin indexar (2 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-07).
 <!-- /tandas:auto -->
 
-## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026 · APLAZADA por el usuario: la pide el 25/10/2026, va primero ese día (no repetir en otra tanda)
+## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
 
 - [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  — cambiada 2026-10-23
@@ -24,13 +24,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23
-
-## Tanda 23 — cambios del 2026-10-23 (resto de la regla Ads = referencia; cupo del 24/10 ya usado)
-
 - [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
-## Tanda 21
+## Tanda 24
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 26 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-10-10 · indexada · pedida 2026-10-13 · 10 impr.
@@ -43,7 +40,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-06-27 · indexada · pedida 2026-10-11 · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 2 impr.
 
-## Tanda 22
+## Tanda 25
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 1 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-18 · 0 impr.

@@ -14,18 +14,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-07).
 <!-- /tandas:auto -->
 
-## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 20 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/services/anticonceptivos  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/services/extraccion-implantes  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
 ## Tanda 24
 

@@ -13,14 +13,14 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
+## Tanda 23 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-18 · 29 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-10-10 · indexada · pedida 2026-10-13 · 11 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-09-25 · indexada · 6 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-06-27 · indexada · pedida 2026-10-11 · 2 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-09-22 · indexada · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · indexada · 0 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-18 · 29 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-10-10 · indexada · pedida 2026-10-13 · 11 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-09-25 · indexada · 6 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-06-27 · indexada · pedida 2026-10-11 · 2 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-09-22 · indexada · 0 impr.
+- [x] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · indexada · 0 impr.
 
 ## Tanda 21
 

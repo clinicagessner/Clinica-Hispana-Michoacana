@@ -13,17 +13,17 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 26 — cambios del 2026-10-28 (análisis diario: landings de Ads de ginecología y urología, FAQ I-693, post salud del hombre, meta B12)  📨 ENVIADA 28/10/2026
+## Tanda 26 — cambios del 2026-10-28 (análisis diario: landings de Ads de ginecología y urología, FAQ I-693, post salud del hombre, meta B12)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
+- [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-10-28
 
 ## Tanda 27
 

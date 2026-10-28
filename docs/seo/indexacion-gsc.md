@@ -7,27 +7,35 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 94 de 96 URLs del sitemap indexadas · 2 sin indexar (2 desconocida).
+**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 94 de 96 URLs del sitemap indexadas · 2 sin indexar (2 desconocida).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 11 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 24
+## Tanda 26 — cambios del 2026-10-28 (análisis diario: landings de Ads de ginecología y urología, FAQ I-693, post salud del hombre, meta B12)  📨 ENVIADA 28/10/2026
+
+- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-10-28
+
+## Tanda 27
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 26 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 3 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · rastreada 2026-06-23 · indexada · 3 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 3 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-23 · rastreada 2026-09-20 · indexada · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · indexada · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-09-22 · desconocida · 0 impr.
-
-## Tanda 25
-
 - [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · desconocida · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)

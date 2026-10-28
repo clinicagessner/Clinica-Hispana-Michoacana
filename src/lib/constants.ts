@@ -802,18 +802,18 @@ ${AREAS_EN}`,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    title: "Ginecología: Papanicolaou, Ultrasonido y Anticonceptivos",
+    titleEn: "Gynecology: Pap Smear, Ultrasound & Birth Control",
     shortDescription:
-      "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
+      "Clínica para la mujer: papanicolaou, ultrasonido pélvico, cultivos vaginales y anticonceptivos, con privacidad y en español.",
     shortDescriptionEn:
-      "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
+      "Women's clinic: Pap smear, pelvic ultrasound, vaginal cultures and birth control, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en una clínica hispana en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Clínica para la mujer en Pasadena, TX: papanicolaou, ultrasonido pélvico, cultivos e inyección anticonceptiva. Consulta inicial gratis y en español.",
     descriptionEn:
-      "Gynecology care at a Hispanic clinic in Pasadena, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Women's clinic in Pasadena, TX: Pap smear, pelvic ultrasound, cultures and the birth control shot. Free initial consultation, in Spanish.",
     keywords: [
-      "ginecologo pasadena español",
+      "clinica para la mujer pasadena",
       "ginecologia cerca de mi pasadena",
       "clinica hispana ginecologia pasadena",
       "papanicolaou pasadena",
@@ -821,7 +821,7 @@ ${AREAS_EN}`,
       "infeccion vaginal tratamiento pasadena",
     ],
     keywordsEn: [
-      "gynecologist pasadena spanish",
+      "women's clinic pasadena",
       "gynecology near me pasadena",
       "pap smear pasadena",
       "vaginal culture pasadena",
@@ -830,16 +830,20 @@ ${AREAS_EN}`,
     features: [
       "Papanicolaou y chequeo ginecológico",
       "Cultivos vaginales",
+      "Ultrasonido pélvico",
+      "Inyección anticonceptiva",
       "Tratamiento de infecciones vaginales",
       "Atención privada en español",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
       "Vaginal cultures",
+      "Pelvic ultrasound",
+      "Birth control shot",
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `La consulta ginecológica se atiende sin cita, en español y con privacidad. Se hace papanicolaou, cultivos vaginales y tratamiento de las infecciones más comunes, con el laboratorio en el mismo lugar.
+    longDescription: `Somos una clínica para la mujer en Spencer Hwy: la consulta de ginecología se atiende sin cita o, si lo prefieres, llamas y agendas tu cita, siempre en español y con privacidad. Se hace papanicolaou, cultivos vaginales, ultrasonido pélvico y tratamiento de las infecciones más comunes, con el laboratorio en el mismo lugar, y para la primera visita la consulta inicial es gratis mientras que los exámenes y el tratamiento que hagan falta se pagan aparte.
 
 ## ¿Cada cuánto toca el papanicolaou?
 
@@ -848,6 +852,10 @@ De los 21 a los 29 años, cada tres años. De los 30 a los 65, cada tres años, 
 ## ¿Qué se revisa en la consulta?
 
 Motivo de tu visita y síntomas, papanicolaou si toca, cultivo vaginal cuando hay flujo o molestias, prueba de embarazo si aplica y orientación sobre métodos anticonceptivos, todo en español.
+
+## ¿También hacen ultrasonido y ponen la inyección anticonceptiva?
+
+Sí. El ultrasonido pélvico se hace aquí mismo cuando hay dolor bajo el vientre, sangrado fuera de la regla o hace falta mirar el útero y los ovarios, y te explicamos en español lo que aparece en la pantalla (más en [ultrasonido](/services/ultrasonido)). Si quieres planificar, eliges entre pastillas e inyección anticonceptiva después de confirmar que no hay embarazo; las opciones están en [anticonceptivos](/services/anticonceptivos).
 
 ## ¿Cómo me preparo?
 
@@ -870,7 +878,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Gynecological visits are walk-in, in Spanish and private. We do Pap smears, vaginal cultures and treatment of the most common infections, with the lab in the same place.
+    longDescriptionEn: `We are a women's clinic on Spencer Hwy: gynecology visits are walk-in or, if you prefer, you call and book an appointment, always in Spanish and in private. We do Pap smears, vaginal cultures, pelvic ultrasound and treatment of the most common infections, with the lab in the same place, and on your first visit the initial consultation is free while any tests and treatment you need are paid separately.
 
 ## How often is a Pap smear due?
 
@@ -879,6 +887,10 @@ Ages 21 to 29, every three years. Ages 30 to 65, every three years, or every fiv
 ## What does the visit cover?
 
 The reason for your visit and your symptoms, a Pap smear if due, a vaginal culture when there is discharge or discomfort, a pregnancy test if it applies, and guidance on birth control, all in Spanish.
+
+## Do you also do ultrasounds and give the birth control shot?
+
+Yes. The pelvic ultrasound is done right here when there is lower belly pain, bleeding between periods or the uterus and ovaries need a look, and we explain in Spanish what shows on the screen (more under [ultrasound](/en/services/ultrasonido)). If you want to plan, you choose between the pill and the birth control shot once pregnancy has been ruled out; the options are under [birth control](/en/services/anticonceptivos).
 
 ## How do I prepare?
 
@@ -1390,22 +1402,24 @@ ${AREAS_EN}`,
     category: "tratamientos",
     icon: "Droplet",
     highlighted: true,
-    title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
-    titleEn: "Urinalysis & Urinary Infection Treatment",
+    title: "Urología: Infecciones Urinarias, Vejiga y Examen de Orina",
+    titleEn: "Urology: Urinary Infections, Bladder Care & Urinalysis",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Urología en español: examen de orina, infecciones urinarias con tratamiento el mismo día y vejiga hiperactiva.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "Urology care in Spanish: urinalysis, same-day urinary infection treatment and overactive bladder.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias sin cita y con atención rápida, en una clínica hispana en Pasadena, TX. En español.",
+      "Urología en español en Pasadena, TX: examen de orina, infecciones urinarias, vejiga hiperactiva y escapes de orina. Sin cita y sin seguro.",
     descriptionEn:
-      "Urinalysis and prompt urinary infection treatment, walk-in, at a Hispanic clinic in Pasadena, TX. In Spanish, with affordable pricing.",
+      "Urology care in Spanish in Pasadena, TX: urinalysis, urinary infections, overactive bladder and urine leaks. Walk-in, no insurance needed.",
     keywords: [
       "examen de orina pasadena",
       "infeccion urinaria pasadena",
       "infeccion urinaria cerca de mi pasadena",
       "tratamiento infeccion urinaria pasadena",
       "doctor infeccion de orina pasadena",
+      "urologia en español pasadena",
+      "vejiga hiperactiva pasadena",
     ],
     keywordsEn: [
       "urinalysis pasadena",
@@ -1413,20 +1427,24 @@ ${AREAS_EN}`,
       "uti clinic near me pasadena",
       "uti treatment pasadena",
       "uti doctor pasadena",
+      "urology in spanish pasadena",
+      "overactive bladder pasadena",
     ],
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
       "Tratamiento el mismo día",
+      "Vejiga hiperactiva y escapes de orina",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
       "Same-day treatment",
+      "Overactive bladder and urine leaks",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina se hace en la clínica, sin cita, y si hay infección sales con tu tratamiento el mismo día, con las indicaciones en español. Si además hace falta un cultivo, ese resultado tarda unos días.
+    longDescription: `En la consulta de urología vemos las infecciones urinarias, la vejiga hiperactiva y los escapes de orina, en español y sin necesidad de seguro; puedes llegar sin cita o llamar para agendarla. El examen de orina se hace en la clínica, sin cita, y si hay infección sales con tu tratamiento el mismo día, con las indicaciones en español. Si además hace falta un cultivo, ese resultado tarda unos días.
 
 ## ¿Cómo sé que es infección urinaria?
 
@@ -1448,6 +1466,10 @@ Tomar más agua y no aguantarse. Lo que no ayuda: automedicarse con antibiótico
 
 El examen general basta en la mayoría de los casos sencillos. El cultivo se pide cuando la infección se repite, cuando el tratamiento anterior no funcionó, en el embarazo o si hay fiebre: sirve para saber qué bacteria es y cuál es el tratamiento que sí le hace efecto.
 
+## ¿Atienden la vejiga hiperactiva y los escapes de orina?
+
+Sí. Las ganas urgentes que no dan tiempo de llegar al baño, levantarse varias veces en la noche a orinar o perder unas gotas al toser, reír o cargar algo pesado se valoran en esta misma consulta. Primero el examen de orina descarta una infección; después se repasan tus medicamentos, cuánta agua, café o refresco tomas al día y, en los hombres, la próstata con el [antígeno prostático (PSA)](/services/salud-hombre). Con eso te indicamos el tratamiento y los cambios de hábitos que ayudan, y lo que te receten lo compras en la farmacia de la clínica antes de irte.
+
 ## ¿Puede ser otra cosa y no una infección?
 
 Sí. El ardor al orinar también aparece con infecciones de transmisión sexual, irritación o problemas de próstata en los hombres. Por eso se revisan tus síntomas antes de tratar, y si el examen sale limpio se busca la causa real en vez de repetir antibiótico.
@@ -1457,7 +1479,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The urine test is done at the clinic, walk-in, and if there is an infection you leave with your treatment the same day, with instructions in Spanish. If a culture is also needed, that result takes a few days.
+    longDescriptionEn: `Our urology visit covers urinary infections, overactive bladder and urine leaks, in Spanish and with no insurance needed; you can walk in or call to book. The urine test is done at the clinic, walk-in, and if there is an infection you leave with your treatment the same day, with instructions in Spanish. If a culture is also needed, that result takes a few days.
 
 ## How do I know it is a urinary infection?
 
@@ -1478,6 +1500,10 @@ Drinking more water and not holding it. What does not help: self-medicating with
 ## Do I need a culture or is a urinalysis enough?
 
 A general urinalysis is enough in most straightforward cases. A culture is ordered when the infection keeps returning, when previous treatment did not work, in pregnancy or with fever: it identifies which bacteria it is and which treatment actually works on it.
+
+## Do you treat overactive bladder and urine leaks?
+
+Yes. Sudden urges that don't give you time to reach the bathroom, getting up several times a night to urinate, or losing a few drops when you cough, laugh or lift something heavy are assessed in this same visit. A urine test rules out an infection first; then we go over your medications, how much water, coffee or soda you drink each day and, for men, the prostate with a [PSA test](/en/services/salud-hombre). From there we set out the treatment and the habit changes that help, and whatever is prescribed you can buy at the clinic pharmacy before you leave.
 
 ## Could it be something other than an infection?
 

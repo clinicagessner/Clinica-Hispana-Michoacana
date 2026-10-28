@@ -1,8 +1,8 @@
 ---
 title: "Vitamin B12: benefits, deficiency symptoms and injections"
 description: "How to tell if you are low on B12, who is most at risk and when the injection beats pills. Testing and injections in Pasadena, TX."
-metaTitle: "Vitamin B12: benefits, deficiency and injections"
-metaDescription: "How to tell if you are low on vitamin B12, who is at risk and when the injection beats pills. Testing and shots in Pasadena, TX."
+metaTitle: "What are B12 shots good for? Benefits and deficiency"
+metaDescription: "What B12 shots are good for, signs you are low on vitamin B12, who is at risk and when the injection beats pills. Testing and shots in Pasadena, TX."
 date: "2026-08-18"
 dateModified: "2026-09-22"
 author: "Clínica Hispana Nueva Salud Michoacana Team"

@@ -4,7 +4,7 @@ description: "Preventive checkups for men in Pasadena, TX: PSA, testosterone, bl
 metaTitle: "Men's health in Pasadena: preventive checkups"
 metaDescription: "Preventive checkups for men in Pasadena, TX: PSA, blood pressure, glucose and more. Care in Spanish, walk-ins welcome, no insurance."
 date: "2026-07-22"
-dateModified: "2026-10-04"
+dateModified: "2026-10-28"
 author: "Clínica Hispana Nueva Salud Michoacana Team"
 category: "Men's Health"
 cover: "/images/blog/salud-hombre-pasadena-chequeos-preventivos.webp"
@@ -40,7 +40,7 @@ If you feel constant fatigue, low energy, mood changes or low libido, a [men's h
 
 ### Complete blood work
 
-Our [lab](/en/services/examenes-sangre) measures glucose, cholesterol, triglycerides, kidney and liver function, with same-day results in most cases.
+Our [lab](/en/services/examenes-sangre) measures glucose, cholesterol, triglycerides, kidney and liver function, with quick results.
 
 ### Electrocardiogram
 
@@ -93,7 +93,7 @@ We know many men put off the doctor because of language, cost or lack of time. A
 ## Why choose Clínica Hispana Nueva Salud Michoacana
 
 - Care 100% in Spanish, with clear explanations and no jargon
-- On-site lab with same-day results in most cases
+- On-site lab with quick results
 - Walk-ins welcome, no insurance required
 - Extended hours: Monday to Saturday, from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 7:00 PM
 

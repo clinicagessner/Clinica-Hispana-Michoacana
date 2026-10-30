@@ -7,13 +7,20 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 96 URLs del sitemap indexadas · 2 sin indexar (1 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 98 URLs del sitemap indexadas · 4 sin indexar (2 sin datos · 1 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 27
+## Tanda 28 — cambios del 2026-10-30 (post del blog semanal + farmacia: equipo médico)  📨 ENVIADA 30/10/2026
+
+- [ ] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-30
+- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-30
+
+## Tanda 29
 
 - [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 3 impr.

@@ -3052,13 +3052,13 @@ ${AREAS_EN}`,
     title: "Farmacia",
     titleEn: "Pharmacy",
     shortDescription:
-      "Al terminar tu consulta, compras aquí mismo lo que te recetó nuestro médico.",
+      "Al terminar tu consulta, compras aquí mismo lo que te recetó el equipo médico.",
     shortDescriptionEn:
-      "After your visit, buy what our doctor prescribed right here, no extra stop.",
+      "After your visit, buy what the medical team prescribed right here, no extra stop.",
     description:
-      "Farmacia en la clínica en Pasadena, TX: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico, sin otra parada.",
+      "Farmacia en la clínica en Pasadena, TX: al terminar tu consulta compras aquí mismo los medicamentos que te recetó el equipo médico, sin otra parada.",
     descriptionEn:
-      "On-site pharmacy in Pasadena, TX: after your visit, buy the medicines our doctor prescribed right here at the clinic, with no extra stop.",
+      "On-site pharmacy in Pasadena, TX: after your visit, buy the medicines the medical team prescribed right here at the clinic, with no extra stop.",
     keywords: [
       "farmacia en pasadena",
       "farmacia hispana pasadena",
@@ -3073,17 +3073,17 @@ ${AREAS_EN}`,
     ],
     features: [
       "Farmacia en la misma clínica",
-      "Medicamentos que te recetó nuestro médico",
+      "Medicamentos que te recetó el equipo médico",
       "Opciones de marca y genéricas",
       "Explicación de cada medicamento en español",
     ],
     featuresEn: [
       "Pharmacy inside the same clinic",
-      "The medicines our doctor prescribed for you",
+      "The medicines the medical team prescribed for you",
       "Brand-name and generic options",
       "Each medicine explained in Spanish",
     ],
-    longDescription: `Farmacia en la clínica: cuando termina tu consulta en Spencer Highway, compras aquí mismo los medicamentos que te recetó nuestro médico y te vas a casa con el tratamiento en la mano, sin hacer otra parada en Pasadena.
+    longDescription: `Farmacia en la clínica: cuando termina tu consulta en Spencer Highway, compras aquí mismo los medicamentos que te recetó el equipo médico y te vas a casa con el tratamiento en la mano, sin hacer otra parada en Pasadena.
 
 ## ¿Cómo funciona?
 
@@ -3091,7 +3091,7 @@ El médico de la clínica te revisa y te receta lo que necesitas. Al salir del c
 
 ## ¿Qué medicamentos venden?
 
-Los que te recetó nuestro médico en tu consulta, en opción de marca o genérica cuando existe. La farmacia trabaja solo con las recetas de la propia clínica: no vende medicamentos con recetas de otros médicos.
+Los que te recetó el equipo médico en tu consulta, en opción de marca o genérica cuando existe. La farmacia trabaja solo con las recetas de la propia clínica: no vende medicamentos con recetas de otros médicos.
 
 ## ¿Me explican cómo tomarlos?
 
@@ -3110,7 +3110,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `On-site pharmacy: when your visit on Spencer Highway is over, you buy the medicines our doctor prescribed right here and head home with your treatment in hand, with no extra stop in Pasadena.
+    longDescriptionEn: `On-site pharmacy: when your visit on Spencer Highway is over, you buy the medicines the medical team prescribed right here and head home with your treatment in hand, with no extra stop in Pasadena.
 
 ## How does it work?
 
@@ -3118,7 +3118,7 @@ The clinic's doctor examines you and prescribes what you need. When you leave th
 
 ## Which medicines do you sell?
 
-The ones our doctor prescribed during your visit, as a brand-name or generic option where one exists. The pharmacy works only with the clinic's own prescriptions: it does not sell medicines on prescriptions from other doctors.
+The ones the medical team prescribed during your visit, as a brand-name or generic option where one exists. The pharmacy works only with the clinic's own prescriptions: it does not sell medicines on prescriptions from other doctors.
 
 ## Will you explain how to take them?
 

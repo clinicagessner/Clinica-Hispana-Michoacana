@@ -568,15 +568,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "farmacia": [
     {
       question: "¿Compro mis medicamentos al terminar la consulta?",
-      answer: "Sí. La farmacia está en la clínica: al salir del consultorio compras ahí mismo lo que te recetó nuestro médico, sin otra parada.",
+      answer: "Sí. La farmacia está en la clínica: al salir del consultorio compras ahí mismo lo que te recetó el equipo médico, sin otra parada.",
       questionEn: "Do I buy my medicines when the visit ends?",
-      answerEn: "Yes. The pharmacy is inside the clinic: when you leave the exam room you buy what our doctor prescribed right there, no extra stop.",
+      answerEn: "Yes. The pharmacy is inside the clinic: when you leave the exam room you buy what the medical team prescribed right there, no extra stop.",
     },
     {
       question: "¿Puedo comprar aquí lo que me recetó otro médico?",
-      answer: "No. La farmacia de la clínica vende solo los medicamentos que receta nuestro médico en tu consulta; las recetas de otros médicos no se atienden.",
+      answer: "No. La farmacia de la clínica vende solo los medicamentos que receta el equipo médico en tu consulta; las recetas de otros médicos no se atienden.",
       questionEn: "Can I buy here what another doctor prescribed?",
-      answerEn: "No. The clinic's pharmacy only sells the medicines our doctor prescribes during your visit; prescriptions from other doctors are not accepted.",
+      answerEn: "No. The clinic's pharmacy only sells the medicines the medical team prescribes during your visit; prescriptions from other doctors are not accepted.",
     },
     {
       question: "¿Hay opciones genéricas?",

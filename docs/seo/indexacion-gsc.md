@@ -7,7 +7,7 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 96 URLs del sitemap indexadas · 2 sin indexar (1 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 96 URLs del sitemap indexadas · 2 sin indexar (1 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.

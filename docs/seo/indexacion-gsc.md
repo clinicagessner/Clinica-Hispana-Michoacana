@@ -13,12 +13,12 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 28 — cambios del 2026-10-30 (post del blog semanal + farmacia: equipo médico)  📨 ENVIADA 31/10/2026
+## Tanda 28 — cambios del 2026-10-30 (post del blog semanal + farmacia: equipo médico)  ✅ PEDIDA 31/10/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
-- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-30
-- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-30
 
 ## Tanda 29
 

@@ -7,18 +7,12 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-31; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 98 URLs del sitemap indexadas · 4 sin indexar (2 sin datos · 1 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-11-01; URL Inspection API, datos ANTIGUOS del 2026-10-28: antiguos (2026-10-28): --sin-fetch):** 94 de 98 URLs del sitemap indexadas · 4 sin indexar (2 sin datos · 1 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-14).
 <!-- /tandas:auto -->
-
-## Tanda 28 — cambios del 2026-10-30 (post del blog semanal + farmacia: equipo médico)  ✅ PEDIDA 31/10/2026
-
-- [x] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
-- [x] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
-- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-30
-- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-30
 
 ## Tanda 29
 
@@ -208,3 +202,10 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-10-28
 - [x] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28
 - [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-10-28
+
+## Tanda 28 — cambios del 2026-10-30 (post del blog semanal + farmacia: equipo médico)  ✅ PEDIDA 31/10/2026
+
+- [x] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-10-30
+- [x] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-10-30

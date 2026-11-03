@@ -14,18 +14,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  📨 ENVIADA 03/11/2026
+## Tanda 31 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/services  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/services  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-11-02
 
 ## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
 

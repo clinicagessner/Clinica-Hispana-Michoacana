@@ -834,6 +834,7 @@ ${AREAS_EN}`,
       "Inyección anticonceptiva",
       "Tratamiento de infecciones vaginales",
       "Atención privada en español",
+      "Espacio cómodo, seguro y confidencial",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
@@ -842,6 +843,7 @@ ${AREAS_EN}`,
       "Birth control shot",
       "Treatment of vaginal infections",
       "Private care in Spanish",
+      "A comfortable, safe and confidential space",
     ],
     longDescription: `Somos una clínica para la mujer en Spencer Hwy: la consulta de ginecología se atiende sin cita o, si lo prefieres, llamas y agendas tu cita, siempre en español y con privacidad. Se hace papanicolaou, cultivos vaginales, ultrasonido pélvico y tratamiento de las infecciones más comunes, con el laboratorio en el mismo lugar, y para la primera visita la consulta inicial es gratis mientras que los exámenes y el tratamiento que hagan falta se pagan aparte.
 
@@ -856,6 +858,15 @@ Motivo de tu visita y síntomas, papanicolaou si toca, cultivo vaginal cuando ha
 ## ¿También hacen ultrasonido y ponen la inyección anticonceptiva?
 
 Sí. El ultrasonido pélvico se hace aquí mismo cuando hay dolor bajo el vientre, sangrado fuera de la regla o hace falta mirar el útero y los ovarios, y te explicamos en español lo que aparece en la pantalla (más en [ultrasonido](/services/ultrasonido)). Si quieres planificar, eliges entre pastillas e inyección anticonceptiva después de confirmar que no hay embarazo; las opciones están en [anticonceptivos](/services/anticonceptivos).
+
+## Clínica para la mujer: cómoda, segura y confidencial
+
+La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud Michoacana:
+
+- **Consulta de ginecología gratis:** la consulta inicial no se cobra
+- **Ultrasonidos** en la clínica
+- **Anticoncepción hormonal:** inyección anticonceptiva y pastillas
+- **Agenda tu cita** o llega sin cita
 
 ## ¿Cómo me preparo?
 
@@ -891,6 +902,15 @@ The reason for your visit and your symptoms, a Pap smear if due, a vaginal cultu
 ## Do you also do ultrasounds and give the birth control shot?
 
 Yes. The pelvic ultrasound is done right here when there is lower belly pain, bleeding between periods or the uterus and ovaries need a look, and we explain in Spanish what shows on the screen (more under [ultrasound](/en/services/ultrasonido)). If you want to plan, you choose between the pill and the birth control shot once pregnancy has been ruled out; the options are under [birth control](/en/services/anticonceptivos).
+
+## Women's clinic: comfortable, safe and confidential
+
+The gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud Michoacana:
+
+- **Free gynecology visit:** the initial visit is free of charge
+- **Ultrasounds** at the clinic
+- **Hormonal birth control:** the birth control shot and pills
+- **Book your appointment** or walk in
 
 ## How do I prepare?
 
@@ -1436,6 +1456,7 @@ ${AREAS_EN}`,
       "Tratamiento el mismo día",
       "Vejiga hiperactiva y escapes de orina",
       "Atención sin cita en español",
+      "Consulta de urología en un espacio confidencial",
     ],
     featuresEn: [
       "In-clinic urinalysis",
@@ -1443,6 +1464,7 @@ ${AREAS_EN}`,
       "Same-day treatment",
       "Overactive bladder and urine leaks",
       "Walk-in care in Spanish",
+      "Urology visit in a confidential space",
     ],
     longDescription: `En la consulta de urología vemos las infecciones urinarias, la vejiga hiperactiva y los escapes de orina, en español y sin necesidad de seguro; puedes llegar sin cita o llamar para agendarla. El examen de orina se hace en la clínica, sin cita, y si hay infección sales con tu tratamiento el mismo día, con las indicaciones en español. Si además hace falta un cultivo, ese resultado tarda unos días.
 
@@ -1465,6 +1487,14 @@ Tomar más agua y no aguantarse. Lo que no ayuda: automedicarse con antibiótico
 ## ¿Necesito cultivo o basta con el examen de orina?
 
 El examen general basta en la mayoría de los casos sencillos. El cultivo se pide cuando la infección se repite, cuando el tratamiento anterior no funcionó, en el embarazo o si hay fiebre: sirve para saber qué bacteria es y cuál es el tratamiento que sí le hace efecto.
+
+## Clínica de urología en español
+
+En la clínica de urología de Nueva Salud Michoacana la consulta de urología es en español, en un espacio cómodo, seguro y confidencial, con el equipo hispano de la clínica:
+
+- **Examen de urología** y problemas urológicos: infecciones, ardor al orinar, vejiga hiperactiva
+- **Servicios médicos accesibles:** sin seguro, sin problema
+- **Agenda tu cita** o llámanos ahora; también sin cita
 
 ## ¿Atienden la vejiga hiperactiva y los escapes de orina?
 
@@ -1500,6 +1530,14 @@ Drinking more water and not holding it. What does not help: self-medicating with
 ## Do I need a culture or is a urinalysis enough?
 
 A general urinalysis is enough in most straightforward cases. A culture is ordered when the infection keeps returning, when previous treatment did not work, in pregnancy or with fever: it identifies which bacteria it is and which treatment actually works on it.
+
+## Urology clinic in Spanish
+
+At the Nueva Salud Michoacana urology clinic, the urology visit is in Spanish or English, in a comfortable, safe and confidential space, with the clinic's Hispanic team:
+
+- **Urology exam** and urological problems: infections, burning when urinating, overactive bladder
+- **Affordable medical services:** no insurance, no problem
+- **Book your appointment** or call us now; walk-ins welcome too
 
 ## Do you treat overactive bladder and urine leaks?
 

@@ -107,6 +107,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "ginecologia": [
     {
+      question: "¿La consulta de ginecología es gratis?",
+      answer: "Sí, la consulta inicial de ginecología es gratis; los exámenes y el tratamiento que hagan falta se pagan aparte. La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar.",
+      questionEn: "Is the gynecology visit free?",
+      answerEn: "Yes, the initial gynecology visit is free; any tests and treatment needed are paid separately. The gynecology visit, the Pap smear and the ultrasound are done in one place.",
+    },
+    {
       question: "¿Cada cuánto debo hacerme el papanicolaou?",
       answer: "De los 21 a los 29 años, cada tres años. De los 30 a los 65, cada tres años o cada cinco combinado con la prueba de VPH. Con síntomas, se revisa cuando pasan.",
       questionEn: "How often do I need a Pap smear?",
@@ -226,6 +232,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
   ],
   "infecciones-urinarias": [
+    {
+      question: "¿Qué problemas urológicos se ven en la consulta de urología?",
+      answer: "Infecciones urinarias, ardor al orinar, vejiga hiperactiva y escapes de orina, con el examen de urología en español, en un espacio cómodo, seguro y confidencial. No necesitas seguro.",
+      questionEn: "Which urological problems does the urology visit cover?",
+      answerEn: "Urinary infections, burning when urinating, overactive bladder and urine leaks, with the urology exam in Spanish or English, in a comfortable, safe and confidential space. You do not need insurance.",
+    },
     {
       question: "¿Cuándo debo venir el mismo día?",
       answer: "Con fiebre, escalofríos o dolor en la espalda baja, porque la infección puede haber llegado al riñón. También si estás embarazada o tienes diabetes.",

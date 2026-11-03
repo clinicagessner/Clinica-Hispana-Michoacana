@@ -52,7 +52,7 @@ According to the [NIH Office of Dietary Supplements](https://ods.od.nih.gov/fact
 
 It depends on why you are low. If the issue is eating little meat, eggs or dairy, pills usually suffice. If the issue is **absorption** (age, metformin, omeprazole, surgery or digestive disease), a pill may never reach your bloodstream, and that is where the **intramuscular injection** has the edge: it bypasses the stomach entirely.
 
-The injection takes under five minutes, needs no IV line and is given walk-in. It is also the cheaper option compared with a [vitamin IV](/en/services/sueros-vitaminados), which costs more and takes 30 to 45 minutes of chair time.
+The injection takes under five minutes, needs no IV line and is given walk-in. It is also the cheaper option compared with the [vitamin B12 IV](/en/services/sueros-vitaminados), which costs more and takes 30 to 45 minutes of chair time.
 
 ## Measure first, treat second
 

@@ -460,9 +460,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Es mejor el suero o la inyección de vitamina B12?",
-      answer: "Si tu cansancio se debe a falta de B12, la inyección intramuscular es más rápida y económica. Lo sensato es medir tu nivel primero con un análisis de sangre.",
+      answer: "Los dos llevan vitamina B12; la inyección intramuscular es más rápida y económica. Lo sensato es medir tu nivel primero con un análisis de sangre.",
       questionEn: "IV drip or vitamin B12 injection?",
-      answerEn: "If your fatigue comes from low B12, the intramuscular injection is faster and cheaper. The sensible move is to measure your level first with blood work.",
+      answerEn: "Both carry vitamin B12; the intramuscular injection is faster and cheaper. The sensible move is to measure your level first with blood work.",
     },
   ],
   "suturas-heridas": [

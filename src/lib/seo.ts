@@ -99,7 +99,7 @@ export const SERVICE_META_TITLES: Record<string, Record<Locale, string>> = {
   "examen-dot": { es: "Examen Físico DOT para CDL en Pasadena, TX", en: "DOT Physical Exam for CDL in Pasadena, TX" },
   "examenes-inmigracion": { es: "Examen Médico de Inmigración I-693 en Pasadena, TX", en: "I-693 Immigration Medical Exam in Pasadena, TX" },
   "vacunas": { es: "Vacunas de Influenza y Tétano en Pasadena, TX", en: "Flu & Tetanus (Tdap) Vaccines in Pasadena, TX" },
-  "sueros-vitaminados": { es: "Sueros Vitaminados (Terapia IV) en Pasadena, TX", en: "Vitamin IV Therapy in Pasadena, TX" },
+  "sueros-vitaminados": { es: "Suero de Vitamina B12 (Terapia IV) en Pasadena, TX", en: "Vitamin B12 IV Therapy in Pasadena, TX" },
   "suturas-heridas": { es: "Suturas de Heridas Sin Cita en Pasadena, TX", en: "Walk-In Wound Stitches in Pasadena, TX" },
   "curacion-heridas": { es: "Curación de Heridas en Pasadena, TX", en: "Wound Care in Pasadena, TX" },
   "cirugias-menores": { es: "Cirugías Menores: Lunares y Quistes en Pasadena, TX", en: "Minor Surgery: Moles & Cysts in Pasadena, TX" },

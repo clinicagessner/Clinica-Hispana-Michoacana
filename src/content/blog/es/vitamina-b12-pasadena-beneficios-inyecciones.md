@@ -52,7 +52,7 @@ Según la [Oficina de Suplementos Dietéticos de los Institutos Nacionales de Sa
 
 Depende de por qué te falta. Si el problema es que comes poca carne, huevo o lácteos, las pastillas suelen bastar. Si el problema es de **absorción** (edad, metformina, omeprazol, cirugía o enfermedad digestiva), la pastilla puede no llegar a la sangre y ahí la **inyección intramuscular** tiene ventaja: se salta el estómago por completo.
 
-La inyección toma menos de cinco minutos, no necesita suero ni vía intravenosa y se aplica sin cita. Es también la opción más económica frente a un [suero vitaminado](/services/sueros-vitaminados), que cuesta más y requiere entre 30 y 45 minutos de silla.
+La inyección toma menos de cinco minutos, no necesita suero ni vía intravenosa y se aplica sin cita. Es también la opción más económica frente al [suero de vitamina B12](/services/sueros-vitaminados), que cuesta más y requiere entre 30 y 45 minutos de silla.
 
 ## Primero medir, después tratar
 

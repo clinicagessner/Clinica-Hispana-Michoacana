@@ -2485,41 +2485,41 @@ ${AREAS_EN}`,
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Sueros Vitaminados (Terapia IV)",
-    titleEn: "Vitamin IV Therapy",
+    title: "Suero de Vitamina B12 (Terapia IV)",
+    titleEn: "Vitamin B12 IV Therapy",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero intravenoso de vitamina B12, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Pasadena, TX. Hidratación y vitaminas en español, con precios accesibles.",
+      "Suero de vitamina B12 (terapia IV) en Pasadena, TX. En español, con precios accesibles.",
     descriptionEn:
-      "Vitamin IV therapy in Pasadena, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+      "Vitamin B12 IV therapy in Pasadena, TX. In Spanish, with affordable pricing.",
     keywords: [
       "sueros vitaminados pasadena",
       "terapia iv pasadena",
       "suero de vitaminas pasadena",
-      "hidratacion intravenosa pasadena",
+      "suero de vitamina b12 pasadena",
     ],
     keywordsEn: [
       "vitamin iv therapy pasadena",
       "iv drip pasadena",
-      "iv hydration pasadena",
+      "vitamin b12 iv pasadena",
       "vitamin drip pasadena",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación antes de aplicarlo",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Evaluation before starting",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Un suero vitaminado es hidratación con vitaminas y minerales que entra por vía intravenosa, aplicada y vigilada por personal médico. En la Michoacana lo hacemos en un área tranquila, con una evaluación breve antes para confirmar que es apropiado para ti.
+    longDescription: `El suero que aplicamos es de vitamina B12: entra por vía intravenosa y lo aplica y vigila personal médico. En la Michoacana lo hacemos en un área tranquila, con una evaluación breve antes para confirmar que es apropiado para ti.
 
 ## ¿Cuánto tarda la aplicación?
 
@@ -2527,11 +2527,11 @@ Entre 30 y 45 minutos, sentado y con el brazo libre. Antes se revisan tu presió
 
 ## ¿Qué lleva el suero?
 
-La mezcla la define el personal médico según tu evaluación, así que no publicamos una fórmula fija: pregunta en la clínica qué contiene el que te corresponde y cuánto cuesta antes de empezar. Si tomas medicamentos o tienes problemas de riñón o del corazón, dilo en la evaluación.
+Vitamina B12. Pregunta en la clínica cuánto cuesta antes de empezar. Si tomas medicamentos o tienes problemas de riñón o del corazón, dilo en la evaluación.
 
 ## ¿Suero o inyección de B12?
 
-Depende de lo que necesites. Si lo tuyo es cansancio asociado a falta de vitamina B12, la **inyección intramuscular** es más rápida y barata: menos de cinco minutos, sin vía intravenosa y todos los días sin cita. Lo sensato es medir primero: mira la [promoción de examen general de sangre más B12](/promociones) y la [guía de la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+Los dos llevan vitamina B12. La **inyección intramuscular** es más rápida y barata: menos de cinco minutos, sin vía intravenosa y todos los días sin cita. Lo sensato es medir primero: mira la [promoción de examen general de sangre más B12](/promociones) y la [guía de la vitamina B12](/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ## ¿Quién no debería ponerse uno?
 
@@ -2542,7 +2542,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A vitamin IV is hydration with vitamins and minerals delivered intravenously, given and monitored by medical staff. At La Michoacana we do it in a quiet area, with a short evaluation first to confirm it is appropriate for you.
+    longDescriptionEn: `The IV we give is a vitamin B12 drip: it is delivered intravenously, given and monitored by medical staff. At La Michoacana we do it in a quiet area, with a short evaluation first to confirm it is appropriate for you.
 
 ## How long does it take?
 
@@ -2550,11 +2550,11 @@ Between 30 and 45 minutes, seated, with one arm free. Your blood pressure and hi
 
 ## What is in the drip?
 
-The mix is decided by the medical staff based on your evaluation, so we do not publish a fixed formula: ask at the clinic what yours contains and what it costs before starting. If you take medication or have kidney or heart problems, say so during the evaluation.
+Vitamin B12. Ask at the clinic what it costs before starting. If you take medication or have kidney or heart problems, say so during the evaluation.
 
 ## IV drip or B12 injection?
 
-It depends on what you need. If your fatigue is linked to low vitamin B12, the **intramuscular injection** is faster and cheaper: under five minutes, no IV line, available every day without an appointment. The sensible move is to measure first: see the [blood panel plus B12 promotion](/en/promociones) and the [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
+Both carry vitamin B12. The **intramuscular injection** is faster and cheaper: under five minutes, no IV line, available every day without an appointment. The sensible move is to measure first: see the [blood panel plus B12 promotion](/en/promociones) and the [vitamin B12 guide](/en/blog/vitamina-b12-pasadena-beneficios-inyecciones).
 
 ## Who should not get one?
 

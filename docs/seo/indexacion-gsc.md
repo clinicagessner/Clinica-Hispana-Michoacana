@@ -11,7 +11,7 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
 ## Tanda 31 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))
@@ -25,7 +25,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
 
-## Tanda 32
+## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+
+- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-11-02
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
+
+## Tanda 35
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 4 impr.
@@ -38,7 +45,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-06-24 · rastreada sin indexar · pedida 2026-09-27 · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-09-30 · 0 impr.
 
-## Tanda 33
+## Tanda 36
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 8 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 7 impr.

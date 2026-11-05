@@ -14,10 +14,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026
+## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
-- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
 
 ## Tanda 35
 

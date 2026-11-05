@@ -7,17 +7,12 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 85 de 98 URLs del sitemap indexadas · 13 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar).
+**Estado (actualizado 2026-11-05; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 85 de 98 URLs del sitemap indexadas · 13 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
-
-## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
-
-- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
 
 ## Tanda 35
 
@@ -233,3 +228,8 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02
 - [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-02
 - [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — cambiada 2026-11-02
+
+## Tanda 34 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02

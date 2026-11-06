@@ -14,6 +14,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
+## Tanda 37 — cambios del 2026-11-06 (post del blog semanal)  📨 ENVIADA 06/11/2026
+
+- [ ] https://www.clinicamedicamichoacana.com/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
+
 ## Tanda 35
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 4 impr.

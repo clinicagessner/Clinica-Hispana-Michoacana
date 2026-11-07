@@ -7,19 +7,14 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-06; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 85 de 98 URLs del sitemap indexadas · 13 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar).
+**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 85 de 100 URLs del sitemap indexadas · 15 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 37 — cambios del 2026-11-06 (post del blog semanal)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
-
-- [x] https://www.clinicamedicamichoacana.com/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
-- [x] https://www.clinicamedicamichoacana.com/en/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
-
-## Tanda 35
+## Tanda 38
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · indexada · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 4 impr.
@@ -32,7 +27,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-06-24 · rastreada sin indexar · pedida 2026-09-27 · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-09-30 · 0 impr.
 
-## Tanda 36
+## Tanda 39
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 8 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 7 impr.
@@ -238,3 +233,8 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 
 - [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-02
 - [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
+
+## Tanda 37 — cambios del 2026-11-06 (post del blog semanal)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
+- [x] https://www.clinicamedicamichoacana.com/en/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06

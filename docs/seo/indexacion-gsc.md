@@ -14,6 +14,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
+## Tanda 40 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 13/11/2026
+
+- [ ] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
+
 ## Tanda 38
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.

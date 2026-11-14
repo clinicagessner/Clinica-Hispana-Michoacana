@@ -105,6 +105,7 @@ export const OPENING_HOURS = [
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicabuenavidapasadenatx",
   instagram: "https://www.instagram.com/clinicanuevasaludmichoacana/",
+  youtube: "https://www.youtube.com/@NuevaSaludMichoacana",
 } as const;
 
 // Fallback de build para rating/reseñas (comprobado con Places API el

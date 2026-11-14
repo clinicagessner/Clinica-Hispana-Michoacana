@@ -19,6 +19,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
 
+## Tanda 41 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicamedicamichoacana.com/es  — cambiada 2026-11-14
+
 ## Tanda 38
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.

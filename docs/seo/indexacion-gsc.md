@@ -14,18 +14,21 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 40 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 13/11/2026
+## Tanda 42 — cambios del 2026-11-14 (análisis diario: FAQ de la home y ginecología según los anuncios activos; landing de urología fuera del índice; post de dermatitis y home con YouTube sin pedir)  📨 ENVIADA 14/11/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13
-
-## Tanda 41 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
-
-- [ ] https://www.clinicamedicamichoacana.com/es  — cambiada 2026-11-14
+- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-14
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-14
+- [ ] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-14
+- [ ] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-14
+- [ ] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [ ] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [ ] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
 
 ## Tanda 38
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-06-27 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 2 impr.
@@ -42,7 +45,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 8 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 7 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-06-27 · rastreada sin indexar · pedida 2026-10-26 · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-26 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)

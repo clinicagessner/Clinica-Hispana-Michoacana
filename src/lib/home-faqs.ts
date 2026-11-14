@@ -74,4 +74,12 @@ export const HOME_FAQS: ServiceFaq[] = [
     answerEn:
       "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines; the sealed form is handed over as soon as all results are in.",
   },
+  {
+    question: "¿Son un centro de salud y una clínica abierta para hispanos?",
+    answer:
+      "Sí. En Spencer Hwy, Pasadena, somos una clínica latina abierta para hispanos y un centro de salud de atención médica familiar, en el área de Houston, donde tu salud es nuestra prioridad. La consulta médica inicial es gratis (los exámenes y el tratamiento se pagan aparte), no hace falta cita ni seguro, y si prefieres una hora fija, programa tu cita hoy por teléfono. Atención médica confiable con doctores hispanos que hablan tu idioma.",
+    questionEn: "Are you a health center and a clinic open to Hispanic patients?",
+    answerEn:
+      "Yes. On Spencer Hwy in Pasadena, we are a Latino clinic open to the Hispanic community and a family health center in the Houston area, where your health is our priority. The first medical visit is free (tests and treatment are paid separately), no appointment or insurance is needed, and if you would rather have a set time, schedule your appointment today by phone. Reliable medical care with Hispanic doctors who speak your language.",
+  },
 ];

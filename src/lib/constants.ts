@@ -862,7 +862,7 @@ Sí. El ultrasonido pélvico se hace aquí mismo cuando hay dolor bajo el vientr
 
 ## Clínica para la mujer: cómoda, segura y confidencial
 
-La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud Michoacana:
+Somos una clínica hispana de ginecología y una clínica para mujeres en Pasadena: la consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud Michoacana:
 
 - **Consulta de ginecología gratis:** la consulta inicial no se cobra
 - **Ultrasonidos** en la clínica
@@ -906,7 +906,7 @@ Yes. The pelvic ultrasound is done right here when there is lower belly pain, bl
 
 ## Women's clinic: comfortable, safe and confidential
 
-The gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud Michoacana:
+We are a Hispanic gynecology clinic and a clinic for women in Pasadena: the gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud Michoacana:
 
 - **Free gynecology visit:** the initial visit is free of charge
 - **Ultrasounds** at the clinic

@@ -7,25 +7,12 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-14; URL Inspection API, datos de hoy 2026-11-14):** 85 de 102 URLs del sitemap indexadas · 17 sin indexar (13 rastreada sin indexar · 3 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-11-15; URL Inspection API, datos ANTIGUOS del 2026-11-14: antiguos (2026-11-14): --sin-fetch):** 85 de 102 URLs del sitemap indexadas · 17 sin indexar (13 rastreada sin indexar · 3 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
+7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
-
-## Tanda 42 — cambios del 2026-11-14 (análisis diario: FAQ de la home y ginecología según los anuncios activos; landing de urología fuera del índice; post de dermatitis y home con YouTube sin pedir)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
-
-- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-14
-- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-14
-- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-14
-- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-14
-- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
-- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
-- [x] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
-- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
-- [x] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
-- [x] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
 
 ## Tanda 43
 
@@ -252,3 +239,16 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 
 - [x] https://www.clinicamedicamichoacana.com/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
 - [x] https://www.clinicamedicamichoacana.com/en/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06
+
+## Tanda 42 — cambios del 2026-11-14 (análisis diario: FAQ de la home y ginecología según los anuncios activos; landing de urología fuera del índice; post de dermatitis y home con YouTube sin pedir)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-14
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-14
+- [x] https://www.clinicamedicamichoacana.com/services/ginecologia  — cambiada 2026-11-14
+- [x] https://www.clinicamedicamichoacana.com/en/services/ginecologia  — cambiada 2026-11-14
+- [x] https://www.clinicamedicamichoacana.com/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [x] https://www.clinicamedicamichoacana.com/en/services/infecciones-urinarias  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [x] https://www.clinicamedicamichoacana.com/en/services/condiciones-cronicas  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
+- [x] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
+- [x] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)

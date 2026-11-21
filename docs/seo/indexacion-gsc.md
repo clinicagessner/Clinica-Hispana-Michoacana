@@ -14,10 +14,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 45 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026
+## Tanda 45 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
+- [x] https://www.clinicamedicamichoacana.com/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
+- [x] https://www.clinicamedicamichoacana.com/en/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
 
 ## Tanda 46
 

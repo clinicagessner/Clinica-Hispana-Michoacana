@@ -7,17 +7,12 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-21; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 87 de 104 URLs del sitemap indexadas · 17 sin indexar (13 rastreada sin indexar · 2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 87 de 104 URLs del sitemap indexadas · 17 sin indexar (13 rastreada sin indexar · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
-
-## Tanda 45 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
-
-- [x] https://www.clinicamedicamichoacana.com/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
-- [x] https://www.clinicamedicamichoacana.com/en/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
 
 ## Tanda 46
 
@@ -259,3 +254,8 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en/services/extraccion-implantes  — fuera del índice (rastreada sin indexar, URL Inspection 2026-11-09)
 - [x] https://www.clinicamedicamichoacana.com/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
 - [x] https://www.clinicamedicamichoacana.com/en/blog/dermatitis-contacto-cremas-detergentes-quimicos  — cambiada 2026-11-13 (de la Tanda 40, sin confirmar)
+
+## Tanda 45 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
+- [x] https://www.clinicamedicamichoacana.com/en/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20

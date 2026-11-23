@@ -7,34 +7,34 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 87 de 104 URLs del sitemap indexadas · 17 sin indexar (13 rastreada sin indexar · 2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-23; URL Inspection API, datos de hoy 2026-11-23):** 89 de 104 URLs del sitemap indexadas · 15 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar · 2 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
 ## Tanda 46
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-08-02 · indexada · 2 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 1 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/suturas-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-09-27 · 12 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/suturas-heridas  — cambiada 2026-09-23 · desconocida · pedida 2026-09-27 · 12 impr.
 - [ ] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  — cambiada 2026-11-03 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-11-03 · 10 impr.
 - [ ] https://www.clinicamedicamichoacana.com/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-25 · 6 impr.
 - [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-06-24 · rastreada sin indexar · pedida 2026-09-27 · 5 impr.
 
 ## Tanda 47
 
-- [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-09-30 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-09-23 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 8 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 7 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 6 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-26 · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 

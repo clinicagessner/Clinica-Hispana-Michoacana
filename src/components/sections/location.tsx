@@ -111,15 +111,15 @@ export function Location() {
           {/* Columna derecha: foto de la clínica + mapa embed */}
           <Reveal delay={120} className="lg:col-span-7">
             <div className="flex h-full flex-col gap-6">
-              {/* Foto del exterior de la clínica */}
+              {/* Foto de la recepción (la de la fachada era de otra clínica) */}
               <div className="overflow-hidden rounded-2xl border border-white/15">
                 <Image
-                  src="/images/clinica-exterior.webp"
+                  src="/images/clinica-recepcion.webp"
                   alt={t("imageAlt", {
                     address: `${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state}`,
                   })}
-                  width={1360}
-                  height={1020}
+                  width={1200}
+                  height={900}
                   sizes="(max-width: 1024px) 100vw, 720px"
                   className="h-52 w-full object-cover sm:h-64"
                 />

@@ -11,26 +11,8 @@ Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
-
-## Tanda 48 — cambios del 2026-11-24 (Yelp en el pie, sameAs y llms)  📨 ENVIADA 24/11/2026
-
-- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-24
-
-## Tanda 51 — cambios del 2026-11-24 (limpieza §9)
-
-- [ ] https://www.clinicamedicamichoacana.com/services/alergias  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/services/ultrasonido  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/services/ultrasonido  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
 
 ## Tanda 52 — cambios del 2026-11-24 (limpieza §9)
 
@@ -42,7 +24,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-11-24
 - [ ] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-24
 
-## Tanda 53
+## Tanda 55 — cambios del 2026-11-25 (limpieza §9, sin cupo el 24/11)
+
+- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-25
+- [ ] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-25
+
+## Tanda 56
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-11-24 · rastreada 2026-09-07 · indexada · pedida 2026-10-31 · 12 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 4 impr.
@@ -55,7 +42,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-06-24 · rastreada sin indexar · pedida 2026-09-27 · 5 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 6 impr.
 
-## Tanda 54
+## Tanda 57
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-26 · 0 impr.
@@ -284,3 +271,21 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 
 - [x] https://www.clinicamedicamichoacana.com/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
 - [x] https://www.clinicamedicamichoacana.com/en/blog/chequeos-mujer-por-edad-20-30-40-50  — cambiada 2026-11-20
+
+## Tanda 48 — cambios del 2026-11-24 (Yelp en el pie, sameAs y llms)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-24
+
+## Tanda 51 — cambios del 2026-11-24 (limpieza §9)  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/services/alergias  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/services/alergias  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/services/electrocardiograma  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/services/electrocardiograma  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/services/ultrasonido  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/services/ultrasonido  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/services/examen-dot  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24

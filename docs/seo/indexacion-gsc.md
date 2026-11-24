@@ -14,6 +14,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
+## Tanda 48 — cambios del 2026-11-24 (Yelp en el pie, sameAs y llms)
+
+- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-24
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-24
+
 ## Tanda 46
 
 - [ ] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-09-23 · rastreada 2026-09-19 · indexada · 6 impr.

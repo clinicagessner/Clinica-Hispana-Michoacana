@@ -17,7 +17,7 @@ Si estás ajustando tu estatus dentro de Estados Unidos, en algún momento vas a
 
 ## ¿Qué es un civil surgeon?
 
-Es un **médico designado por USCIS** para hacer el examen médico de inmigración dentro del país y llenar el [Formulario I-693](https://www.uscis.gov/i-693). La designación no es automática: el médico la solicita, USCIS la aprueba y publica la lista de autorizados en su [buscador oficial](https://my.uscis.gov/findadoctor). Quien está fuera de esa lista no puede firmar tu formulario, por buen médico que sea.
+Es un **médico designado por USCIS** para hacer el examen médico de inmigración dentro del país y llenar el [Formulario I-693](https://www.uscis.gov/i-693). La designación no es automática: el civil surgeon la solicita, USCIS la aprueba y publica la lista de autorizados en su [buscador oficial](https://my.uscis.gov/findadoctor). Quien está fuera de esa lista no puede firmar tu formulario, por buen médico que sea.
 
 Ojo con la confusión más común: el *civil surgeon* trabaja **dentro** de Estados Unidos. Si tu trámite se procesa en un consulado en el extranjero, el examen lo hace un *panel physician*, que es otra figura.
 
@@ -30,7 +30,7 @@ El examen sigue las [instrucciones técnicas de los CDC](https://www.cdc.gov/imm
 - **Pruebas de laboratorio**, entre ellas la de tuberculosis y las de enfermedades de transmisión sexual que apliquen según tu edad.
 - **Vacunas faltantes**, que se aplican en la clínica, y llenado y sellado del formulario.
 
-El médico no decide tu caso migratorio. Solo documenta tu estado de salud y entrega el resultado en un **sobre sellado que no debes abrir**: si lo abres, USCIS puede rechazarlo.
+El civil surgeon no decide tu caso migratorio. Solo documenta tu estado de salud y entrega el resultado en un **sobre sellado que no debes abrir**: si lo abres, USCIS puede rechazarlo.
 
 ## Qué llevar para no repetir la cita
 

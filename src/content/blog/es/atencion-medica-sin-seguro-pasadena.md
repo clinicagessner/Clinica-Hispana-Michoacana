@@ -10,7 +10,6 @@ coverAlt: "Paciente recibiendo atención médica sin seguro en una clínica hisp
 keywords:
   - "atención médica sin seguro pasadena"
   - "clínica sin seguro pasadena"
-  - "doctor barato pasadena español"
 ---
 
 En Texas casi uno de cada cinco adultos no tiene seguro médico, la proporción más alta del país según la [Oficina del Censo](https://www.census.gov/library/publications/2024/demo/p60-284.html). Si estás en ese grupo, el problema no es solo el costo: es no saber a dónde ir. Estas son las opciones reales en Pasadena y cuándo conviene cada una.

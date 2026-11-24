@@ -54,9 +54,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Hacen pruebas de alergia específicas?",
-      answer: "Evaluamos tus síntomas y desencadenantes y tratamos las alergias respiratorias y de piel. Si hace falta identificar alérgenos concretos, se orienta la referencia al alergólogo.",
+      answer: "Evaluamos tus síntomas y desencadenantes y tratamos las alergias respiratorias y de piel. Si hace falta identificar alérgenos concretos, te explicamos cuál es el siguiente paso.",
       questionEn: "Do you run specific allergy tests?",
-      answerEn: "We assess your symptoms and triggers and treat respiratory and skin allergies. If specific allergens need identifying, we guide a referral to an allergist.",
+      answerEn: "We assess your symptoms and triggers and treat respiratory and skin allergies. If specific allergens need identifying, we explain the next step.",
     },
     {
       question: "¿Por qué empeoro en Pasadena todo el año?",
@@ -392,9 +392,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuándo me dan el resultado?",
-      answer: "Se revisa en la misma visita y te explicamos qué se vio. Si hace falta otro estudio o un especialista, se orienta la referencia.",
+      answer: "Se revisa y te explicamos qué se vio y cuál es el siguiente paso.",
       questionEn: "When do I get the result?",
-      answerEn: "It's reviewed during the same visit and we explain what was seen. If another study or a specialist is needed, we guide the referral.",
+      answerEn: "It's reviewed and we explain what was seen and what the next step is.",
     },
   ],
   "examen-dot": [

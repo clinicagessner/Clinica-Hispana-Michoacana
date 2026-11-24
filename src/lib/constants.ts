@@ -571,7 +571,7 @@ Se revisa tu historia: en qué época empeora, si hay mascotas, humedad o polvo 
 
 ## ¿Qué tratamientos hay?
 
-Antihistamínicos, aerosoles nasales con esteroide, lavados con solución salina y, cuando hay ronchas, tratamiento para la piel. La mayoría mejora en días. Si los síntomas no ceden o vuelven cada año con fuerza, se orienta la referencia al alergólogo para pruebas específicas.
+Antihistamínicos, aerosoles nasales con esteroide, lavados con solución salina y, cuando hay ronchas, tratamiento para la piel. La mayoría mejora en días. Si los síntomas no ceden o vuelven cada año con fuerza, se orienta la referencia al especialista cuando el resultado lo requiere.
 
 ## ¿Qué puedo cambiar en casa?
 
@@ -598,7 +598,7 @@ We go through your history: which season is worse, whether there are pets, damp 
 
 ## What treatments are available?
 
-Antihistamines, steroid nasal sprays, saline rinses and, when there are hives, treatment for the skin. Most people improve within days. If symptoms do not ease or come back hard every year, we guide a referral to an allergist for specific testing.
+Antihistamines, steroid nasal sprays, saline rinses and, when there are hives, treatment for the skin. Most people improve within days. If symptoms do not ease or come back hard every year, we guide a specialist referral when results call for it.
 
 ## What can I change at home?
 
@@ -2088,7 +2088,7 @@ Para revisar el ritmo (si va rápido, lento o irregular), detectar señales de d
 
 ## ¿Qué no detecta?
 
-Un EKG normal no descarta todo. Muchas arritmias van y vienen, y algunas obstrucciones de las arterias no se ven en reposo. Por eso se interpreta junto con tus síntomas, tu presión y tu laboratorio, y si hace falta se orienta la referencia al cardiólogo.
+Un EKG normal no descarta todo. Muchas arritmias van y vienen, y algunas obstrucciones de las arterias no se ven en reposo. Por eso se interpreta junto con tus síntomas, tu presión y tu laboratorio, con referencia al especialista cuando el resultado lo requiere.
 
 ## ¿Cuándo hay que ir a urgencias en vez de hacerse un EKG?
 
@@ -2115,7 +2115,7 @@ To check rhythm (fast, slow or irregular), detect signs of previous damage and e
 
 ## What does it not detect?
 
-A normal EKG does not rule out everything. Many arrhythmias come and go, and some artery blockages do not show at rest. That is why it is read alongside your symptoms, blood pressure and lab work, and a cardiology referral is guided when needed.
+A normal EKG does not rule out everything. Many arrhythmias come and go, and some artery blockages do not show at rest. That is why it is read alongside your symptoms, blood pressure and lab work, with a specialist referral when results call for it.
 
 ## When should I go to the ER instead?
 
@@ -2186,7 +2186,7 @@ No duele. Se aplica un gel frío y se desliza el transductor sobre la piel; si l
 
 ## ¿Cuándo tengo el resultado?
 
-Se revisa en la misma visita y se te explica qué se vio. Si el hallazgo requiere otro estudio o un especialista, se orienta la referencia y te decimos con claridad cuál es el siguiente paso.
+Se revisa y se te explica qué se vio. Si el hallazgo requiere otro estudio o un especialista, se orienta la referencia y te decimos con claridad cuál es el siguiente paso.
 
 ## ¿Sirve para saber las semanas de embarazo?
 
@@ -2217,7 +2217,7 @@ No. Cold gel is applied and the probe slides over the skin; if the area is infla
 
 ## When do I get the result?
 
-It is reviewed during the same visit and explained to you. If the finding calls for another study or a specialist, we guide the referral and tell you clearly what the next step is.
+It is reviewed and explained to you. If the finding calls for another study or a specialist, we guide the referral and tell you clearly what the next step is.
 
 ## Can it tell how many weeks pregnant I am?
 
@@ -2242,13 +2242,13 @@ ${AREAS_EN}`,
     title: "Examen Físico DOT - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
     shortDescription:
-      "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
+      "Examen físico DOT para conductores comerciales (CDL), en español y sin cita.",
     shortDescriptionEn:
-      "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
+      "DOT physical exam for commercial drivers (CDL), in Spanish and walk-in.",
     description:
-      "Examen físico DOT en Pasadena, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
+      "Examen físico DOT en Pasadena, TX para licencia CDL, en español y sin cita. Con precios accesibles.",
     descriptionEn:
-      "DOT physical exam in Pasadena, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
+      "DOT physical exam in Pasadena, TX for CDL license, in Spanish and walk-in. With affordable pricing.",
     keywords: [
       "examen dot pasadena",
       "examen fisico dot pasadena español",
@@ -2262,18 +2262,18 @@ ${AREAS_EN}`,
       "dot medical exam pasadena",
     ],
     features: [
-      "Certificado DOT el mismo día",
+      "Certificado DOT al terminar el examen",
       "Para licencia CDL",
       "Proceso rápido",
       "Atención en español",
     ],
     featuresEn: [
-      "Same-day DOT certificate",
+      "DOT certificate when the exam is done",
       "For CDL license",
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `El examen físico DOT certifica que puedes manejar un vehículo comercial con seguridad. En la Michoacana lo hacemos sin cita, en español, y sales el mismo día con tu certificado.
+    longDescription: `El examen físico DOT certifica que puedes manejar un vehículo comercial con seguridad. En la Michoacana lo hacemos sin cita, en español, y sales con tu certificado si no queda nada pendiente.
 
 ## ¿Qué se revisa?
 
@@ -2300,7 +2300,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The DOT physical certifies that you can operate a commercial vehicle safely. At La Michoacana we do it walk-in, in Spanish, and you leave the same day with your certificate.
+    longDescriptionEn: `The DOT physical certifies that you can operate a commercial vehicle safely. At La Michoacana we do it walk-in, in Spanish, and you leave with your certificate if nothing is left pending.
 
 ## What gets checked?
 
@@ -3131,7 +3131,7 @@ ${AREAS_EN}`,
 
 ## ¿Cómo funciona?
 
-El médico de la clínica te revisa y te receta lo que necesitas. Al salir del consultorio pasas a la farmacia del mismo local, pagas tus medicamentos y te explicamos en español cómo tomarlos.
+El equipo médico de la clínica te revisa y te receta lo que necesitas. Al salir del consultorio pasas a la farmacia del mismo local, pagas tus medicamentos y te explicamos en español cómo tomarlos.
 
 ## ¿Qué medicamentos venden?
 

@@ -63,7 +63,7 @@ Si ya vives con diabetes, hipertensión o colesterol alto, te damos [seguimiento
 | --- | --- |
 | 18–39 | Presión arterial cada año; colesterol cada 4–6 años; glucosa si hay sobrepeso; pruebas de ITS si eres sexualmente activo |
 | 40–49 | Todo lo anterior + glucosa cada 3 años; PSA si hay antecedentes familiares; testosterona si hay síntomas |
-| 50–64 | Chequeo anual completo; hablar con el médico sobre el PSA; electrocardiograma si hay factores de riesgo |
+| 50–64 | Chequeo anual completo; hablar con tu médico sobre el PSA; electrocardiograma si hay factores de riesgo |
 | 65+ | Chequeo anual completo; PSA según indicación médica; evaluación del corazón y los riñones cada año |
 
 ## Señales de alarma: no las ignores

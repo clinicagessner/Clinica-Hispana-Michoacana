@@ -46,7 +46,7 @@ Pregunta si el ultrasonido viene acompañado de una revisión con el equipo méd
 
 ### 4. ¿Alguien me va a explicar lo que salió?
 
-Mucha gente sin seguro sale de otros lugares con un informe lleno de palabras raras y sin nadie a quien preguntarle. Aquí el estudio se revisa en la misma visita y se te explica en español qué se vio. Aprovecha ese rato: pregunta qué significa cada hallazgo, si conviene repetir el estudio más adelante y qué debes vigilar en casa mientras tanto.
+Mucha gente sin seguro sale de otros lugares con un informe lleno de palabras raras y sin nadie a quien preguntarle. Aquí el estudio se revisa y se te explica en español qué se vio. Aprovecha ese rato: pregunta qué significa cada hallazgo, si conviene repetir el estudio más adelante y qué debes vigilar en casa mientras tanto.
 
 ### 5. ¿Qué pasa si aparece algo que pide otro estudio?
 

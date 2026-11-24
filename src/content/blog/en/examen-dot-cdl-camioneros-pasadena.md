@@ -50,4 +50,4 @@ After the exam, remember that in Texas the certificate is reported to the state 
 
 ## Get it done with us
 
-At Clínica Hispana Nueva Salud Michoacana we do the DOT exam in Spanish and hand you the certificate the same day. If something comes up along the way, our [lab](/en/services/examenes-sangre) and [blood pressure and diabetes care](/en/services/condiciones-cronicas) are in the same place, so you don't lose another workday. We are at 6500 Spencer Hwy Ste 180, Pasadena, open every day. Call **(832) 617-7439** or walk in.
+At Clínica Hispana Nueva Salud Michoacana we do the DOT exam in Spanish and hand you the certificate once the exam is done, if nothing is left pending. If something comes up along the way, our [lab](/en/services/examenes-sangre) and [blood pressure and diabetes care](/en/services/condiciones-cronicas) are in the same place, so you don't lose another workday. We are at 6500 Spencer Hwy Ste 180, Pasadena, open every day. Call **(832) 617-7439** or walk in.

@@ -17,7 +17,7 @@ If you are adjusting status inside the United States, sooner or later you will r
 
 ## What is a civil surgeon?
 
-A civil surgeon is a **physician designated by USCIS** to perform the immigration medical exam inside the country and complete [Form I-693](https://www.uscis.gov/i-693). The designation is not automatic: the doctor applies, USCIS approves it and lists them in its [official finder](https://my.uscis.gov/findadoctor). A doctor who is not on that list cannot sign your form, however good they are.
+A civil surgeon is a **physician designated by USCIS** to perform the immigration medical exam inside the country and complete [Form I-693](https://www.uscis.gov/i-693). The designation is not automatic: the civil surgeon applies, USCIS approves it and lists them in its [official finder](https://my.uscis.gov/findadoctor). A doctor who is not on that list cannot sign your form, however good they are.
 
 Watch out for the most common mix-up: a civil surgeon works **inside** the United States. If your case is processed at a consulate abroad, the exam is done by a *panel physician*, which is a different role.
 
@@ -30,7 +30,7 @@ The exam follows the [CDC technical instructions](https://www.cdc.gov/immigrant-
 - **Lab tests**, among them tuberculosis screening and the sexually transmitted infection tests that apply for your age.
 - **Missing vaccines**, given at the clinic, plus completing and sealing the form.
 
-The doctor does not decide your immigration case. They only document your health status and hand you the result in a **sealed envelope you must not open**: if you open it, USCIS can reject it.
+The civil surgeon does not decide your immigration case. They only document your health status and hand you the result in a **sealed envelope you must not open**: if you open it, USCIS can reject it.
 
 ## What to bring so you don't repeat the visit
 

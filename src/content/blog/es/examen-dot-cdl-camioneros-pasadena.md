@@ -31,7 +31,7 @@ El examen sigue las normas de la [FMCSA](https://www.fmcsa.dot.gov/regulations/m
 2. **Lentes o aparatos auditivos**, si los usas. Sin ellos no se puede certificar la visión corregida.
 3. **Lista de tus medicamentos**, con dosis.
 4. **Si tomas medicamento para la presión**, las lecturas recientes ayudan.
-5. **Si usas insulina**, el formulario [MCSA-5870](https://www.fmcsa.dot.gov/medical/driver-medical-requirements/insulin-treated-diabetes-mellitus-assessment-form-mcsa-5870) llenado por el médico que lleva tu diabetes.
+5. **Si usas insulina**, el formulario [MCSA-5870](https://www.fmcsa.dot.gov/medical/driver-medical-requirements/insulin-treated-diabetes-mellitus-assessment-form-mcsa-5870) llenado por tu médico tratante.
 6. **Si usas CPAP**, el reporte de cumplimiento de los últimos 90 días.
 
 ## Cómo llegar en mejores condiciones
@@ -50,4 +50,4 @@ Después del examen, recuerda que en Texas el certificado se reporta al DPS esta
 
 ## Hazlo con nosotros
 
-En Clínica Hispana Nueva Salud Michoacana hacemos el examen DOT en español y te entregamos el certificado el mismo día. Si en el camino sale algo, tenemos el [laboratorio](/services/examenes-sangre) y el [control de presión y diabetes](/services/condiciones-cronicas) en el mismo lugar, para que no pierdas otro día de trabajo. Estamos en 6500 Spencer Hwy Ste 180, Pasadena, abiertos todos los días. Llámanos al **(832) 617-7439** o llega sin cita.
+En Clínica Hispana Nueva Salud Michoacana hacemos el examen DOT en español y te entregamos el certificado al terminar el examen, si no queda nada pendiente. Si en el camino sale algo, tenemos el [laboratorio](/services/examenes-sangre) y el [control de presión y diabetes](/services/condiciones-cronicas) en el mismo lugar, para que no pierdas otro día de trabajo. Estamos en 6500 Spencer Hwy Ste 180, Pasadena, abiertos todos los días. Llámanos al **(832) 617-7439** o llega sin cita.

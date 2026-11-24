@@ -46,7 +46,7 @@ Ask whether the ultrasound comes with a review by the clinic's medical team or c
 
 ### 4. Will someone explain what the scan showed?
 
-Plenty of uninsured patients leave other places holding a report full of unfamiliar words and nobody to ask. Here the study is reviewed during the same visit, and what was seen is explained to you in Spanish. Make the most of that moment: ask what each finding means, whether the scan should be repeated down the road, and what you should keep an eye on at home.
+Plenty of uninsured patients leave other places holding a report full of unfamiliar words and nobody to ask. Here the study is reviewed, and what was seen is explained to you in Spanish. Make the most of that moment: ask what each finding means, whether the scan should be repeated down the road, and what you should keep an eye on at home.
 
 ### 5. What happens if something turns up that needs another test?
 

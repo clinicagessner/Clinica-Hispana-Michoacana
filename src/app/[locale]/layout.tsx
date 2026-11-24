@@ -40,13 +40,13 @@ export async function generateMetadata({
     authors: [{ name: SITE_CONFIG.name }],
     // Search Console verificado por DNS (propiedad de Dominio). Este meta tag
     // es solo un método alternativo opcional; se activa si se define la env.
-    ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
-      ? {
-          verification: {
-            google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,
-          },
-        }
-      : {}),
+    verification: {
+      ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+        ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
+        : {}),
+      // Pinterest: reclamación del sitio (cuenta nuevasaludmichoacana). No quitar.
+      other: { "p:domain_verify": "7f31917f36501daf1db12864362f857c" },
+    },
     openGraph: {
       type: "website",
       siteName: SITE_CONFIG.name,

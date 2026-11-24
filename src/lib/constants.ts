@@ -107,6 +107,7 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/clinicanuevasaludmichoacana/",
   youtube: "https://www.youtube.com/@NuevaSaludMichoacana",
   x: "https://x.com/NSMichoacana",
+  tiktok: "https://www.tiktok.com/@clinicahnsmichoacana",
   yelp: "https://www.yelp.com/biz/cl%C3%ADnica-hispana-nueva-salud-michoacana-pasadena-3",
 } as const;
 

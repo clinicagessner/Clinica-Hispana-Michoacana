@@ -14,7 +14,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 48 — cambios del 2026-11-24 (Yelp en el pie, sameAs y llms)
+## Tanda 48 — cambios del 2026-11-24 (Yelp en el pie, sameAs y llms)  📨 ENVIADA 24/11/2026
 
 - [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-24
 - [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-24

@@ -106,6 +106,7 @@ export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicabuenavidapasadenatx",
   instagram: "https://www.instagram.com/clinicanuevasaludmichoacana/",
   youtube: "https://www.youtube.com/@NuevaSaludMichoacana",
+  yelp: "https://www.yelp.com/biz/cl%C3%ADnica-hispana-nueva-salud-michoacana-pasadena-3",
 } as const;
 
 // Fallback de build para rating/reseñas (comprobado con Places API el

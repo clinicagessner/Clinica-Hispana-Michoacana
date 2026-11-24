@@ -109,6 +109,7 @@ export const SOCIAL_LINKS = {
   x: "https://x.com/NSMichoacana",
   tiktok: "https://www.tiktok.com/@clinicahnsmichoacana",
   pinterest: "https://www.pinterest.com/nuevasaludmichoacana/",
+  nextdoor: "https://nextdoor.com/page/clinica-hispana-nueva-salud-michoacana-pasadena-tx-y66vau/",
   yelp: "https://www.yelp.com/biz/cl%C3%ADnica-hispana-nueva-salud-michoacana-pasadena-3",
 } as const;
 

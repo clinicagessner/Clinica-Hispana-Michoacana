@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 <!-- /tandas:auto -->
 
 ## Tanda 58 — cambios del 2026-11-27 (farmacia en inglés cambiada el 24/11, sin pedir)  📨 ENVIADA 27/11/2026
+- [ ] https://www.clinicamedicamichoacana.com/blog/sangre-en-la-orina-hombre-causas-urgencia  — cambiada 2026-11-27 (post del blog semanal)
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/sangre-en-la-orina-hombre-causas-urgencia  — cambiada 2026-11-27 (post del blog semanal)
 - [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-11-27
 
 ## Tanda 56

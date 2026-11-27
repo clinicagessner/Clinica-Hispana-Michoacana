@@ -14,17 +14,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 55 — cambios del 2026-11-25 (limpieza §9, sin cupo el 24/11)  📨 ENVIADA 26/11/2026
+## Tanda 55 — cambios del 2026-11-25 (limpieza §9, sin cupo el 24/11)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-25
-- [ ] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-25
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-11-24
-- [ ] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-25
+- [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-25
+- [x] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-24
 
 ## Tanda 56
 

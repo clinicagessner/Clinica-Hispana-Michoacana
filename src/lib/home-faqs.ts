@@ -69,10 +69,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Realizan el examen médico de inmigración?",
     answer:
-      "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas; el formulario sellado se entrega en cuanto están todos los resultados.",
+      "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas; el formulario sellado se entrega en cuanto están todos los resultados. Aviso: este servicio está temporalmente pausado hasta nuevo aviso.",
     questionEn: "Do you perform the immigration medical exam?",
     answerEn:
-      "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines; the sealed form is handed over as soon as all results are in.",
+      "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines; the sealed form is handed over as soon as all results are in. Notice: this service is temporarily paused until further notice.",
   },
   {
     question: "¿Son un centro de salud y una clínica abierta para hispanos?",

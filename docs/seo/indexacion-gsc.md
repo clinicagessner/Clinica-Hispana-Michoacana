@@ -7,35 +7,88 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 89 de 104 URLs del sitemap indexadas · 15 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar · 2 desconocida).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-09-21: antiguos (2026-09-21): --sin-fetch):** 43 de 106 URLs del sitemap indexadas · 63 sin indexar (61 sin datos · 1 descubierta sin indexar · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 16 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 28 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+15 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
 ## Tanda 58 — cambios del 2026-11-27 (farmacia en inglés cambiada el 24/11, sin pedir)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.clinicamedicamichoacana.com/blog/sangre-en-la-orina-hombre-causas-urgencia  — cambiada 2026-11-27 (post del blog semanal)
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/sangre-en-la-orina-hombre-causas-urgencia  — cambiada 2026-11-27 (post del blog semanal)
 - [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-11-27
 
-## Tanda 56
+## Tanda 59 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 1 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-23 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/suturas-heridas  — cambiada 2026-09-23 · desconocida · pedida 2026-09-27 · 12 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/sueros-vitaminados  — cambiada 2026-11-03 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-11-03 · 10 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-25 · 6 impr.
-- [ ] https://www.clinicamedicamichoacana.com/services/drenaje-abscesos  — cambiada 2026-09-23 · rastreada 2026-06-24 · rastreada sin indexar · pedida 2026-09-27 · 5 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-11 · 6 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/  — cambiada 2026-11-27
+- [ ] https://www.clinicamedicamichoacana.com/en  — cambiada 2026-11-27
 
-## Tanda 57
+## Tanda 60
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-06 · 4 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-23 · rastreada sin indexar · pedida 2026-10-26 · 0 impr.
-- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/condiciones-cronicas  — cambiada 2026-10-11 · rastreada 2026-09-17 · indexada · pedida 2026-09-25 · 23 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · rastreada 2026-06-23 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/senales-alarma-respiratorias-urgencias-clinica-casa  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/services/cirugias-menores  — cambiada 2026-09-22 · rastreada 2026-08-24 · indexada · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-09-22 · sin datos de inspección · 47 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-22 · sin datos de inspección · 15 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-strep  — cambiada 2026-09-22 · sin datos de inspección · 7 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-22 · sin datos de inspección · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-22 · sin datos de inspección · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-22 · sin datos de inspección · 3 impr.
+
+## Tanda 61
+
+- [ ] https://www.clinicamedicamichoacana.com/en/blog  — cambiada 2026-09-22 · sin datos de inspección · 2 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/tiroides  — cambiada 2026-09-22 · sin datos de inspección · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/senales-alarma-respiratorias-urgencias-clinica-casa  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-22 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/suturas-heridas  — cambiada 2026-09-22 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/unas-encarnadas  — cambiada 2026-09-22 · sin datos de inspección · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02 · rastreada 2026-09-17 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
+
+## Tanda 62
+
+- [ ] https://www.clinicamedicamichoacana.com/promociones  — cambiada 2026-09-22 · descubierta sin indexar · pedida 2026-09-22 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-fisico-escolar  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-13 · 38 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/drenaje-abscesos  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-05 · 29 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/walk-in  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-06 · 26 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-06 · 17 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examenes-sangre  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-06 · 13 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 12 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/salud-hombre  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 11 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/vitamina-b12-pasadena-beneficios-inyecciones  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-03 · 8 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 6 impr.
+
+## Tanda 63
+
+- [ ] https://www.clinicamedicamichoacana.com/en/services/vacunas  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 6 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-25 · 5 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/examen-heces  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 4 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/promociones  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-11-03 · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/cirugias-menores  — cambiada 2026-09-22 · sin datos de inspección · pedida 2026-10-11 · 1 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/consulta-ninos-sin-seguro-que-preguntar  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/infeccion-vejiga-o-rinon-senales-infeccion-subio  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+
+## Tanda 64
+
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/revisar-el-corazon-sin-seguro-que-pedir  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-10-28 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/anticonceptivos  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.clinicamedicamichoacana.com/en/services/sueros-vitaminados  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 

@@ -7,28 +7,18 @@ Propiedad: **prefijo de URL** `https://www.clinicamedicamichoacana.com/` (no de 
 Límite de Google: **10 peticiones de indexación al día** por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 89 de 104 URLs del sitemap indexadas · 15 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar · 2 desconocida).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 89 de 104 URLs del sitemap indexadas · 15 sin indexar (11 rastreada sin indexar · 2 descubierta sin indexar · 2 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 55 — cambios del 2026-11-25 (limpieza §9, sin cupo el 24/11)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
-
-- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-25
-- [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-25
-- [x] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-11-24
-- [x] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-24
+## Tanda 58 — cambios del 2026-11-27 (farmacia en inglés cambiada el 24/11, sin pedir)  📨 ENVIADA 27/11/2026
+- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-11-27
 
 ## Tanda 56
 
-- [ ] https://www.clinicamedicamichoacana.com/en/services/farmacia  — cambiada 2026-11-24 · rastreada 2026-09-07 · indexada · pedida 2026-10-31 · 12 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/prueba-tuberculosis  — cambiada 2026-09-23 · rastreada 2026-08-03 · indexada · 4 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-23 · rastreada 2026-09-17 · indexada · 1 impr.
 - [ ] https://www.clinicamedicamichoacana.com/en/services/curacion-heridas  — cambiada 2026-09-23 · rastreada 2026-06-23 · rastreada sin indexar · 0 impr.
@@ -286,3 +276,15 @@ Bing no necesita esto: se le avisa con IndexNow, que ya está operativo.
 - [x] https://www.clinicamedicamichoacana.com/en/services/examen-dot  — cambiada 2026-11-24
 - [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-24
 - [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
+
+## Tanda 55 — cambios del 2026-11-25 (limpieza §9, sin cupo el 24/11)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
+
+- [x] https://www.clinicamedicamichoacana.com/services/farmacia  — cambiada 2026-11-25
+- [x] https://www.clinicamedicamichoacana.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-25
+- [x] https://www.clinicamedicamichoacana.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/en/blog/ultrasonido-sin-seguro-que-preguntar-antes  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-11-24
+- [x] https://www.clinicamedicamichoacana.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-24
